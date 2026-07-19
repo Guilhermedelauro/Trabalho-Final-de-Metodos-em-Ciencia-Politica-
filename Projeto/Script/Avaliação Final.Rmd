@@ -1,0 +1,37 @@
+---
+title: Avaliação Final
+output: pdf_document
+fontsize: 12pt
+mainfont: "Times New Roman"
+---
+<small>*Guilherme Francisco de Lauro nUSP:15456813 Turno: Noturno*</small>\
+
+<small>*É possível acessar o script em: <https://github.com/Guilhermedelauro/Trabalho-Final-de-Metodos-em-Ciencia-Politica-.git>*</small>\
+
+<small>*O banco de dados utilizado nesta avaliação foi obtido em <https://raw.githubusercontent.com/nayalbrecht/burocraciaBR/main/BASE_cargos2.xlsx>. Data de acesso: 19/07/2025.*</small>
+
+
+```{r, include = FALSE}
+#Instalar bibliotecas caso não tenha
+#install.packages("tidyverse")
+#install.packages("dplyr")
+#install.packages("flextable")
+
+#Carregar as bibliotecas
+library(tidyverse)
+library(dplyr)
+library(flextable)
+```
+**1. Artigo, pergunta e unidade de análise**
+
+```{r, include=FALSE}
+url<- "https://github.com/Guilhermedelauro/Trabalho-Final-de-Metodos-em-Ciencia-Politica-/raw/main/Projeto/Dados/BASE_cargos2(BASE_cargos).csv"
+Banco_dados <- read.csv2(url, fileEncoding = "latin1")
+```
+
+
+**2. Leitura e validação dos dados**
+
+```{r, include=FALSE}
+
+```
