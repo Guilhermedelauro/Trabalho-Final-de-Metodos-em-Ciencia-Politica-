@@ -1,0 +1,1040 @@
+orgao_sup;setor;chave;id;cargo;funcao;nivel;instr;area;inst_ensino;inst_origem;car_pub;partido;cargo_ele;lid_part;exp_adm;exp_car;exp_mer;exp_soc;UF*;partido_pr;partido_ministro;indicacao;entrada;saida;perm
+minc;secdc;Cult-SCC-S1;VSCA;Secretário da Cidadania Cultural;DAS;6;NA;arte;NA;NA;SVE;NA;0;0;1;5;1;1;DF;PT;PV;Lula;12/04/2010;05/05/2011;12,9
+minc;secdc;Cult-SCC-DAC1;OGRJ;Diretor de Acesso à Cultura;DAS;5;especializacao;administracao;UFPA;publica;EPPGG;NA;0;0;1;3;1;NA;DF;PT;PV;Lula;20/04/2010;05/05/2011;12,7
+minc;secdc;Cult-SCC-CGMAR1;JNPE;Coordenador-Geral de de Mobilização e Articulação em Rede;DAS;4;mestrado;arte;UERJ;publica;OUTRO;PCdoB;0;0;1;3;1;1;DF;PT;PV;Lula;08/06/2009;08/07/2011;25,3
+minc;secdc;Cult-SCC-CGGPC1;ECBR; Coordenador-Geral de Gestão de Pontos de Cultura;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;PV;Lula;13/07/2009;11/03/2011;20,2
+minc;secdc;Cult-SCC-CGCC1;ESTO;Coordenador-Geral de Cultura e Cidadania;DAS;4;superior;historia;PUC;privada;SVE;PT;0;0;1;0;0;1;NA;PT;PV;Lula;13/07/2009;05/04/2011;21
+minc;secdc;Cult-SCC-S2;MPPO;Secretário da Cidadania Cultural;DAS;6;especializacao;comunicacao;NA;NA;SVE;PT;0;0;1;5;1;NA;MG;PT;NA;Rousseff;05/05/2011;14/09/2011;4,4
+minc;secdc;Cult-SCC-S3;MHGR;Secretário da Cidadania Cultural;DAS;6;especializacao;arte e servico social;UnB;publica;SVE;NA;0;0;1;5;0;NA;DF;PT;NA;Rousseff;04/10/2011;11/06/2012;8,4
+minc;secdc;Cult-SCC-DAC2;RAMS;Diretor de Acesso à Cultura;DAS;5;NA;NA;NA;NA;NA;NA;0;0;1;5;NA;NA;RJ;PT;NA;Rousseff;05/05/2011;21/11/2011;6,7
+minc;secdc;Cult-SCC-DAC3;IMCA;Diretor de Acesso à Cultura;DAS;5;mestrado;historia;PUC;privada;SVE;NA;0;0;1;3;1;NA;;PT;NA;Rousseff;22/11/2011;11/06/2012;6,7
+minc;secdc;Cult-SCC-CGMAR2;AMTP;Coordenador-Geral de de Mobilização e Articulação em Rede;DAS;4;superior;direito;UniCEUB;privada;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;14/09/2011;21/06/2012;9,4
+minc;secdc;Cult-SCC-CGGPC2;GCOL; Coordenador-Geral de Gestão de Pontos de Cultura;DAS;4;superior;sociologia;NA;NA;SVE;NA;0;0;0;0;1;1;MG;PT;NA;Rousseff;18/03/2011;22/09/2011;6,3
+minc;secdc;Cult-SCC-CGGPC3;MGMM; Coordenador-Geral de Gestão de Pontos de Cultura;DAS;4;superior;direito;UniCEUB;privada;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;17/11/2011;02/07/2012;7,6
+minc;secdc;Cult-SCC-CGCC2;CCPR;Coordenador-Geral de Cultura e Cidadania;DAS;4;especializacao;arte;UNICAMP;publica;SVE;NA;0;0;0;0;1;1;SP;PT;NA;Rousseff;05/04/2011;21/09/2011;5,6
+minc;secdc;Cult-SCC-CGCC3;PDMJ;Coordenador-Geral de Cultura e Cidadania;DAS;4;tecnico;arte;NA;NA;SVE;NA;0;0;1;5;1;NA;CE;PT;NA;Rousseff;24/10/2011;03/07/2012;8,4
+minc;secdc;Cult-SID-S1;ACJT;Secretário da Identidade e da Diversidade Cultural;DAS;6;superior;computacao;Mackenzie;privada;SVE;PT;0;0;1;3;1;NA;DF;PT;NA;Lula;05/12/2008;24/06/2011;31
+minc;secdc;Cult-SID-DMPDI1;RABL;Diretor de Monitoramento de Políticas da Diversidade e Identidade;DAS;5;NA;NA;NA;NA;SVE;PT;NA;NA;1;3;NA;1;DF;PT;NA;Rousseff;14/07/2009;13/04/2011;21,3
+minc;secdc;Cult-SID-CGFIDE1;PDMJ;Coordenador-Geral de Fomento à Identidade e Diversidade Étnica;DAS;4;tecnico;arte;NA;NA;SVE;NA;0;0;1;5;1;NA;DF;PT;NA;Rousseff;17/06/2010;30/03/2011;9,5
+minc;secdc;Cult-SID-CGFIDE2;LLGU;Coordenador-Geral de Fomento à Identidade e Diversidade Étnica;DAS;4;mestrado;administracao;UFCE;publica;SVE;NA;0;0;1;1;1;NA;CE;PT;NA;Lula;30/03/2011;05/10/2011;6,3
+minc;secdc;Cult-SID-CGPDDIC1;JCMG;Coordenador-Geral de Promoção da Diversidade, Difusão e Intercâmbio Cultural ;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;NA;PT;NA;Lula;23/06/2009;18/02/2011;20,2
+minc;secdc;Cult-SID-S2;CSLE;Secretário da Identidade e da Diversidade Cultural;DAS;6;doutorado;direito;UFCE;publica;SVE;NA;0;0;1;5;0;1;CE;PT;NA;Rousseff;06/06/2011;11/06/2012;12,4
+minc;secdc;Cult-SID-DMPDI2;LGOL;Diretor de Monitoramento de Políticas da Diversidade e Identidade;DAS;5;mestrado;economia;NA;NA;OUTRO;NA;0;0;1;0;1;;DF;PT;NA;Rousseff;13/04/2011;11/06/2012;14,2
+minc;secdc;Cult-SID-CGFIDE3;TRAO;Coordenador-Geral de Fomento à Identidade e Diversidade Étnica;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;NA;Rousseff;17/10/2011;20/06/2012;8,2
+minc;secdc;Cult-SID-CGPDDIC2;MBNM;Coordenador-Geral de Promoção da Diversidade, Difusão e Intercâmbio Cultural ;DAS;4;superior;sociais;PUC;privada;SVE;NA;0;0;1;3;1;NA;NA;PT;NA;Rousseff;01/06/2011;21/06/2012;12,9
+minc;secdc;Cult-SCDC-S1;MHGR;Secretário da Cidadania e da Diversidade Cultural;DAS;6;especializacao;arte e servico social;UnB;publica;SVE;NA;0;0;`1;5;NA;NA;DF;PT;NA;Rousseff;11/06/2012;27/01/2015;32
+minc;secdc;Cult-SCDC-CGAF1;MGMM;Coordenador-Geral de Acompanhamento e Fiscalização;DAS;4;superior;direito;UniCEUB;privada;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;03/07/2012;13/06/2013;11,5
+minc;secdc;Cult-SCDC-CGAF1;MNML;Coordenador-Geral de Acompanhamento e Fiscalização;DAS;4;NA;NA;NA;NA;SVE;MDB;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;10/07/2013;19/01/2015;18,6
+minc;secdc;Cult-SCDC-DCDC1;IMCA;Diretor da Cidadania e da Diversidade Cultural ;DAS;5;mestrado;historia;PUC;privada;SVE;NA;0;0;1;5;1;NA;DF;PT;NA;Rousseff;11/06/2012;07/03/2013;9
+minc;secdc;Cult-SCDC-DCDC2;PAVA;Diretor da Cidadania e da Diversidade Cultural ;DAS;5;tecnico;NA;NA;NA;SVE;NA;0;0;0;0;NA;NA;RS;PT;PT;Rousseff;07/03/2013;11/03/2015;24,5
+minc;secdc;Cult-SCDC-CGPPC1;PDMJ;Coordenador-Geral de Programas e Projetos Culturais;DAS;4;tecnico;NA;NA;NA;SVE;NA;0;0;1;5;1;NA;DF;PT;NA;Rousseff;03/07/2012;01/11/2013;16,2
+minc;secdc;Cult-SCDC-CGPPC2;DCDM;Coordenador-Geral de Programas e Projetos Culturais;DAS;4;superior;sociais;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;PT;Rousseff;01/11/2013;10/10/2016;35,8
+minc;secdc;Cult-SCDC-CGCAI1;AMCR;Coordenador-Geral de Cooperação, Articulação e Informação;DAS;4;mestrado;historia;UNESP;publica;SVE;NA;0;0;1;3;NA;NA;NA;PT;NA;Rousseff;09/07/2012;01/11/2013;16
+minc;secdc;Cult-SCDC-CGCAI2;PDMJ;Coordenador-Geral de Cooperação, Articulação e Informação;DAS;4;tecnico;NA;NA;NA;SVE;NA;0;0;1;5;1;NA;DF;PT;PT;Rousseff;01/11/2013;23/03/2015;16,9
+minc;secdc;Cult-SCDC-S2;IBOL;Secretário da Cidadania e da Diversidade Cultural;DAS;6;doutorado;comunicacao;UFRJ;publica;MAG_SUP;PT;0;0;1;0;1;NA;RJ;PT;PT;Rousseff;27/01/2015;02/06/2016;16,4
+minc;secdc;Cult-SCDC-CGAF2;ICRA;Coordenador-Geral de Acompanhamento e Fiscalização;DAS;4;superior;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;14/04/2015;10/10/2016;18,2
+minc;secdc;Cult-SCDC-DCDC3;ASSR;Diretor da Cidadania e da Diversidade Cultural;DAS;5;mestrado;arte;UNIRIO;publica;SVE;NA;0;0;1;3;1;1;RJ;PT;PT;Rousseff;12/03/2015;17/05/2016;14,4
+minc;secdc;Cult-SCDC-CGCAI3;CMMO;Coordenador-Geral de Cooperação, Articulação e Informação;DAS;4;superior;comunicacao;NA;NA;SVE;NA;0;0;0;0;1;NA;AM;PT;PT;Rousseff;14/09/2015;07/04/2016;6,9
+minc;secdc;Cult-SCDC-CGCAI4;DPFA;Coordenador-Geral de Cooperação, Articulação e Informação;DAS;4;tecnico;NA;NA;NA;SVE;NA;0;0;1;3;NA;1;SP;PT;PT;Rousseff;07/04/2016;13/05/2016;1,2
+minc;secdc;Cult-SCDC-CGCAI5;MNLC;Coordenador-Geral de Cooperação, Articulação e Informação;DAS;4;superior;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;15/07/2016;17/08/2016;1,1
+minc;secdc;Cult-SCDC-S3;RBIT;Secretário de Cidadania e Diversidade Cultural;DAS;6;doutorado;comunicacao;ESPM;privada;SVE;NA;0;0;1;3;1;NA;SP;MDB;MDB;Temer;26/08/2016;27/12/2016;4,1
+minc;secdc;Cult-SCDC-CGAPC1;NPSI;Coordenador-Geral de Acompanhamento e Prestação de Contas;FCPE;4;superior;direito;Euro-Americano;privada;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;07/11/2016;06/11/2017;12,1
+minc;secdc;Cult-SCDC-CGAI1;SCCH;Coordenador-Geral de Acessibilidade e Inclusão;DAS;4;especializacao;administracao;PUC;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;MDB;Temer;15/09/2016;17/03/2017;6,1
+minc;secdc;Cult-SCDC-CGAI2;AHOM;Coordenador-Geral de Acessibilidade e Inclusão;DAS;4;tecnico;NA;NA;NA;SVE;PPS;1;0;0;0;1;NA;MG;MDB;MDB;Temer;17/03/2017;06/07/2018;15,9
+minc;secdc;Cult-SCDC-DDC1;RCGC;Diretor de Diversidade Cultural;DAS;5;tecnico;NA;NA;NA;SVE;NA;0;0;1;5;1;NA;RJ;MDB;MDB;Temer;18/11/2016;08/12/2016;0,7
+minc;secdc;Cult-SCDC-CGPCDC1;DCDM; Coordenador-Geral de Promoção da Cidadania e da Diversidade Cultural;DAS;4;superior;sociais;UnB;publica;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;10/10/2016;12/05/2017;7,1
+minc;secdc;Cult-SCDC-CGM1;MNLC;Coordenador-Geral de Mobilização;DAS;4;superior;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;17/08/2016;21/09/2016;1,2
+minc;secdc;Cult-SCDC-CGM2;JAFS;Coordenador-Geral de Mobilização;DAS;4;tecnico;NA;NA;NA;SVE;NA;0;0;0;0;1;NA;RJ;MDB;MDB;Temer;21/09/2016;11/05/2018;19,9
+minc;secdc;Cult-SCDC-CGCE1;VLBA;Coordenador-Geral de Cultura e Educação;DAS;4;doutorado;psicologia;UNITAU;publica;MAG_SUP;NA;0;0;1;3;0;1;DF;MDB;MDB;Rousseff;08/07/2015;15/03/2017;20,5
+minc;secdc;Cult-SEC-DLLLB1;COSB;Diretor de Livro, Leitura, Literatura e Bibliotecas;DAS;5;doutorado;direito;UDF;privada;OUTRO;NA;0;0;1;NA;1;NA;DF;MDB;MDB;Temer;18/11/2016;15/08/2017;9
+minc;secdc;Cult-DLLB-CGLLEL1;MRBM;Coordenador-Geral de Leitura, Literatura e Economia do Livro;DAS;4;mestrado;letras;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;MDB;Temer;15/09/2016;07/11/2017;13,9
+minc;secdc;Cult-DLLLB-CGSNBP1;VBES;Coordenador-Geral do Sistema Nacional de Bibliotecas Públicas;FCPE;4;superior;biblioteconomia;UNIRIO;publica;VINC;NA;0;0;1;0;NA;NA;NA;MDB;MDB;Temer;15/09/2016;31/05/2017;8,6
+minc;secdc;Cult-SCDC-S4;LRGO;Secretário de Cidadania e Diversidade Cultural;DAS;6;especializacao;direito;FAAP;privada;SVE;PPS;1;1;NA;NA;1;NA;MS;MDB;PPS;Temer;27/12/2016;06/01/2017;0,3
+minc;secdc;Cult-SCDC-S5;DFPA;Secretário de Cidadania e Diversidade Cultural;DAS;6;superior;sociais;NA;NA;SVE;PPS;1;NA;NA;NA;NA;NA;PE;MDB;PPS;Temer;17/01/2017;02/07/2018;17,7
+minc;secdc;Cult-SCDC-CGAPC2;EFBO;Coordenador-Geral de Acompanhamento e Prestação de Contas;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;PPS;Temer;24/11/2017;17/07/2018;7,8
+minc;secdc;Cult-SCDC-CGCE2;RCFM;Coordenador-Geral de Cultura e Educação;DAS;4;mestrado;direito;Católica;privada;SVE;PPS;0;0;1;3;0;NA;PE;MDB;PPS;Temer;15/03/2017;31/05/2017;2,6
+minc;secdc;Cult-SCDC-DDC1;DNBU;Diretor da Diversidade Cultural ;DAS;5;mestrado;direito;Centro Universitário Curitiba;privada;SVE;PPS;1;0;1;NA;0;NA;PR;MDB;PPS;Temer;16/05/2017;11/10/2017;4,9
+minc;secdc;Cult-SCDC-CGPCDC2;RCFM; Coordenador-Geral de Promoção da Cidadania e da Diversidade Cultural;DAS;4;mestrado;direito;Católica;privada;SVE;PPS;0;0;1;3;0;NA;DF;MDB;PPS;Temer;31/05/2017;11/10/2017;4,4
+minc;secdc;Cult-SCDC-DDC2;RCFM;Diretor da Diversidade Cultural ;DAS;5;mestrado;direito;Católica;privada;SVE;PPS;0;0;1;3;0;NA;DF;MDB;NA;Temer;11/10/2017;09/08/2018;10,1
+minc;secdc;Cult-SCDC-CGPCDC3;JPPR; Coordenador-Geral de Promoção da Cidadania e da Diversidade Cultural;DAS;4;superior;producao cultural;UFF;publica;SVE;NA;0;0;1;NA;1;1;RJ;MDB;NA;Temer;13/10/2017;09/08/2018;10
+minc;secdc;Cult-SDC-S1;MGMM;Secretário de Diversidade Cultural;DAS;6;superior;direito;UniCEUB;privada;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;10/07/2018;20/02/2019;7,5
+minc;secdc;Cult-SDC-CGAPC1;ADMO;Coordenador-Geral de Acompanhamento e Prestação de Contas;FCPE;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;09/08/2018;08/06/2020;22,3
+minc;secdc;Cult-SDC-DSNC1;COCS;Diretor do Sistema Nacional de Cultura;DAS;5;tecnico;NA;NA;NA;SVE;NA;0;0;1;NA;NA;NA;DF;MDB;NA;Temer;09/08/2018;21/01/2019;5,5
+minc;secdc;Cult-SDC-CGCPD1;GCNO;Coordenador-Geral de Cultura Popular e Diversidade;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;17/07/2018;25/07/2018;0,3
+minc;secdc;Cult-SDC-CGSNC1;GCNO;Coordenador-Geral do Sistema Nacional de Cultura;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;25/07/2018;NA;NA
+minc;secdc;Cult-SDC-CGASNC1;EFRE;Coordenador-Geral de Articulação do Sistema Nacional de Cultura;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;10/07/2018;04/02/2020;19,1
+minc;secdc;Cult-SDC-DPDC1;RCFM;Diretor de Promoção da Diversidade Cultural ;DAS;5;mestrado;direito;Católica;privada;SVE;PPS;0;0;1;5;0;NA;DF;MDB;NA;Temer;09/08/2018;23/12/2019;16,7
+minc;secdc;Cult-SCDC-CGPNCV1;JPPR;Coordenador-Geral da Política Nacional de Cultura Viva;DAS;4;superior;producao cultural;UFF;publica;SVE;NA;0;0;1;3;1;1;DF;MDB;NA;Temer;09/08/2018;27/11/2019;15,8
+minc;secdc;Cult-SDC-CGCPD2;SCCH;Coordenador-Geral de Cultura Popular e Diversidade;DAS;4;especializacao;administracao;PUC;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;24/07/2018;NA;NA
+minc;secdc;Cult-SDC-CGCEAI1;GDUP;Coordenador-Geral de Cultura, Educação, Acessibilidade e Inclusão;DAS;4;mestrado;comunicacao;UFMG;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;11/07/2018;11/02/2021;31,5
+minc;secdc;Cult-SDC-S2;GCAM;Secretário de Diversidade Cultural;DAS;6;NA;NA;NA;NA;OUTRO;PODE;0;0;1;NA;NA;NA;DF;PSL;NA;Bolsonaro;20/02/2019;27/11/2019;9,3
+minc;secdc;Cult-SDC-DSNC2;MGOL;Diretor do Sistema Nacional de Cultura;DAS;5;especializacao;direito;Fundação Educacional Machado de Assis;privada;SVE;NA;NA;NA;1;NA;1;1;RS;PSL;NA;Bolsonaro;22/01/2019;09/10/2019;8,7
+minc;secdc;Cult-SDC-S3;JRSI;Secretário de Diversidade Cultural;DAS;6;NA;NA;NA;NA;SVE;PATRI;0;0;0;0;NA;1;MG;PSL;NA;Bolsonaro;27/11/2019;07/02/2020;2,4
+minc;secdc;Cult-SDC-DPDC2;ESBS;Diretor de Promoção da Diversidade Cultural ;DAS;5;superior;imobiliaria;UFMA;publica;SVE;AVAN;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;10/01/2020;04/03/2020;1,8
+minc;secdc;Cult-SDC-DSNC3;PSAM;Diretor do Sistema Nacional de Cultura;DAS;5;tecnico;NA;NA;NA;SVE;MDB;1;0;0;0;NA;NA;RS;PSL;NA;Bolsonaro;09/10/2019;02/01/2020;2,8
+minc;secdc;Cult-SDC-DSNC4;RFVA;Diretor do Sistema Nacional de Cultura;DAS;5;especializacao;direito;UniCEUB;privada;SVE;PSL;0;0;0;0;0;1;DF;PSL;NA;Bolsonaro;10/01/2020;04/03/2020;1,8
+minc;secdc;Cult-SDC-DSNC5;AAPL;Diretor do Sistema Nacional de Cultura;DAS;5;especializacao;direito;Universidade Santa Úrsula;privada;SVE;NA;0;0;1;3;1;NA;NA;PSL;NA;Bolsonaro;08/04/2020;15/07/2020;3,3
+minc;secdc;Cult-SDC-CGPNCV2;MNWA;Coordenador-Geral da Política Nacional de Cultura Viva;DAS;4;especializacao;direito;UFBA;publica;OUTRO;NA;0;0;1;3;1;NA;BA;PSL;NA;Bolsonaro;19/12/2019;04/03/2020;2,5
+minc;secdc;Cult-SEC-S1;CSLE;Secretário de Economia Criativa;DAS;6;doutorado;direito;UFCE;publica;SVE;NA;0;0;1;5;0;1;DF;PT;NA;Rousseff;11/06/2012;02/09/2013;14,9
+minc;secdc;Cult-SEC-DDM1;LGOL;Diretor de Desenvolvimento e Monitoramento;DAS;5;mestrado;economia;NA;NA;OUTRO;NA;0;0;1;5;1;;DF;PT;NA;Rousseff;11/06/2012;04/08/2014;26,1
+minc;secdc;Cult-SEC-CGAE1;MAQU;Coordenador-Geral de Ações Estruturantes;DAS;4;mestrado;servico social;UFBA;publica;SVE;NA;0;0;1;3;1;;DF;PT;NA;Rousseff;20/06/2012;29/10/2013;16,5
+minc;secdc;Cult-SEC-CGDPI1;TRAO;Coordenador-Geral de Desenvolvimento de Projetos Integrados;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;NA;Rousseff;20/06/2012;09/05/2014;22,9
+minc;secdc;Cult-SEC-DEGI1;LLGU;Diretor de Empreededorismo, Gestão e Inovação;DAS;5;mestrado;administracao;UFCE;publica;SVE;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;11/06/2012;04/09/2013;15
+minc;secdc;Cult-SEC-CGAE1;MSNU;Coordenador-Geral de Ações Empreendedoras;DAS;4;superior;NA;NA;NA;NA;NA;0;0;NA;NA;NA;NA;DF;PT;NA;Rousseff;21/06/2012;28/10/2013;16,5
+minc;secdc;Cult-SEC-CGPD1;MBNM;Coordenador-Geral de Promoção e Difusão;DAS;4;superior;sociais;PUC;privada;SVE;NA;0;0;1;3;1;NA;NA;PT;NA;Rousseff;21/06/2012;20/03/2013;9,1
+minc;secdc;Cult-SEC-CGPD2;MBCO;Coordenador-Geral de Promoção e Difusão;DAS;4;especializacao;NA;NA;NA;SVE;NA;0;0;0;0;1;NA;NA;PT;PT;Rousseff;20/03/2013;04/06/2013;2,5
+minc;secdc;Cult-SEC-S2;MARC;Secretário de Economia Criativa;DAS;6;superior;comunicacao;PUC;privada;SVE;NA;0;0;NA;NA;NA;NA;NA;PT;PT;Rousseff;02/09/2013;03/03/2015;18,2
+minc;secdc;Cult-SEC-DDM2;MVFN;Diretor de Desenvolvimento e Monitoramento;DAS;5;superior;NA;NA;NA;SVE;NA;0;0;0;NA;1;NA;DF;PT;PT;Rousseff;04/08/2014;16/03/2015;7,5
+minc;secdc;Cult-SEC-CGAE2;ITLT;Coordenador-Geral de Ações Estruturantes ;DAS;4;mestrado;arquitetura;USP;publica;OUTRO;NA;0;0;1;3;0;1;DF;PT;PT;Rousseff;05/12/2013;02/01/2014;0,9
+minc;secdc;Cult-SEC-CGAE3;GBLU;Coordenador-Geral de Ações Estruturantes ;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;NA;NA;1;NA;NA;PT;PT;Rousseff;02/01/2014;01/08/2014;7
+minc;secdc;Cult-SEC-CGAE4;GPVI;Coordenador-Geral de Ações Estruturantes ;DAS;4;especializacao;relacoes internacionais;UnB;publica;SVE;NA;0;0;`1;5;0;1;DF;PT;PT;Rousseff;01/08/2014;05/05/2015;9,2
+minc;secdc;Cult-SEC-CGDPI2;KFRO;Coordenador-Geral de Desenvolvimento de Projetos Integrados;DAS;4;especializacao;administracao;Faculdade JK;privada;SVE;NA;0;0;1;3;0;NA;GO;PT;PT;Rousseff;11/06/2014;26/07/2016;25,9
+minc;secdc;Cult-SEC-DEGI2;GHNI;Diretor de Empreededorismo, Gestão e Inovação;DAS;5;especializacao;comunicacao;PUC;privada;SVE;NA;0;0;0;0;1;1;RJ;PT;PT;Rousseff;04/09/2014;02/02/2016;17,2
+minc;secdc;Cult-SEC-CGAE2;DRPS;Coordenador-Geral de Ações Empreendedoras;DAS;4;superior;producao cultural;UFF;publica;SVE;NA;0;0;0;0;0;1;RJ;PT;PT;Rousseff;04/11/2013;11/02/2015;15,5
+minc;secdc;Cult-SEC-CGAE3;GPVI;Coordenador-Geral de Ações Empreendedoras;DAS;4;mestrado;relacoes internacionais;UnB;publica;SVE;NA;0;0;`1;5;0;1;DF;PT;PT;Rousseff;05/05/2015;08/07/2015;2,1
+minc;secdc;Cult-SEC-CGPD3;MSRI;Coordenador-Geral de Promoção e Difusão;DAS;4;mestrado;comunicacao;UEL;publica;SVE;NA;0;0;0;0;1;NA;DF;PT;PT;Rousseff;13/11/2013;13/02/2015;15,2
+minc;secdc;Cult-SEC-S3;JNPE;Secretário de Economia Criativa;DAS;6;mestrado;arte;UERJ;publica;OUTRO;PCdoB;0;0;1;5;1;1;DF;PT;PT;Rousseff;17/03/2015;17/05/2016;14,2
+minc;secdc;Cult-SEC-DDM3;RFOL;Diretor de Desenvolvimento e Monitoramento;DAS;5;superior;NA;NA;NA;SVE;PCdoB;1;0;1;5;1;NA;DF;PT;PT;Rousseff;03/06/2015;17/05/2016;11,6
+minc;secdc;Cult-SEC-CGAE5;GHAJ;Coordenador-Geral de Ações Estruturantes ;DAS;4;especializacao;economia;UniCEUB;privada;EPPGG;NA;0;0;1;3;0;NA;DF;PT;PT;Rousseff;03/06/2015;01/02/2016;8,1
+minc;secdc;Cult-SEC-CGAE6;ISAC;Coordenador-Geral de Ações Estruturantes;DAS;4;tecnico;NA;NA;NA;SVE;PCdoB;NA;NA;1;3;NA;1;SP;PT;PT;Rousseff;01/02/2016;13/05/2016;3,4
+minc;secdc;Cult-SEC-CGPD4;RFLI;Coordenador-Geral de Promoção e Difusão;DAS;4;superior;administracao;FGV;privada;EPPGG;PT;0;0;1;3;0;NA;DF;PT;PT;Rousseff;22/05/2015;29/07/2016;14,5
+minc;secdc;Cult-SEC-S4;CLVA;Secretário de Economia da Cultura;DAS;6;doutorado;direito;UFBA;publica;SVE;NA;0;0;1;3;1;`1;RJ;MDB;MDB;Temer;27/09/2016;14/12/2016;2,6
+minc;secdc;Cult-SEC-CGML1;LAAB;Coordenador-Geral de Marcos Legais;DAS;4;superior;direito;UNIP;privada;SVE;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;06/10/2016;05/05/2017;7
+minc;secdc;Cult-SEC-CGAPC2;ECME;Coordenador-Geral de Acompanhamento e Prestação de Contas;FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;1;NA;1;DF;MDB;MDB;Temer;26/09/2016;09/03/2017;5,5
+minc;secdc;Cult-SEC-CGAPC3;MNMB;Coordenador-Geral de Acompanhamento e Prestação de Contas;FCPE;4;especializacao;ambiental;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;PPS;Temer;09/03/2017;26/06/2020;40,2
+minc;secdc;Cult-SEC-CGES1;TRSI;Coordenador-Geral de Empreendedorismo e Sustentabilidade;DAS;4;mestrado;ciencia politica;NA;NA;EPPGG;NA;0;0;1;3;0;NA;DF;MDB;MDB;Temer;10/10/2016;05/05/2017;6,9
+minc;secdc;Cult-SEC-CGPNM1;GHAJ;Coordenador-Geral de Pesquisa e Novos Modelos;DAS;4;especializacao;economia;UniCEUB;privada;EPPGG;NA;0;0;1;3;0;NA;DF;MDB;MDB;Temer;19/09/2016;05/05/2017;7,6
+minc;secdc;Cult-SEC-DEP1;ALNF;Diretor de Estratégia Produtiva;DAS;5;doutorado;direito;UFRGS;publica;SVE;NA;0;0;1;3;1;NA;SP;MDB;MDB;Temer;18/11/2016;26/06/2018;19,5
+minc;secdc;Cult-SEC-CGFTGP1;GDUP;Coordenador-Geral de Formação Técnica, Gestão e Produção;DAS;4;mestrado;comunicacao;UFMG;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;MDB;Temer;15/09/2016;23/06/2017;9,4
+minc;secdc;Cult-SEC-S5;MABA;Secretário de Economia da Cultura;DAS;6;especializacao;comunicacao;ESPM;privada;SVE;NA;0;0;1;0;1;1;SP;MDB;PPS;Temer;10/01/2017;02/07/2018;17,9
+minc;secdc;Cult-SEC-CGML2;LELR;Coordenador-Geral de Marcos Legais;DAS;4;superior;NA;NA;NA;SVE;NA;0;0;NA;NA;NA;NA;DF;MDB;NA;Temer;05/09/2017;09/08/2018;11,3
+minc;secdc;Cult-SEC-CGES2;LMBA;Coordenador-Geral de Empreendedorismo e Sustentabilidade;DAS;4;mestrado;direito;PUC;privada;SVE;NA;0;0;1;NA;0;NA;SP;MDB;PPS;Temer;16/05/2017;05/09/2017;3,7
+minc;secdc;Cult-SEC-CGES3;ACAM;Coordenador-Geral de Empreendedorismo e Sustentabilidade;DAS;4;superior;economia;Católica;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;15/09/2017;02/01/2018;3,6
+minc;secdc;Cult-SEC-CGES4;HGSA;Coordenador-Geral de Empreendedorismo e Sustentabilidade;DAS;4;superior;biblioteconomia;NA;NA;SVE;NA;0;0;1;NA;NA;NA;RJ;MDB;NA;Temer;03/01/2018;09/08/2018;7,3
+minc;secdc;Cult-SEC-DSI1;LMBA;Diretor de Sustentabilidade e Inovação;DAS;5;mestrado;direito;PUC;privada;OUTRO;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;05/09/2017;10/07/2018;10,3
+minc;secdc;Cult-SEC-CGFTGP2;JECG;Coordenador-Geral de Formação Técnica, Gestão e Produção;DAS;4;mestrado;sociais;UFBA;publica;SE_INT;NA;0;0;1;3;1;1;DF;MDB;NA;Temer;25/09/2017;10/07/2018;9,6
+minc;secdc;Cult-SEC-CGPNM2;ASGU;Coordenador-Geral de Pesquisa e Novos Modelos;DAS;4;especializacao;comunicacao;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;28/08/2017;09/08/2018;11,5
+minc;secdc;Cult-SEC-CGDS1;FNSO;Coordenador-Geral de Desenvolvimento Setorial;DAS;4;superior;direito;FMU;privada;SVE;NA;0;0;0;0;1;NA;SP;MDB;PPS;Temer;03/02/2017;05/07/2017;5,1
+minc;secdc;Cult-SEC-S6;DRCA;Secretário de Economia Criativa;DAS;6;especializacao;direito;FDCM;privada;SVE;NA;0;0;1;5;1;NA;DF;MDB;NA;Temer;10/07/2018;31/12/2018;5,8
+minc;secdc;Cult-SEC-DEC1;LMBA;Diretor de Empreendedorismo Cultural;DAS;5;mestrado;direito;PUC;privada;SVE;NA;0;0;1;5;0;NA;DF;MDB;NA;Temer;10/07/2018;08/10/2018;3
+minc;secdc;Cult-SEC-DEC2;EBLE;Diretor de Empreendedorismo Cultural;DAS;5;especializacao;comunicacao;PUC;privada;SVE;NA;0;0;1;3;1;NA;RS;MDB;NA;Temer;09/10/2018;29/03/2019;5,7
+minc;secdc;Cult-SEC-CGEI1;ASGU;Coordenador-Geral de Empreendedorismo e Inovação;DAS;4;especializacao;comunicacao;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;09/08/2018;16/04/2019;8,3
+minc;secdc;Cult-SEC-CGEM1;LELR;Coordenador-Geral de Estudos e Monitoramento;DAS;4;superior;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;09/08/2018;04/09/2020;25,2
+minc;secdc;Cult-SEC-DLLLB2;GROL;Diretor de Livro, Leitura e Literatura;DAS;5;superior;NA;NA;NA;OUTRO;NA;0;0;1;;;;PA;MDB;NA;Temer;15/09/2017;06/05/2019;19,9
+minc;secdc;Cult-SEC-CGLEL1;ACAM;Coordenador-Geral de Leitura, Literatura e Economia do Livro;DAS;4;superior;economia;Católica;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;02/01/2018;NA;NA
+minc;secdc;Cult-SEC-CGSNBP2;AMCS;Coordenador-Geral do Sistema Nacional de Bibliotecas Públicas;FCPE;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;23/11/2018;NA;NA
+minc;secdc;Cult-SEC-S7;CASC;Secretário de Economia Criativa;DAS;6;superior;direito;UFSM;publica;SVE;MDB;1;1;1;5;1;1;RS;PSL;NA;Bolsonaro;03/10/2019;27/11/2019;1,8
+minc;secdc;Cult-SEC-CGEI1;RPBA;Coordenação-Geral de Empreendedorismo e Inovação;DAS;4;superior;direito;NA;NA;SVE;NA;0;0;1;3;0;1;RS;PSL;NA;Bolsonaro;18/10/2019;27/11/2019;1,3
+minc;secdc;Cult-SEC-S8;RCPE;Secretário de Economia Criativa;DAS;6;doutorado;agronomia;Fundação Gammon;privada;SVE;PATRI;1;0;1;0;0;NA;NA;PSL;NA;Bolsonaro;27/11/2019;04/03/2020;3,3
+minc;secdc;Cult-SEC-CGAPC4;MNMB; Coordenador-Geral de Acompanhamento e Prestação de Contas;FCPE;4;especializacao;ambiental;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PSL;NA;Bolsonaro;15/01/2020;26/06/2020;5,4
+minc;secdc;Cult-SEC-DEC3;SFFE;Diretor de Empreendedorismo Cultural;DAS;5;superior;NA;NA;NA;SVE;NA;0;0;0;0;0;1;DF;PSL;NA;Bolsonaro;04/11/2019;22/06/2021;19,9
+minc;secdc;Cult-SEC-CGEI2;ALPL;Coordenação-Geral de Empreendedorismo e Inovação;DAS;4;superior;medicina; Escola de Medicina da Santa Casa;publica;SVE;NA;NA;NA;NA;NA;NA;NA;;PSL;NA;Bolsonaro;27/11/2019;27/01/2020;2
+minc;secdcdc;Cult-SECDC-S9;ALVA;Secretario Nacional da Economia Criativa e Diversidade Cultural;DAS;6;mestrado;relacoes internacionais;Metropolitanas Unidas;privada;SVE;PSDB;0;0;1;5;1;1;SP;PSL;NA;Bolsonaro;06/03/2020;07/02/2022;23,4
+minc;secdcdc;Cult-SEC-CGEI3;ASNE;Coordenação-Geral de Empreendedorismo e Inovação;DAS;4;superior;sociais;UnB;publica;EPPGG;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;29/04/2020;13/10/2020;5,6
+minc;secdcdc;Cult-SECDC-DLLLB3;EJSU;Diretor de Livro, Leitura, Literatura e Bibliotecas*;DAS;5;doutorado;biblioteconomia;UnB;publica;MAG_SUP;NA;0;0;1;5;0;NA;DF;PSL;PP;Bolsonaro;20/08/2020;NA;NA
+minc;secdcdc;Cult-SECDC-CGM1;MNMB;Coordenador-Geral de Monitoramento;FCPE;4;especializacao;ambiental;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PSL;PP;Bolsonaro;26/06/2020;NA;NA
+minc;secdcdc;Cult-SECDC-CGEM2;LJSS;Coordenador-Geral de Estudos e Monitoramento;DAS;4;especializacao;contabeis;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;PP;Bolsonaro;25/01/2021;NA;NA
+minc;secdcdc;Cult-SECDC-DSNC6;BBAG;Diretor do Sistema Nacional de Cultura;DAS;5;NA;direito;NA;NA;SVE;NA;0;0;0;0;NA;NA;NA;PSL;PP;Bolsonaro;29/07/2020;NA;NA
+minc;secdcdc;Cult-SECDC-DPDC3;EZVC;Diretor de Promoção da Diversidade Cultural ;DAS;5;especializacao;NA;NA;NA;MIL;NA;1;0;1;5;NA;NA;DF;PSL;PP;Bolsonaro;11/09/2020;NA;NA
+minc;secdcdc;Cult-SDC-CGPNCV3;MSFP;Coordenador-Geral da Política Nacional de Cultura Viva;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;0;0;NA;NA;SC;PSL;PP;Bolsonaro;22/07/2020;NA;NA
+minc;secdcdc;Cult-SECDC-CGCEAI2;ECBA;Coordenador-Geral de Cultura, Educação, Acessibilidade e inclusão ;DAS;4;especializacao;direito;UniCEUB;privada;SVE;NA;0;0;0;0;NA;NA;DF;PSL;PP;Bolsonaro;11/02/2021;NA;NA
+minc;sav;Cult-SAV-S1;NGCA;Secretário do Audiovisual;DAS;6;doutorado;cinema;USP;publica;SVE;PPS;0;0;0;0;1;1;SP;PT;PV;Lula;12/05/2010;02/02/2011;8,9
+minc;sav;Cult-SAV-DPPA1;APDS;Diretor de Programas e Projetos Audiovisuais;DAS;5;especializacao;direito e relações internacionais;Euro-Americano;privada;SVE;NA;0;0;1;3;0;NA;DF;PT;PV;Lula;24/06/2010;02/02/2011;7,4
+minc;sav;Cult-SAV-CGPA1;JMAG;Coordenador-Geral de Políticas Audiovisuais;DAS;4;mestrado;comunicacao;PUC;privada;EPPGG;NA;0;0;1;0;1;1;DF;PT;PV;Lula;13/08/2009;17/05/2011;21,4
+minc;sav;Cult-SAV-CGFPA1;DPET;Coordenador-Geral de Fomento a Projetos Audiovisuais;DAS;4;especializacao;comunicacao;PUC;privada;SVE;PT;0;0;1;NA;1;NA;NA;PT;PV;Lula;08/07/2009;13/06/2011;23,5
+minc;sav;Cult-SAV-CGAAE1;LCTO;Coordenador-Geral de Assuntos Audiovisuais no Exterior;DAS;4;NA;NA;NA;NA;NA;NA;0;0;NA;NA;NA;NA;NA;PT;PV;Lula;14/07/2010;04/04/2011;8,8
+minc;sav;Cult-SAV-CGTPD1;AAMA;Coordenador-Geral de TV e Plataformas Digitais;DAS;4;superior;comunicacao;PUC;privada;SVE;NA;0;0;1;NA;1;NA;DF;PT;PV;Lula;04/08/2010;20/04/2011;8,6
+minc;sav;Cult-SAV-GCT1;GDAH;Gerente do Centro tecnico;DAS;4;NA;NA;NA;NA;SVE;PSDB;0;0;1;5;1;1;NA;PT;PV;Lula;15/02/2008;12/07/2011;41,4
+minc;sav;Cult-SAV-GCB1;CWMA;Gerente da Cinemateca Brasileira;DAS;4;superior;administracao;FGV;privada;OUTRO;NA;0;0;1;3;1;NA;SP;PT;PV;Lula;21/05/2007;16/01/2013;68,9
+minc;sav;Cult-SAV-S2;APDS;Secretário do Audiovisual;DAS;6;especializacao;direito e relações internacionais;Euro-Americano;privada;SVE;NA;0;0;1;5;0;NA;DF;PT;NA;Rousseff;02/02/2011;01/11/2012;21,3
+minc;sav;Cult-SAV-DPPA2;JNPE;Diretor de Programas e Projetos Audiovisuais;DAS;4;mestrado;arte;UERJ;publica;OUTRO;PCdoB;0;0;1;3;0;1;DF;PT;NA;Rousseff;11/06/2011;28/10/2011;4,6
+minc;sav;Cult-SAV-DPPA3;JNPE;Diretor de Programas e Projetos Audiovisuais;DAS;5;mestrado;arte;UERJ;publica;OUTRO;PCdoB;0;0;1;5;0;1;DF;PT;NA;Rousseff;04/11/2011;NA;NA
+minc;sav;Cult-SAV-CGPA2;BFMA;Coordenador-Geral de Políticas Audiovisuais;DAS;4;superior;administracao;UFRJ;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PT;NA;Rousseff;17/05/2011;31/05/2012;12,7
+minc;sav;Cult-SAV-CGFPA2;SCCH;Coordenador-Geral de Fomento a Projetos Audiovisuais;DAS;4;especializacao;administracao;PUC;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PT;NA;Rousseff;30/06/2011;03/07/2012;12,3
+minc;sav;Cult-SAV-CGAAE2;SBCO;Coordenador-Geral de Assuntos Audiovisuais no Exterior;DAS;4;mestrado;ciencia politica;USP;publica;EPPGG;NA;0;1;3;0;NA;NA;DF;PT;NA;Rousseff;04/04/2011;01/03/2012;11,1
+minc;sav;Cult-SAV-CGAAE3;ERSI;Coordenador-Geral de Assuntos Audiovisuais no Exterior;DAS;4;NA;NA;NA;NA;NA;NA;NA;NA;1;3;NA;NA;DF;PT;NA;Rousseff;01/03/2012;21/06/2012;3,7
+minc;sav;Cult-SAV-CGTPD2;TPCR;Coordenador-Geral de TV e Plataformas Digitais;DAS;4;mestrado;direito;UNICAMP;publica;SVE;NA;0;0;0;0;1;NA;SP;PT;NA;Rousseff;20/06/2011;29/06/2012;12,5
+minc;sav;Cult-SAV-DGPA1;LATQ;Diretor de Gestão de Políticas Audiovisuais;DAS;5;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;11/06/2012;23/01/2013;7,5
+minc;sav;Cult-SAV-CGDSA1;AMTP;Coordenador-Geral de Desenvolvimento Sustentável do Audiovisual;DAS;4;superior;direito;UniCEUB;privada;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;21/06/2012;07/02/2013;7,7
+minc;sav;Cult-SAV-CGIFAA1;SCCH;Coordenador-Geral de Incentivo e Fomento às Atividades Audiovisuais;DAS;4;especializacao;administracao;PUC;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PT;NA;Rousseff;03/07/2012;23/01/2013;6,8
+minc;sav;Cult-SAV-CGICPA1;TPCR;Coordenador-Geral de Inovação, Convergência e Plataformas Audiovisuais;DAS;4;mestrado;direito;UNICAMP;publica;SVE;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;29/06/2012;05/05/2014;22,5
+minc;sav;Cult-SAV-CGCT1;LBCO;Coordenador-Geral do Centro tecnico;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;06/06/2012;14/05/2013;11,4
+minc;sav;Cult-SAV-S3;LNSF;Secretário do Audiovisual;DAS;6;superior;NA;NA;NA;SVE;PT;0;0;1;5;1;1;NA;PT;PT;Rousseff;20/12/2012;08/10/2013;9,7
+minc;sav;Cult-SAV-DGPA2;JBSI;Diretor de Gestão de Políticas Audiovisuais;DAS;5;especializacao;administracao;NA;NA;OUTRO;NA;NA;NA;1;0;NA;NA;GO;PT;PT;Rousseff;21/02/2013;15/09/2016;43,4
+minc;sav;Cult-SAV-CGDSA2;LCTO;Coordenador-Geral de Desenvolvimento Sustentável do Audiovisual;DAS;4;NA;NA;NA;NA;NA;NA;0;0;1;3;NA;NA;NA;PT;PT;Rousseff;07/02/2013;09/05/2013;3
+minc;sav;Cult-SAV-CGDSA3;RFBO;Coordenador-Geral de Desenvolvimento Sustentável do Audiovisual;DAS;4;superior;comunicacao;UFF;publica;SVE;NA;0;0;0;0;1;1;RJ;PT;PT;Rousseff;09/05/2013;19/11/2013;6,5
+minc;sav;Cult-SAV-CGIFAA2;CJCE;Coordenador-Geral de Incentivo e Fomento às Atividades Audiovisuais;DAS;4;doutorado;comunicacao;UEL;publica;SVE;NA;0;0;0;0;1;1;PR;PT;PT;Rousseff;11/03/2013;22/04/2014;13,6
+minc;sav;Cult-SAV-CGCT2;RDAR;Coordenador-Geral do Centro tecnico;DAS;4;superior;cinema;UFF;publica;OUTRO;NA;0;0;1;3;1;NA;NA;PT;PT;Rousseff;16/05/2013;09/10/2013;4,9
+minc;sav;Cult-SAV-CGCB1;LMNO;Coordenador-Geral da Cinemateca Brasileira;DAS;4;doutorado;ciencia da comunicacao;USP;publica;MAG_SUP;NA;0;0;1;0;0;NA;GO;PT;PT;Rousseff;01/11/2013;10/11/2014;12,5
+minc;sav;Cult-SAV-S4;MHCB;Secretário do Audiovisual;DAS;4;tecnico;NA;NA;NA;SVE;NA;0;0;1;5;1;NA;NA;PT;PT;Rousseff;07/11/2013;17/12/2014;13,5
+minc;sav;Cult-SAV-CGDSA4;SRBN;Coordenador-Geral de Desenvolvimento Sustentável do Audiovisual;DAS;4;superior;cinema;USP;publica;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;30/01/2014;27/05/2015;16,1
+minc;sav;Cult-SAV-CGIFAA3;LSLP;Coordenador-Geral de Incentivo e Fomento às Atividades Audiovisuais;DAS;4;superior;publicidade;UFMG;publica;SVE;NA;0;0;1;3;1;1;MG;PT;PT;Rousseff;22/04/2014;10/11/2015;18,9
+minc;sav;Cult-SAV-CGICPA2;LBRO;Coordenador-Geral de Inovação, Convergência e Plataformas Audiovisuais;DAS;4;superior;imagem e som;UFSCAR;publica;SVE;NA;0;0;1;3;0;NA;DF;PT;PT;Rousseff;05/05/2014;16/04/2015;11,5
+minc;sav;Cult-SAV-CGCT3;LNSF;Coordenador-Geral do Centro tecnico;DAS;4;superior;NA;NA;NA;SVE;PT;0;0;1;5;1;1;;PT;PT;Rousseff;09/10/2013;NA;NA
+minc;sav;Cult-SAV-CGCT4;LBCO;Coordenador-Geral do Centro tecnico;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;04/04/2014;03/02/2016;22,3
+minc;sav;Cult-SAV-CGCT5;JECM;Coordenador-Geral do Centro tecnico;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;1;NA;NA;NA;NA;PT;PT;Rousseff;03/02/2016;26/07/2016;5,8
+minc;sav;Cult-SAV-S5;PRVR;Secretário do Audiovisual;DAS;6;superior;comunicacao;UFBA;publica;SVE;PT;1;0;1;NA;1;1;BA;PT;PT;Rousseff;20/03/2015;24/05/2016;14,4
+minc;sav;Cult-SAV-CGDSA5;CJCE;Coordenador-Geral de Desenvolvimento Sustentável do Audiovisual;DAS;4;doutorado;comunicacao;UEL;publica;SVE;NA;0;0;1;3;1;1;DF;PT;PT;Rousseff;03/07/2015;10/10/2016;15,5
+minc;sav;Cult-SAV-CGIFAA4;MSAM;Coordenador-Geral de Incentivo e Fomento às Atividades Audiovisuais;DAS;4;NA;NA;NA;NA;NA;NA;0;0;1;3;NA;NA;NA;PT;PT;Rousseff;10/11/2015;26/07/2016;8,6
+minc;sav;Cult-SAV-CGICPA3;LSOS;Coordenador-Geral de Inovação, Convergência e Plataformas Audiovisuais;DAS;4;superior;NA;NA;NA;SVE;NA;0;0;1;3;1;1;BA;PT;PT;Rousseff;16/04/2015;17/08/2016;16,3
+minc;sav;Cult-SAV-CGCB2;OTFU;Coordenador-Geral da Cinemateca Brasileira;DAS;4;mestrado;cinema;USP;publica;SE_INT;NA;0;0;1;3;1;NA;SP;PT;PT;Rousseff;28/07/2015;25/07/2016;12,1
+minc;sav;Cult-SAV-S6;ABTB;Secretário do Audiovisual;DAS;6;doutorado;economia;USP;publica;SVE;NA;0;0;1;5;1;1;DF;MDB;MDB;Temer;22/06/2016;16/12/2016;5,9
+minc;sav;Cult-SAV-CGAPC1;HMTR;Coordenador-Geral de Acompanhamento e Prestação de Contas;FCPE;4;tecnico;NA;NA;NA;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;MDB;Temer;17/11/2016;16/04/2020;41,5
+minc;sav;Cult-SAV-CGNM1;CJCE;Coordenador-Geral de Novas Mídias;DAS;4;doutorado;comunicacao;UEL;publica;SVE;NA;0;0;1;3;1;1;DF;MDB;MDB;Temer;06/10/2016;11/01/2017;3,2
+minc;sav;Cult-SAV-DPA1;JBSI;Diretor de Políticas Audiovisuais;DAS;5;especializacao;administracao;NA;NA;OUTRO;NA;0;0;1;5;NA;NA;DF;MDB;MDB;Temer;15/09/2016;04/08/2017;10,8
+minc;sav;Cult-SAV-S7;MRSI;Secretário do Audiovisual;DAS;6;especializacao;jornalismo;Estácio de Sá;privada;SVE;NA;0;0;1;5;1;NA;DF;MDB;PPS;Temer;16/12/2016;04/08/2017;7,7
+minc;sav;Cult-SAV-CGFIPP1;ACFR;Coordenador-Geral de Formulação e Intercâmbio de Programas e Projetos;FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA ;NA;DF;MDB;PPS;Temer;16/02/2017;18/06/2018;16,2
+minc;sav;Cult-SAV-CGNM2;LRFT;Coordenador-Geral de Novas Mídias;DAS;4;mestrado;comunicacao;UFC;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;PPS;Temer;02/06/2017;04/10/2018;16,3
+minc;sav;Cult-SAV-S8;JBSI;Secretário do Audiovisual;DAS;6;especializacao;administracao;NA;NA;OUTRO;NA;0;0;1;5;NA;NA;DF;MDB;NA;Temer;04/08/2017;10/07/2018;11,3
+minc;sav;Cult-SAV-DPA2;APMS;Diretor de Políticas Audiovisuais;DAS;5;mestrado;letras;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;22/08/2017;09/07/2019;22,9
+minc;sav;Cult-SAV-CGCB3;OTFU;Coordenador-Geral da Cinemateca Brasileira;DAS;4;mestrado;cinema;USP;publica;SE_INT;NA;0;0;1;3;1;NA;SP;MDB;MDB;Temer;01/10/2016;03/07/2018;21,3
+minc;sav;Cult-SAV-CGCT6;DPFE;Coordenador-Geral do Centro tecnico;DAS;4;mestrado;producao cultural;UFF;publica;SVE;NA;0;0;1;1;1;1;RJ;MDB;NA;Temer;28/12/2017;15/05/2019;16,8
+minc;sav;Cult-SAV-S9;FMMA;Secretário do Audiovisual;DAS;6;superior;direito;NA;NA;SVE;NA;0;0;0;0;NA;NA;;MDB;NA;Temer;10/07/2018;31/12/2019;18
+minc;sav;Cult-SAV-CGF1;ACFR;Coordenador-Geral de Fomento;FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;18/06/2018;NA;NA
+minc;sav;Cult-SAV-CGPM1;LRFT;Coordenador-Geral de Preservação, Memória e Difusão;DAS;4;mestrado;comunicacao;UFC;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;NA;Temer;04/10/2018;16/10/2018;0,4
+minc;sav;Cult-SAV-CGPM2;LAOS;Coordenador-Geral de Preservação, Memória e Difusão;DAS;4;superior;NA;NA;NA;SVE;NA;0;0;0;0;NA;NA;RJ;MDB;NA;Temer;01/11/2018;13/12/2019;13,6
+minc;sav;Cult-SAV-CGSA1;JGJU;Coordenador-Geral de Supervisão e Avaliação;DAS;4;mestrado;engenharia eletronica;IME;publica;EPPGG;NA;0;0;1;3;0;NA;DF;MDB;NA;Temer;30/10/2018;21/09/2020;23,1
+minc;sav;Cult-SAV-S10;PHMP;Secretário do Audiovisual;DAS;6;superior;comunicacao;PUC;privada;SVE;NA;0;0;0;0;1;NA;RJ;PSL;NA;Bolsonaro;08/02/2019;29/07/2019;5,7
+minc;sav;Cult-SAV-S11;RFRI;Secretário do Audiovisual;DAS;6;especializacao;administracao;UNISINOS;privada;SVE;NOVO;0;0;0;0;1;1;NA;PSL;NA;Bolsonaro;29/07/2019;27/11/2019;4
+minc;sav;Cult-SAV-DPA3;ESBJ;Diretor de Políticas Audiovisuais;DAS;5;superior;comunicacao;Faculdade Hélio Alonso;privada;SVE;PSL;1;0;0;0;1;NA;NA;PSL;NA;Bolsonaro;09/07/2019;23/10/2019;3,5
+minc;sav;Cult-SAV-S12;KFGO;Secretário do Audiovisual;DAS;6;especializacao;desenho industrial;UNOPAR;privada;SVE;PSD;1;0;0;0;1;1;NA;PSL;NA;Bolsonaro;27/11/2019;12/12/2019;0,5
+minc;sav;Cult-SAV-S13;HMTR;Secretário Nacional do Audiovisual;DAS;6;tecnico;NA;NA;NA;SE_INT;NA;0;0;1;3;1;NA;DF;PSL;NA;Bolsonaro;16/04/2020;02/07/2020;2,6
+minc;sav;Cult-SAV-CGIIA1;TRAO;Coordenador-Geral de Inovação e Infraestrutura Audiovisual;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PSL;PP;Bolsonaro;17/07/2020;NA;NA
+minc;sav;Cult-SAV-S14;BGMC;Secretário Nacional do Audiovisual;DAS;6;especializacao;NA;NA;NA;SVE;NA;0;0;0;0;1;1;NA;PSL;PP;Bolsonaro;20/08/2020;04/11/2021;14,7
+minc;sav;Agro-SAV-CGAAR1;WRSA;Coordenador-Geral de Acompanhamento e Avaliação de Resultados;FCPE;4;NA;NA;NA;NA;SE_INT;SOLI;0;0;1;NA;NA;NA;DF;PSL;PP;Bolsonaro;22/04/2021;NA;NA
+minc;sav;Cult-SAV-DPA4;HFOL;Diretor de Políticas Audiovisuais;DAS;5;superior;direito;FMU;privada;SVE;NA;NA;0;0;0;1;NA;SP;PSL;PP;Bolsonaro;31/07/2020;14/06/2021;10,6
+minc;sav;Cult-SAV-DPA5;RAVI;Diretor de Políticas Audiovisuais;DAS;5;mestrado;historia;UFU;publica;SVE;NA;0;0;1;5;1;1;DF;PSL;PP;Bolsonaro;10/09/2021;24/11/2021;2,5
+minc;sav;Cult-SAV-CGGA1;JGJU;Coordenador-Geral de Gestão e Articulação;FCPE;4;mestrado;engenharia eletronica;IME;publica;EPPGG;NA;0;0;1;3;0;NA;DF;PSL;PP;Bolsonaro;21/09/2020;01/12/2021;14,5
+minc;sav;Cult-SAV-CGCT7;EPAB;Coordenador-Geral do Centro tecnico;DAS;4;superior;odontologia;NA;NA;SVE;REPU;1;0;1;NA;0;NA;RJ;PSL;PP;Bolsonaro;16/09/2020;10/05/2021;7,9
+minc;sav;Cult-SAV-CGCB4;JFPF;Coordenador-Geral da Cinemateca Brasileira;DAS;4;superior;letras;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;PP;Bolsonaro;25/01/2021;NA;NA
+minc;sav;Cult-SAV-S15;FCPD;Secretário Nacional do Audiovisual;DAS;6;tecnico;NA;NA;NA;SVE;DEM;0;0;1;5;1;NA;NA;PSL;PP;Bolsonaro;04/11/2021;NA;NA
+minc;sav;Cult-SAV-DPA6;DGLI;Diretor de Políticas Audiovisuais;DAS;5;NA;NA;NA;NA;SVE;NA;0;0;1;NA;1;NA;RS;PSL;PP;Bolsonaro;21/12/2021;NA;NA
+minc;sefic;Cult-SEFIC-S1;HPME;Secretário de Fomento e Incentivo à Cultura;DAS;6;NA;NA;NA;NA;OUTRO;NA;0;0;1;NA;NA;NA;NA;PT;PV;Lula;13/01/2010;20/12/2013;47,9
+minc;sefic;Cult-SEFIC-DIC1;KSRO;Diretor de Incentivo à Cultura;DAS;5;especializacao;contabeis;UFRGS;publica;OUTRO;PT;0;0;1;5;0;NA;DF;PT;PV;Lula;24/06/2010;09/04/2014;46,2
+minc;sefic;Cult-SEFIC-CGAPIF1;VFFI;Coordenador-Geral de Análise de Projetos de Incentivos Fiscais;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;PV;Rousseff;09/02/2011;10/10/2016;69
+minc;sefic;Cult-SEFIC-CGAA1;OLPC;Coordenador-Geral de Acompanhamento e Avaliação;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;PV;Lula;12/06/2009;09/04/2014;58,7
+minc;sefic;Cult-SEFIC-CGFNC1;CCMA;Coordenador-Geral do Fundo Nacional da Cultura;DAS;4;superior;direito;UNICESUMAR;privada;SVE;NA;0;0;1;3;NA;NA;PR;PT;PV;Lula;13/05/2010;02/07/2012;26
+minc;sefic;Cult-SEFIC-CGPC1;CRJL;Coordenador-Geral de Prestação de Contas;DAS;4;superior;NA;NA;NA;NA;NA;0;0;1;3;NA;NA;NA;PT;PV;Lula;07/12/2010;16/03/2016;64,2
+minc;sefic;Cult-SEFIC-CGPC2;DTNR;Coordenador-Geral de Prestação de Contas;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;NA;NA;NA;NA;PT;NA;Rousseff;27/04/2011;26/07/2016;63,9
+minc;sefic;Cult-SEFIC-DDAMF1;ACFC;Diretor de Desenvolvimento e Avaliação dos Mecanismos de Financiamento;DAS;5;NA;NA;NA;NA;SVE;NA;0;0;1;5;1;1;DF;PT;PV;Rousseff;16/04/2010;21/01/2011;9,3
+minc;sefic;Cult-SEFIC-DDAMF2;JAPG;Diretor de Desenvolvimento e Avaliação dos Mecanismos de Financiamento;DAS;5;mestrado;letras;UECE;publica;SVE;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;21/01/2011;11/06/2012;16,9
+minc;sefic;Cult-SEFIC-CGFC1;ACSI;Coordenador-Geral de Fomento à Cultura;DAS;4;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;PT;NA;Lula;07/08/2009;20/06/2012;34,9
+minc;sefic;Cult-SEFIC-CGDO1;RMBA;Coordenador-Geral de Desenvolvimento e Orientação;DAS;4;superior;NA;NA;NA;SE_INT;PT;0;0;1;3;NA;NA;DF;PT;NA;Lula;26/08/2010;02/07/2012;22,5
+minc;sefic;Cult-SEFIC-DGMF1;JAPG;Diretor de Gestão de Mecanismos de Fomento;DAS;5;mestrado;letras;UECE;publica;SVE;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;11/06/2012;18/12/2013;18,5
+minc;sefic;Cult-SEFICCGPAFNC1;CCMA;Coordenador-Geral de Projetos Apoiados pelo Fundo Nacional de Cultura;DAS;4;superior;direito;UNICESUMAR;privada;SVE;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;03/07/2012;26/07/2016;49,5
+minc;sefic;Cult-SEFIC-CGDCA1;ACSI;Coordenador-Geral de Desenvolvimento Controle e Avaliação;DAS;4;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;PT;NA;Rousseff;20/06/2012;17/03/2014;21,2
+minc;sefic;Cult-SEFIC-CGNO1;RMBA;Coordenador-Geral de Normatização e Orientação ;DAS;4;superior;NA;NA;NA;SE_INT;PT;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;03/07/2012;09/05/2014;22,5
+minc;sefic;Cult-SEFIC-S2;IDNE;Secretário de Fomento e Incentivo à Cultura;DAS;6;superior;arquitetura;NA;NA;OUTRO;NA;0;0;1;NA;NA;NA;DF;PT;PT;Rousseff;29/05/2014;19/02/2015;8,9
+minc;sefic;Cult-SEFIC-DIC2;OLPC;Diretor de Incentivo à Cultura;DAS;5;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;09/04/2014;01/09/2014;4,8
+minc;sefic;Cult-SEFIC-DIC3;HMPA;Diretor de Incentivo à Cultura;DAS;5;superior;direito;Católica;privada;SVE;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;01/09/2014;08/10/2014;1,2
+minc;sefic;Cult-SEFIC-CGAA2;CPPA;Coordenador-Geral de Acompanhamento e Avaliação;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;17/04/2014;10/10/2016;30,2
+minc;sefic;Cult-SEFIC-DGMF2;KSRO;Diretor de Gestão de Mecanismos de Fomento;DAS;5;especializacao;contabeis;UFRGS;publica;OUTRO;PT;0;0;1;5;0;NA;DF;PT;PT;Rousseff;09/04/2014;29/08/2014;4,7
+minc;sefic;Cult-SEFIC-CGDCA2;AAML;Coordenador-Geral de Desenvolvimento Controle e Avaliação;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;09/05/2014;19/09/2016;28,8
+minc;sefic;Cult-SEFIC-CGNO1;TRAO;Coordenador-Geral de  Normatização e Orientação;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;PT;Rousseff;09/05/2014;18/02/2015;9,5
+minc;sefic;Cult-SEFIC-S3;CBPN;Secretário de Fomento e Incentivo à Cultura;DAS;6;especializacao;producao e comunicacao;UFBA;publica;OUTRO;NA;0;0;1;5;1;NA;BA;PT;PT;Rousseff;19/02/2015;24/05/2016;15,3
+minc;sefic;Cult-SEFIC-DIC4;ALCO;Diretor de Incentivo à Cultura;DAS;5;superior;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;20/04/2015;17/06/2016;14,1
+minc;sefic;Cult-SEFIC-DGMF3;LSHE;Diretor de Gestão de Mecanismos de Fomento;DAS;5;superior;gestao politicas publicas;UnB;publica;SVE;PT;0;0;1;NA;0;NA;DF;PT;PT;Rousseff;20/02/2015;19/07/2016;17,2
+minc;sefic;Cult-SEFIC-CGNO2;PACC;Coordenador-Geral de  Normatização e Orientação;DAS;4;mestrado;letras;UnB;publica;SVE;NA;0;0;1;NA;1;NA;DF;PT;PT;Rousseff;23/03/2015;25/07/2016;16,3
+minc;sefic;Cult-SEFIC-S4;JPSM;Secretário de Fomento e Incentivo à Cultura;DAS;6;superior;administracao;NA;NA;SVE;NA;0;0;1;0;1;1;RS;MDB;MDB;Temer;04/07/2016;27/11/2019;41,4
+minc;sefic;Cult-SEFIC-DIPC1;OLPC;Diretor de Incentivo à Produção Cultural ;DAS;5;superior;NA;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;MDB;MDB;Temer;17/06/2016;01/10/2016;3,5
+minc;sefic;Cult-SEFIC-CGAA1;VFFI;Coordenador-Geral de Admissibilidade e Aprovação;FCPE;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;10/10/2016;01/07/2020;45,3
+minc;sefic;Cult-SEFIC-CGEF1;CPPA;Coordenador-Geral de Execução e Fiscalização;DAS_FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;10/10/2016;NA;NA
+minc;sefic;Cult-SEFIC-CGAR1;LMSG;Coordenador-Geral de Avaliação de Resultados;DAS;4;superior;NA;NA;NA;SE_INT;PSDB;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;15/09/2016;09/10/2019;37,3
+minc;sefic;Cult-SEFIC-DMF1;LCMI;Diretor de Mecanismos de Fomento;DAS;5;superior;direito;UFU;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;MDB;Temer;15/09/2016;06/12/2016;2,7
+minc;sefic;Cult-SEFIC-DMF2;FSAN;Diretor de Mecanismos de Fomento;DAS;5;superior;NA;NA;NA;SVE;PPS;0;0;1;NA;NA;NA;DF;MDB;MDB;Temer;14/03/2017;17/08/2018;17,4
+minc;sefic;Cult-CGFN1;RAME;Coordenador-Geral do Fundo Nacional de Cultura;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;15/09/2016;18/09/2017;12,3
+minc;sefic;Cult-CGFN2;NPSI;Coordenador-Geral do Fundo Nacional de Cultura;DAS;4;superior;direito;Euro-Americano;privada;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;06/11/2017;04/10/2018;11,1
+minc;sefic;Cult-SEFIC-CGPCT1;AAML;Coodenador-Geral do Programa de Cultura do Trabalhador;FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;19/09/2016;22/05/2018;20,3
+minc;sefic;Cult-SEFIC-DFI1;OLPC;Diretor de Fomento Indireto;DAS;5;superior;NA;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;MDB;MDB;Temer;01/10/2016;02/07/2020;45,7
+minc;sefic;Cult-SEFIC-DFDPCT1;NPSI;Diretor de Fomento Direto e do Programa de Cultura do Trabalhador;DAS;5;superior;direito;Euro-Americano;privada;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;03/10/2018;02/07/2020;21,3
+minc;sefic;Cult-SEFIC-CGFNC1;JFCO;Coordenação-Geral do Fundo Nacional de Cultura;FCPE;4;mestrado;historia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;NA;Temer;08/10/2018;01/07/2020;21,1
+minc;sefic;Cult-SEFIC-CGPCT1;EFBO;Coordenação-Geral do Programa de Cultura do Trabalhador;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;NA;Temer;06/08/2018;07/01/2020;17,3
+minc;sefic;Cult-SEFIC-S5;CALN;Secretário de Fomento e Incentivo à Cultura;DAS;6;especializacao;arte;USP;publica;SVE;PSL;0;0;0;0;1;1;SP;PSL;NA;Bolsonaro;27/11/2019;04/03/2020;3,3
+minc;sefic;Cult-SEFIC-CGPCT1;FABA;Coordenador-Geral do Programa de Cultura do Trabalhador;DAS;4;especializacao;turismo;Euro-Americano;privada;SVE;NA;0;0;1;NA;0;NA;DF;PSL;NA;Bolsonaro;08/01/2020;NA;NA
+minc;sefic;Cult-SEFIC-S6;APAS;Secretário Nacional de Fomento e Incentivo à Cultura;DAS;6;superior;direito;UNIFACS;privada;MIL;NA;0;0;1;0;0;NA;BA;PSL;PP;Bolsonaro;30/09/2020;NA;NA
+minc;sefic;Cult-SEFIC-DFI2;PRTS;Diretor de Fomento Indireto;DAS;5;mestrado;direito;PUC;privada;SVE;NA;0;0;0;0;NA;1;RS;PSL;PP;Bolsonaro;27/08/2020;23/09/2020;0,9
+minc;sefic;Cult-SEFIC-DFI3;SRCD;Diretor de Fomento Indireto;DAS;5;superior;economia;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;PP;Bolsonaro;11/11/2020;09/03/2021;3,9
+minc;sefic;Cult-SEFIC-DFI4;FFLI;Diretor de Fomento Indireto;DAS;5;especializacao;comunicacao;Faculdade da Cidade;privada;SVE;PSDB;1;0;1;NA;1;1;RJ;PSL;PP;Bolsonaro;24/03/2021;NA;NA
+minc;sefic;Cult-SEFIC-CGAH1;VFFI;Coordenador-Geral de Admissibilidade e Homologação;FCPE;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PSL;PP;Bolsonaro;01/07/2020;15/06/2021;11,6
+minc;sefic;Cult-SEFIC-DFDPCT2;HGRL;Diretor de Fomento Direto e do Programa de Cultura do Trabalhador;DAS;5;especializacao;economia;UniCEUB;privada;OUTRO;NA;0;0;1;5;1;NA;DF;PSL;PP;Bolsonaro;31/07/2020;22/02/2021;6,9
+minc;sefic;Cult-SEFIC-DFDPCT3;SRCD;Diretor de Fomento Direto e do Programa de Cultura do Trabalhador;DAS;5;superior;economia;UnB;publica;OUTRO;NA;0;0;1;5;0;NA;DF;PSL;PP;Bolsonaro;10/03/2021;NA;NA
+minc;sefic;Cult-SEFIC-CGFD1;JFCO;Coordenador-Geral de Fomento Direto;FCPE;4;mestrado;historia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PSL;PP;Bolsonaro;01/07/2020;NA;NA
+minc;dinfra;Cult-SE-DEIC1;GEAL;Diretor de Programas Especiais de Infraestrutura Cultural (SE);DAS;5;superior;arquitetura;UFV;publica;SVE;NA;0;0;1;5;0;NA;GO;PT;NA;Rousseff;11/06/2012;19/07/2016;50
+minc;dinfra;Cult-SE-DCGG1;MGVG;Coordenador-Geral de Gestão (SE);DAS;4;superior;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;21/06/2012;31/07/2012;1,3
+minc;dinfra;Cult-SE-DCGG2;GRMR;Coordenador-Geral de Gestão (SE);DAS;4;mestrado;relacoes internacionais;UniCEUB;privada;SVE;NA;0;0;0;0;0;NA;NA;PT;NA;Rousseff;27/08/2012;13/11/2012;2,6
+minc;dinfra;Cult-SE-DCGG3;STAM;Coordenador-Geral de Gestão (SE);DAS;4;superior;gestao de eventos;Anhembi Morumbi;privada;SVE;NA;0;0;1;3;1;NA;NA;PT;PT;Rousseff;13/11/2012;NA;NA
+minc;dinfra;Cult-SE-DCGG4;ITLT;Coordenador-Geral de Gestão (SE);DAS;4;mestrado;arquitetura;USP;publica;OUTRO;NA;0;0;1;3;0;1;DF;PT;PT;Rousseff;02/01/2014;15/09/2016;32,9
+minc;dinfra;Cult-SE-CGIC1;CVFM;Coordenador-Geral de Infraestrutura Cultural (SE);DAS;4;superior;NA;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;20/06/2012;15/09/2016;51,6
+minc;sedec;Cult-SEINFRA-S1;ORNS;Secretário de Infraestrutura Cultural;DAS;6;superior;letras;UniCEUB;privada;OUTRO;NA;0;0;1;3;0;NA;DF;MDB;MDB;Temer;15/09/2016;14/12/2016;3
+minc;sedec;Cult-SEINFRA-CGAPC1;CVFM;Coordenador-Geral de Acompanhamento e Prestação de Contas;FCPE;4;superior;NA;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;15/09/2016;14/05/2020;44,6
+minc;sedec;Cult-SEINFRA-DPIC1;PNAK;Diretor de Projetos de Infraestrutura Cultural;DAS;5;mestrado;engenharia eletrica;ITA;publica;MIL;NA;0;0;1;NA;0;NA;DF;MDB;MDB;Temer;18/11/2016;09/08/2018;21
+minc;sedec;Cult-SEINFRA-CGDP1;KRQU; Coordenador-Geral de Desenvolvimento de Projetos;DAS;4;superior;NA;NA;NA;VINC;NA;0;0;1;0;NA;NA;SE;MDB;MDB;Temer;15/09/2016;30/06/2020;46,1
+minc;sedec;Cult-SEINFRA-CGAP1;AAMV;Coordenador-Geral de Análise de Projetos;DAS;4;superior;NA;NA;NA;SVE;NA;0;0;1;NA;NA;NA;RJ;MDB;MDB;Temer;04/10/2016;20/05/2020;44,1
+minc;sedec;Cult-SEINFRA-DOGEC1;PLCJ;Diretor de Obras e Gestão de Equipamentos Culturais;DAS;5;especializacao;engenharia eletrica;Universidade Gama Filho;privada;SVE;NA;0;0;0;0;1;NA;RJ;MDB;MDB;Temer;15/09/2016;07/11/2017;13,9
+minc;sedec;Cult-SEINFRA-CGMO1;CSCO;Coordenador-Geral de Monitoramento de Obras;FCPE;4;superior;NA;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;23/09/2016;01/07/2020;45,9
+minc;sedec;Cult-SEINFRA-CGGE1;ITLT;Coordenador-Geral Gestão de Equipamentos;DAS;4;mestrado;arquitetura;USP;publica;OUTRO;NA;0;0;1;3;0;1;DF;MDB;MDB;Temer;15/09/2016;30/06/2020;46,1
+minc;sedec;Cult-SEINFRA-S2;RBFR;Secretário de Infraestrutura Cultural;DAS;6;especializacao;engenharia civil;FUMEC;privada;SVE;PPS;1;0;1;5;0;NA;MG;MDB;MDB;Temer;14/12/2016;22/08/2017;8,4
+minc;sedec;Cult-SEINFRA-S3;ABTB;Secretário de Infraestrutura Cultural;DAS;6;doutorado;economia;USP;publica;SVE;NA;0;0;1;5;1;1;DF;MDB;NA;Temer;03/10/2017;24/05/2018;7,8
+minc;sedec;Cult-SEINFRA-DDAGM1;PNAK;Diretor de Desenvolvimento, Análise, Gestão e Monitoramento;DAS;5;mestrado;engenharia eletrica;ITA;publica;MIL;NA;0;0;1;5;0;NA;DF;MDB;NA;Temer;18/06/2018;29/03/2019;9,5
+minc;sedec;Cult-SEINFRA-S4;PNAK;Secretário de Difusão e Infraestrutura Cultural;DAS;6;mestrado;engenharia eletrica;ITA ;publica;MIL;NA;0;0;1;5;0;NA;DF;PSL;NA;Bolsonaro;29/03/2019;28/11/2019;8,1
+minc;sedec;Cult-SEINFRA-DDAGM2;CECA;Diretor de Desenvolvimento, Análise, Gestão e Monitoramento;DAS;5;especializacao;administracao;AFA;publica;MIL;NA;0;0;1;5;0;NA;DF;PSL;NA;Bolsonaro;09/10/2019;30/06/2020;8,8
+minc;sedec;Cult-SEINFRA-S5;RMJU;Secretário de Difusão e Infraestrutura Cultural;DAS;6;especializacao;engenharia civil;USP;publica;SVE;NA;0;0;0;0;1;1;NA;PSL;NA;Bolsonaro;28/11/2019;04/03/2020;3,2
+minc;sedec;Cult-SEINFRA-S6;CFKI;Secretário de Difusão e Infraestrutura Cultural;DAS;6;NA;NA;NA;NA;OUTRO;NA;0;0;1;0;NA;NA;NA;PSL;NA;Bolsonaro;06/03/2020;29/04/2020;1,8
+minc;sedec;Cult-SEDEC-S1;CFKI;Secretário de Desenvolvimento Cultural;DAS;6;NA;NA;NA;NA;OUTRO;NA;0;0;1;5;NA;NA;DF;PSL;NA;Bolsonaro;29/04/2020;02/07/2020;2,1
+minc;sedec;Cult-SEDEC-S2;MNWA;Secretário de Desenvolvimento Cultural;DAS;6;especializacao;direito;UFBA;publica;OUTRO;NA;0;0;1;3;1;NA;DF;PSL;PP;Bolsonaro;07/10/2020;31/08/2021;10,9
+minc;sedec;Cult-SEDEC-CGGC1;ITLT;Coordenador-Geral de Gestão Compartilhada;DAS;4;mestrado;arquitetura;USP;publica;OUTRO;NA;0;0;1;3;0;1;DF;PSL;PP;Bolsonaro;30/06/2020;12/08/2020;1,4
+minc;sedec;Cult-SEDEC-CGGC2;RLGO;Coordenador-Geral de Gestão Compartilhada;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PSL;PP;Bolsonaro;16/11/2020;15/12/2021;13,1
+minc;sedec;Cult-SEDEC-DDAGM1;CECA;Diretor de Desenvolvimento, Análise, Gestão e Monitoramento;DAS;5;especializacao;administracao;AFA;publica;MIL;NA;0;0;1;5;0;NA;DF;PSL;PP;Bolsonaro;30/06/2020;12/08/2020;1,4
+minc;sedec;Cult-SEDEC-DDAGM2;PCDA;Diretor de Desenvolvimento, Análise, Gestão e Monitoramento;DAS;5;mestrado;ciencias militares;AMAN;publica;MIL;NA;0;0;1;3;0;NA;DF;PSL;PP;Bolsonaro;28/08/2020;01/12/2021;15,3
+minc;sedec;Cult-SEDEC-CGADP1;KRQU;Coordenador-Geral de Análise e Desenvolvimento de Projetos;DAS;4;superior;NA;NA;NA;VINC;NA;0;0;1;3;NA;NA;DF;PSL;PP;Bolsonaro;30/06/2020;NA;NA
+minc;sedec;Cult-SEDEC-CGMO1;CSCO;Coordenador-Geral de Monitoramento de Obras;FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PSL;NA;Bolsonaro;01/02/2019;01/07/2020;NA
+minc;sedec;Cult-SEDEC-CGM1;CSCO;Coordenador-Geral de Monitoramento;FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PSL;PP;Bolsonaro;01/07/2020;NA;NA
+minc;sadi;Cult-SAI-S1;SLME;Secretário de Articulação Institucional;DAS;6;especializacao;engenharia eletronica;NA;NA;OUTRO;NA;0;0;1;5;0;NA;PE;PT;PV;Lula;18/09/2008;02/02/2011;28,9
+minc;sadi;Cult-SAI-CGAIA1;AMCT;Coordenador-Geral de Articulação e Integração das Ações;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;NA;PT;PV;Lula;26/08/2010;05/04/2011;7,4
+minc;sadi;Cult-SAI-CGLL1;JMCC;Coordenador-Geral de Leitura e Literatura;DAS;4;superior;psicologia;UniCEUB;privada;OUTRO;NA;0;0;1;3;NA;NA;NA;PT;PV;Lula;12/07/2009;NA;NA
+minc;sadi;Cult-SAI-DPI2;BNMM;Diretor de Programas Integrados;DAS;5;mestrado;historia;UFMG;publica;OUTRO;PT;0;0;1;3;0;1;MG;PT;NA;Rousseff;13/04/2011;11/06/2012;14,2
+minc;sadi;Cult-SAI-CGAIA2;AMMA;Coordenador-Geral de Articulação e Integração das Ações;DAS;4;doutorado;administracao;UFBA;publica;OUTRO;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;21/06/2011;20/06/2012;12,2
+minc;sadi;Cult-SAI-DSNCPI1;BNMM;Diretor do Sistema Nacional de Cultura e Programas Integrados ;DAS;5;mestrado;historia;UFMG;publica;OUTRO;PT;0;0;1;5;0;1;DF;PT;NA;Rousseff;11/06/2012;21/01/2015;31,8
+minc;sadi;Cult-SAI-CGIGSNC1;AMMA;Coordenador-Geral de Instrumentos de Gestão do Sistema Nacional de Cultura;DAS;4;doutorado;administracao;UFBA;publica;OUTRO;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;20/06/2012;02/07/2013;12,6
+minc;sadi;Cult-SAI-S2;JRCN;Secretário de Articulação Institucional;DAS;6;superior;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;02/02/2011;01/04/2013;26,3
+minc;sadi;Cult-SAI-S3;MAPE;Secretário de Articulação Institucional;DAS;6;tecnico;NA;NA;NA;OUTRO;MDB;NA;NA;1;5;0;NA;NA;PT;PT;Rousseff;09/04/2013;22/07/2013;3,5
+minc;sadi;Cult-SADI-S1;BSOL;Secretário de Articulação e Desenvolvimento Institucional;DAS;6;superior;direito;UERJ;publica;DIPL;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;08/11/2016;06/12/2016;0,9
+minc;sadi;Cult-SADI-DPIN1;AJOM;Diretor de Promoção Internacional;DAS;5;superior;relacoes internacionais;UnB;publica;OUTRO;NA;0;0;1;0;0;NA;DF;MDB;MDB;Temer;26/08/2016;09/08/2018;23,8
+minc;sadi;Cult-SADI-CGSNC2;TRAO;Coordenador-Geral do Sistema Nacional de Cultura;DAS;4;superior;NA;NA;NA;OUTRO;NA;0;0;1;5;0;NA;DF;MDB;NA;Temer;07/11/2017;26/07/2018;8,7
+minc;spc;Cult-SPC-S1;SDMA;Secretário de Políticas Culturais;DAS;6;superior;arte;USP;publica;SVE;PT;0;1;1;5;1;1;NA;PT;NA;Rousseff;14/02/2011;21/03/2013;25,5
+minc;spc;Cult-SPC-DEMPC1;AJCT;Diretor de Estudos e Monitoramento de Políticas Culturais;DAS;5;superior;computacao;Mackenzie;privada;SVE;PT;0;0;1;5;1;NA;DF;PT;NA;Rousseff;05/07/2011;16/09/2013;26,8
+minc;spc;Cult-SPC-CGAPC1;MNSF;Coordenador-Geral de Acompanhamento da Política Cultural;DAS;4;doutorado;arquitetura;UFRJ;publica;MAG_SUP;NA;0;0;1;NA;0;NA;RJ;PT;PV;Rousseff;29/03/2010;21/03/2011;11,9
+minc;spc;Cult-SPC-CGAPC2;RPOL;Coordenador-Geral de Acompanhamento da Política Cultural;DAS;4;mestrado;arte;UDESC;publica;SE_INT;NA;0;0;1;3;1;1;DF;PT;NA;Rousseff;07/04/2011;21/06/2012;14,7
+minc;spc;Cult-SPC-CGECEC1;JMCC;Coordenador-Geral de Economia da Cultura e Estudos Culturais;DAS;4;superior;psicologia;UniCEUB;privada;OUTRO;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;12/05/2011;18/06/2012;13,4
+minc;spc;Cult-SPC-CGMIC1;ENAJ;Coordenador-Geral de Monitoramento de Informações Culturais;DAS;4;superior;direito;UFS;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PT;PT;Rousseff;20/06/2012;19/11/2013;17,2
+minc;spc;Cult-SPC-CGCD1;JMCC;Coordenador-Geral de Cultura Digital;DAS;4;superior;psicologia;UniCEUB;privada;OUTRO;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;20/06/2012;26/07/2016;49,9
+minc;spc;Cult-SPC-CGPNC1;RPOL;Coordenador-Geral do Plano Nacional de Cultura;DAS;4;mestrado;arte;UDESC;publica;SE_INT;NA;0;0;1;3;1;1;DF;PT;NA;Rousseff;21/07/2012;10/03/2014;19,9
+minc;spc;Cult-SPC-DECC1;JNPE;"Diretor de
+Educação e Comunicação para Cultura ";DAS;5;mestrado;arte;UERJ;publica;OUTRO;PCdoB;0;0;1;3;0;1;DF;PT;NA;Rousseff;11/06/2012;17/03/2015;33,6
+minc;spc;Cult-SPC-CGCE1;CCDO;Coordenador-Geral de Cultura e Educação;DAS;4;superior;psicologia;PUC;privada;SVE;NA;0;0;1;5;0;NA;DF;PT;NA;Rousseff;09/07/2012;07/05/2015;34,4
+minc;spc;Cult-SPC-CGCC1;ACGS;Coordenador-Geral de Cultura e Comunicação;DAS;4;mestrado;psicologia;USP;publica;SVE;NA;0;0;1;3;0;NA;DF;PT;NA;Rousseff;25/06/2012;13/11/2013;16,9
+minc;spc;Cult-SPC-S2;AJCT;Secretário de Políticas Culturais;DAS;6;superior;computacao;Mackenzie;privada;SVE;PT;0;0;1;5;1;NA;DF;PT;NA;Rousseff;16/09/2013;23/01/2015;16,5
+minc;spc;Cult-SPC-DEMPC2;ATDP;Diretor de Estudos e Monitoramento de Políticas Culturais;DAS;5;superior;administracao;NA;NA;SVE;NA;0;0;1;3;1;NA;;PT;PT;Rousseff;10/02/2014;20/01/2015;11,5
+minc;spc;Cult-SPC-CGMIC2;GHAJ;Coordenador-Geral de Monitoramento de Informações Culturais;DAS;4;especializacao;economia;UniCEUB;privada;EPPGG;NA;0;0;1;3;0;NA;DF;PT;PT;Rousseff;27/11/2013;03/06/2015;18,4
+minc;spc;Cult-SPC-CGPNC2;PRPB;Coordenador-Geral do Plano Nacional de Cultura;DAS;4;mestrado;relacoes internacionais;Católica;privada;SVE;NA;0;0;1;3;1;NA;;PT;PT;Rousseff;10/03/2014;23/04/2015;13,6
+minc;spc;Cult-SPC-CGCC2;KMGA;Coordenador-Geral de Cultura e Comunicação;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;NA;PT;PT;Rousseff;20/02/2014;26/07/2016;29,6
+minc;spc;Cult-SPC-S3;GRVA;Secretário de Políticas Culturais;DAS;6;mestrado;direio;USP;publica;SVE;NA;0;0;1;NA;1;1;SP;PT;PT;Rousseff;06/03/2015;17/05/2016;14,6
+minc;spc;Cult-SPC-DEMPC3;PAVA;Diretor de Estudos e Monitoramento de Políticas Culturais;DAS;5;tecnico;NA;NA;NA;SVE;NA;0;0;1;5;NA;NA;DF;PT;PT;Rousseff;12/03/2015;17/05/2016;14,4
+minc;spc;Cult-SPC-CGMIC3;LBGE;Coordenador-Geral de Monitoramento de Informações Culturais;DAS;4;superior;jornalismo;PUC;privada;SVE;NA;0;0;1;3;1;NA;DF;PT;PT;Rousseff;03/06/2015;26/07/2016;14
+minc;spc;Cult-SOC-CGPNC3;JPPO;Coordenador-Geral do Plano Nacional de Cultura;DAS;4;superior;NA;NA;NA;SVE;PT;0;0;0;0;NA;NA;NA;PT;PT;Rousseff;23/04/2015;12/05/2016;12,8
+minc;spc;Cult-SPC-DECC2;CCDO;Diretor de Educação e Comunicação para Cultura;DAS;5;superior;psicologia;PUC;privada;SVE;NA;0;0;1;5;0;NA;DF;PT;PT;Rousseff;07/05/2015;21/06/2016;13,7
+minc;spc;Cult-SPC-CGCE2;VLBA;Coordenador-Geral de Cultura e Educação;DAS;4;doutorado;psicologia;UNITAU;publica;MAG_SUP;NA;0;0;1;0;0;1;NA;PT;PT;Rousseff;06/07/2015;NA;NA
+minc;sdapi;Cult-DDI-D1;MRAS;Diretor de Direitos Intelectuais;DAS;5;mestrado;antropologia;UnB;publica;EPPGG;NA;0;0;1;3;0;0;DF;PT;PV;Lula;18/06/2009;09/03/2011;21
+minc;sdapi;Cult-DDI-CGR1;SBCO;Coordenador-Geral de Regulação ;DAS;4;mestrado;ciencia politica;USP;publica;EPPGG;NA;0;0;1;3;NA;NA;DF;PT;PV;Lula;27/05/2009;04/04/2011;22,6
+minc;sdapi;Cult-DDI-CGD1;RPOL;Coordenador-Geral de Difusão e Acesso à Cultura;DAS;5;mestrado;arte;UDESC;publica;SE_INT;NA;0;0;1;3;1;1;DF;PT;PV;Lula;26/05/2009;07/04/2011;22,7
+minc;sdapi;Cult-DDI-CGGCM1;JVSO;Coordenador-Geral de Gestão Coletiva e Mediação;DAS;4;superior;cinema;UFF;publica;EPPGG;NA;0;0;1;3;0;NA;RJ;PT;PV;Lula;26/05/2009;23/05/2011;24,2
+minc;sdapi;Cult-DDI-D2;MRVB;Diretor de Direitos Intelectuais;DAS;5;superior;comunicacao e direito;unB;publica;ADV_UN;NA;0;0;1;0;1;1;DF;PT;NA;Rousseff;09/03/2011;11/10/2012;19,4
+minc;sdapi;Cult-DDI-CGR2;CBLO;Coordenador-Geral de Regulação ;DAS;4;superior;direito;UniCEUB;privada;ADV_UN;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;08/04/2011;10/10/2012;18,4
+minc;sdapi;Cult-DDI-CGD2;CAGI;Coordenador-Geral de Difusão e Acesso à Cultura;DAS;4;NA;NA;NA;NA;EPPGG;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;17/05/2011;10/10/2012;17,1
+minc;sdapi;Cult-DDI-CGGCM2;CCDO;Coordenador-Geral de Gestão Coletiva e Mediação;DAS;4;superior;psicologia;PUC;privada;SVE;NA;0;0;1;5;0;1;SP;PT;NA;Rousseff;03/06/2011;09/07/2012;13,4
+minc;sdapi;Cult-DDI-D3;MRAS;Diretor de Direitos Intelectuais;DAS;5;mestrado;antroplogia;UnB;publica;EPPGG;NA;0;0;1;5;0;0;DF;PT;PT;Rousseff;11/10/2012;16/08/2016;46,8
+minc;sdapi;Cult-DDI-CGR3;SBCO;Coordenador-Geral de Regulação;DAS;4;mestrado;ciencia politica;USP;publica;EPPGG;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;30/10/2012;23/09/2016;47,5
+minc;sdapi;Cult-DDI-CGD3;JVSO;Coordenador-Geral de Difusão;DAS;4;superior;cinema;UFF;publica;EPPGG;NA;0;0;1;3;NA;NA;RJ;PT;PT;Rousseff;23/10/2013;08/06/2016;32
+minc;sdapi;Cult-DDI-CGI1;FCBE;Coordenador-Geral de Informação;DAS;4;mestrado;ciencia politica;UnB;publica;EPPGG;NA;0;0;1;3;NA;NA;DF;PT;PT;Rousseff;22/07/2015;15/09/2016;14
+minc;sdapi;Cult-DDI-CGL1;RSFE;Coordenador-Geral de Licenciamento Administrativo e Monitoramento;DAS;4;mestrado;direito;UniCEUB;privada;SVE;NA;0;0;1;3;0;0;DF;PT;PT;Rousseff;16/07/2015;26/07/2016;12,5
+minc;sdapi;Cult-DDI-D4;RTTA;Diretor de Direitos Intelectuais;DAS;5;mestrado;direito;PUC;privada;SVE;NA;0;0;1;3;1;NA;DF;MDB;MDB;Temer;15/09/2016;08/05/2018;20
+minc;sdapi;Cult-DDI-CGR4;CDPA;Coordenador-Geral de Regulação;DAS;4;superior;direito;UniCEUB;privada;SE_INT;NA;0;0;1;3;1;0;DF;MDB;MDB;Temer;16/09/2016;09/08/2018;23,1
+minc;sdapi;Cult-DDI-CGGC1;SDOL;Coordenador-Geral de  Difusão, Negociação e Acesso à Cultura;DAS;4;superior;direito;UniCEUB;privada;SE_INT;PR ;0;0;1;3;0;0;DF;MDB;MDB;Temer;27/09/2016;09/08/2016;22,7
+minc;sdapi;Cult-SDAPI-S1;MTTA;Secretário de Direitos Autorais e Propriedade Intelectual;DAS;6;especializacao;direito;UFRJ;publica;VINC;REDE ;0;0;1;3;NA;NA;RJ;MDB;NA;Temer;10/07/2018;08/03/2019;8
+minc;sdapi;Cult-SDAPI-DERAF1;SDOL;Diretor de Registro, Acompanhamento e Fiscalização;DAS;5;superior;direito;UniCEUB;privada;SE_INT;PR ;0;0;1;3;0;0;DF;MDB;NA;Temer;09/08/2018;23/09/2019;13,7
+minc;sdapi;Cult-SDAPI-DERAF-CGH1;JPLI;Coordenador-Geral de Registro e Habilitação;DAS_FCPE;4;superior;direito;Centro de Estudos Superiores Planalto;privada;SE_INT;NA;0;0;1;3;0;0;DF;MDB;NA;Temer;13/08/2018;NA;NA
+minc;sdapi;Cult-SDAPI-DERAF-CGFP1;NMMA;Coordenador-Geral de Fiscalização, Combate à Pirataria, e Tráfico de Bens Culturais;DAS;4;mestrado;ciencia politica;UnB;publica;SE_INT;NA;0;0;1;3;1;0;DF;MDB;NA;Temer;16/10/2018;16/04/2019;6,1
+minc;sdapi;Cult-SDAPI-DERAF-CGFP2;PWSG;Coordenador-Geral de Fiscalização, Combate à Pirataria, e Tráfico de Bens Culturais;DAS;4;especializacao;economia;IESAM;privada;OUTRO;NA;NA;NA;1;5;NA;NA;PA;PSL;NA;Bolsonaro;17/07/2019;08/04/2020;8,9
+minc;sdapi;Cult-SDAPI-DERAF2;LBLO;Diretor de Registro, Acompanhamento e Fiscalização;DAS;5;superior;direito;NA;NA;SVE;PHS;1;NA;0;0;1;NA;SP;PSL;NA;Bolsonaro;23/09/2019;14/09/2020;11,9
+minc;sdapi;Cult-SDAPI-DEPRG1;CDPA;Diretor de Política Regulatória;DAS;5;superior;direito;UniCEUB;privada;SE_INT;NA;0;0;1;3;1;0;DF;MDB;NA;Temer;09/08/2018;05/02/2020;18,2
+minc;sdapi;Cult-SDAPI-DEPRG-CGR1;ALIR;Coordenador-Geral de Regulação, Negociação e Análise;FCPE;4;mestrado;direito;UEL;publica;SE_INT;NA;0;0;1;3;0;0;DF;MDB;NA;Temer;14/08/2018;08/04/2020;20,1
+minc;sdapi;Cult-SDAPI-DEPRG-CGD1;LNFB;Coordenador-Geral de Acompanhamento, Difusão e Promoção;FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;0;0;0;DF;MDB;NA;Temer;14/08/2018;16/03/2021;31,5
+minc;sdapi;Cult-SDAPI-DEPRG2;ALIR;Diretor de Política Regulatória;DAS;5;mestrado;direito;UEL;publica;SE_INT;NA;0;0;1;3;0;0;DF;PSL;NA;Bolsonaro;08/04/2020;27/07/2020;3,7
+minc;sdapi;Cult-SDAPI-DEPRG3;FCCA;Diretor de Política Regulatória;DAS;5;especializacao;direito;NA;NA;SVE;PSL;0;0;1;0;1;NA;SP;PSL;NA;Bolsonaro;17/08/2020;08/12/2020;3,8
+minc;sdapi;Cult-SDAPI-DEPRG-CGR2;TMCO;Coordenador-Geral de Regulação, Negociação e Análise;FCPE;4;especializacao;direito;UnB;publica;EPPGG;NA;0;0;1;1;NA;NA;DF;PSL;NA;Bolsonaro;08/04/2020;08/03/2021;11,1
+minc;sdapi;Cult-SDAPI-S2;MCSB;Secretário de Direitos Autorais e Propriedade Intelectual;DAS;6;especializacao;direito;NA;NA;SVE;NA;0;0;0;0;1;1;SP;PSL;NA;Bolsonaro;08/03/2019;10/12/2019;9,2
+minc;sdapi;Cult-SDAPI-S3;MAVA;Secretário de Direitos Autorais e Propriedade Intelectual;DAS;6;doutorado;direito;PUC;privada;SVE;NA;0;0;0;0;1;NA;SP;PSL;NA;Bolsonaro;10/12/2019;04/03/2020;2,8
+minc;sdapi;Cult-SDAPI-DEPRG-CGR3;TMCO;Coordenador-Geral de Regulação, Negociação e Análise;FCPE;4;especializacao;direito;UnB;publica;EPPGG;NA;0;0;1;3;NA;NA;DF;PSL;NA;Bolsonaro;12/05/2021;NA;NA
+minc;sdapi;Cult-SDAPI-S4;ASMR;Secretário de Direitos Autorais e Propriedade Intelectual;DAS;6;especializacao;direito;PUC;privada;SVE;NA;0;0;0;0;1;NA;RJ;PSL;NA;Bolsonaro;06/03/2020;13/07/2020;4,3
+minc;sdapi;Cult-DDI-DEPREG4;GTHS;Diretor de Política Regulatória;DAS;5;mestrado;direito;NA;NA;OUTRO;NA;0;0;1;0;1;NA;DF;PSL;NA;Bolsonaro;27/07/2020;14/08/2020;0,6
+minc;sdapi;Cult-SDAPI-S5;GTHS;Secretário Nacional de Direitos Autorais e Propriedade Intelectual;DAS;6;mestrado;direito;NA;NA;OUTRO;NA;0;0;1;5;1;NA;DF;PSL;PP;Bolsonaro;14/08/2020;10/03/2021;6,9
+minc;sdapi;Cult-SDAPI-DEPRG5;KFMA;Diretor de Política Regulatória;DAS;5;NA;direito;NA;NA;SVE;NA;NA;NA;1;5;1;NA;DF;PSL;PP;Bolsonaro;08/12/2020;NA;NA
+minc;sdapi;Cult-SDAPI-DERAF3;FCCA;Diretor de Registro, Acompanhamento e Fiscalização;DAS;5;especializacao;direito;NA;NA;SVE;PSL;0;0;1;5;1;NA;DF;PSL;PP;Bolsonaro;08/12/2020;17/03/2021;3,3
+minc;sdapi;Cult-SDAPI-DERAF-CGFP3;VBAL;Coordenador-Geral de Fiscalização, Combate à Pirataria, e Tráfico de Bens Culturais;FCPE;4;mestrado;direito;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;DF;PSL;PP;Bolsonaro;25/11/2020;NA;NA
+minc;sdapi;Cult-SDAPI-DEPRG-CGD2;SDOL;Coordenador-Geral de Acompanhamento, Difusão e Promoção;FCPE;4;superior;direito;UniCEUB;privada;SE_INT;PR ;0;0;1;5;0;0;DF;PSL;PP;Bolsonaro;07/05/2021;NA;NA
+minc;sdapi;Cult-SDAPI-S6;FCCA;Secretário Nacional de Direitos Autorais e Propriedade Intelectual;DAS;6;especializacao;direito;NA;NA;SVE;PSL;0;0;1;5;1;NA;DF;PSL;PP;Bolsonaro;17/03/2021;NA;NA
+minc;sdapi;Cult-SDAPI-DERAF3;RAVI;Diretor de Registro, Acompanhamento e Fiscalização;DAS;5;mestrado;historia;UFU;publica;SVE;NA;0;0;1;5;1;1;DF;PSL;PP;Bolsonaro;12/05/2021;10/09/2021;4
+minc;sdapi;Cult-SDAPI-DERAF4;GIFO;Diretor de Registro, Acompanhamento e Fiscalização;DAS;5;especializacao;direito;UNIP;privada;SVE;NA;0;0;0;0;1; NA;SP;PSL;PP;Bolsonaro;10/09/2021;NA;NA
+mapa;seaf;Agro-SEAF-S1;LANG;Secretário Especial de Assuntos Fundiários;NE;6;tecnico;zootecnia;UNOESTE;privada;SVE;PSL;1;0;0;0;1;1;NA;PSL;DEM;Bolsonaro;08/01/2019;NA;NA
+mapa;seaf;Agro-SEAF-SA1;LRSF;Secretário Adjunto;DAS;5;superior;direito;Universidade Positivo;privada;SVE;PSL;0;0;0;0;1;NA;MS;PSL;DEM;Bolsonaro;25/01/2019;05/08/2019;6,4
+mapa;seaf;Agro-SEAF-CGA1;GGSI;Coordenador-Geral de Administração;DAS;4;doutorado;engenharia florestal;UFRRJ;publica;EPPGG;NA;NA;NA;1;3;1;NA;DF;PSL;DEM;Bolsonaro;29/04/2019;11/03/2020;10,6
+mapa;seaf;Agro-SEAF-CGRF1;COSA;Coordenador-Geral de Regularização Fundiária;DAS;4;mestrado;agronomia;UnB;publica;VINC;NA;0;0;1;1;0;NA;DF;PSL;DEM;Bolsonaro;22/05/2019;13/04/2020;10,9
+mapa;seaf;Agro-SEAF-DIDL1;PGMC; Diretor de Identificação, Demarcação e Licenciamento;DAS;5;especializacao;direito;UDF;privada;ADV_UN;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;05/08/2019;6,4
+mapa;seaf;Agro-SEAF-CGCG1;LORE;Coordenador-Geral de Cartografia e Geoprocessamento;DAS;4;superior;direito;UNP;privada;SVE;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;05/07/2019;08/11/2019;4,2
+mapa;seaf;Agro-SEAF-CGDT1;LMOL;Coordenador-Geral Demarcação de Terras;DAS;4;mestrado;direito;UniCEUB;privada;ADV_UN;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;09/04/2019;24/10/2019;6,6
+mapa;seaf;Agro-SEAF-SA2;PGMC;Secretário Adjunto;DAS;5;especializacao;direito;UDF;privada;ADV_UN;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;05/08/2019;26/07/2021;24
+mapa;seaf;Agro-SEAF-CGA2;BGOM;Coordenador-Geral de Administração;DAS;4;especializacao;administracao publica;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;11/03/2020;05/10/2020;6,9
+mapa;seaf;Agro-SEAF-DRF1;LORE;Diretor de Regularização Fundiária;DAS;5;superior;direito;UNP;privada;SVE;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;08/11/2019;23/03/2020;4,5
+mapa;seaf;Agro-SEAF-DIDL2;LMOL; Diretor de Identificação, Demarcação e Licenciamento;DAS;5;mestrado;direito;UniCEUB;privada;ADV_UN;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;24/10/2019;23/03/2020;5
+mapa;seaf;Agro-SEAF-CGAF1;CLAG;Coordenador-Geral de Administração e Finanças;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;NA;NA;NA;DF;PSL;DEM;Bolsonaro;19/11/2020;04/11/2021;11,7
+mapa;seaf;Agro-SEAF-CGAF2;MMQU;Coordenador-Geral de Administração e Finanças;DAS;4;superior;direito;Universidade Projecao;privada;SVE;NA;0;0;1;NA;0;NA;DF;PSL;DEM;Bolsonaro;19/11/2021;NA;NA
+mapa;seaf;Agro-SEAF-DPCRF1;LORE;Diretor de Políticas de Cadastro e Regularização Fundiária;DAS;5;superior;direito;UNP;privada;SVE;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;20/03/2020;NA;NA
+mapa;seaf;Agro-SEAF-CGPCRA1;VBCO;Coordenador-Geral de Políticas de Colonização e Reforma Agrária;DAS;4;especializacao;direito;UCAM;privada;SVE;NA;0;0;0;0;1;NA;NA;PSL;DEM;Bolsonaro;20/01/2020;02/07/2020;5,5
+mapa;seaf;Agro-SEAF-CGPCRA2;JPOP;Coordenador-Geral de Políticas de Colonização e Reforma Agrária;DAS;4;especializacao;direito;UFU;publica;SVE;NA;0;0;1;NA;1;1;NA;PSL;DEM;Bolsonaro;26/08/2020;01/03/2021;6,2
+mapa;seaf;Agro-SEAF-CGPCRA3;IMNO;Coordenador-Geral de Políticas de Colonização e Reforma Agrária;DAS;4;NA;NA;NA;NA;OUTRO;PT;0;0;1;0;NA;NA;NA;PSL;DEM;Bolsonaro;24/05/2021;31/12/2021;7,4
+mapa;seaf;Agro-SEAF-CGPCRA4;LLOB;Coordenador-Geral de Políticas de Colonização e Reforma Agrária;DAS;4;superior;direito;Instituto Luterano;privada;SVE;NA;0;0;1;1;0;NA;DF;PSL;DEM;Bolsonaro;31/12/2021;NA;NA
+mapa;seaf;Agro-SEAF-CGRF2;ASLA;Coordenador-Geral de Regularização Fundiária;DAS;4;mestrado;agronomia;UESC;publica;VINC;NA;0;0;1;1;0;NA;;PSL;DEM;Bolsonaro;03/04/2020;;-1464,1
+mapa;seaf;Agro-SEAF-DMS1;LMOL;Diretor de Monitoramento e Supervisão;DAS;5;mestrado;direito;UniCEUB;privada;ADV_UN;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;26/03/2020;0,1
+mapa;seaf;Agro-SEAF-DMS2;EBML;Diretor de Monitoramento e Supervisão;DAS;5;especializacao;direito;UFPE;publica;ADV_UN;NA;0;0;1;0;0;NA;DF;PSL;DEM;Bolsonaro;06/05/2020;NA;NA
+mapa;seaf;Agro-SEAF-CGM1;KCFR;Coordenador-Geral de Monitoramento;DAS;4;especializacao;direito;Instituto de Ensino Superior Planalto;privada;SVE;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;20/07/2021;16,1
+mapa;seaf;Agro-SEAF-CGM2;AMMG;Coordenador-Geral de Monitoramento;DAS;4;superior;direito;UDF;privada;SVE;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;20/07/2021;NA;NA
+mapa;seaf;Agro-SEAF-SA3;LMOL;Secretário Adjunto;DAS;5;mestrado;direito;UniCEUB;privada;ADV_UN;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;30/09/2021;NA;NA
+mapa;spae;Agro-SPAE-S1;MVFB;Secretário de Produção e Agroenergia;DAS;6;superior;administracao;FGV;privada;SVE;PSDB;1;NA;0;0;1;1;SP;PT;MDB;Lula;09/07/2007;09/02/2012;55,9
+mapa;spae;Agro-SPAE-DCAA1;CJCA;Diretor da Cana-de-Açúcar e Agroenergia;DAS;5;superior;computacao e economia;UniCEUB;privada;OUTRO;NA;0;0;1;5;0;NA;DF;PT;MDB;Lula;10/08/2010;02/02/2011;5,9
+mapa;spae;Agro-SPAE-DCAA2;SBFI;Diretor da Cana-de-Açúcar e Agroenergia;DAS;5;superior;agronomia;NA;NA;SVE;NA;0;0;0;0;1;1;SP;PT;MDB;Rousseff;02/02/2011;31/08/2011;7
+mapa;spae;Agro-SPAE-DCAA3;JGFO;Diretor da Cana-de-Açúcar e Agroenergia;DAS;5;NA;NA;NA;NA;NA;NA;0;0;1;5;NA;1;DF;PT;MDB;Rousseff;22/11/2011;09/02/2012;2,6
+mapa;spae;Agro-SPAE-CGAA1;TQGU;Coordenador-Geral de Açúcar e Álcool;DAS;4;superior;agronomia;USP;publica;SVE;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;28/09/2010;09/02/2011;4,5
+mapa;spae;Agro-SPAE-CGAA2;CJCA;Coordenador-Geral de Açúcar e Álcool;DAS;4;superior;computacao e economia;UniCEUB;privada;OUTRO;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;09/02/2011;05/06/2012;16,1
+mapa;spae;Agro-SPAE-CGA1;DEFE;Coordenador-Geral de Agroenergia;DAS;4;mestrado;administracao;UFMS;publica;OUTRO;NA;NA;NA;1;NA;0;NA;SP;PT;MDB;Lula;08/10/2008;24/10/2011;37
+mapa;spae;Agro-SPAE-CGA2;JSAN;Coordenador-Geral de Agroenergia;DAS;4;NA;NA;NA;NA;OUTRO;MDB;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;25/11/2011;28/07/2015;44,7
+mapa;spae;Agro-SPAE-DC1;ROSI;Diretor do Café;DAS;5;doutorado;economia;UnB;publica;SVE;NA;0;0;1;5;NA;1;NA;PT;MDB;Lula;22/04/2010;21/10/2011;18,2
+mapa;spae;Agro-SPAE-DC2;EMAL;Diretor do Café;DAS;5;NA;NA;NA;NA;SVE;NA;0;0;1;5;1;NA;NA;PT;MDB;Rousseff;14/12/2011;25/06/2013;18,6
+mapa;spae;Agro-SPAE-CGAFDEC1;MASB;Coordenador-Geral de Apoio ao Fundo de Defesa da Economia Cafeeira;DAS;4;NA;NA;NA;NA;NA;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;15/05/2009;28/07/2015;75,5
+mapa;spae;Agro-SPAE-CGPE1;CLMA;Coordenador-Geral de Planejamento e Estratégias;DAS;4;especializacao;administracao;UPIS;privada;SVE;NA;0;0;1;3;1;NA;DF;PT;MDB;Lula;16/05/2007;28/07/2015;99,8
+mapa;spae;Agro-SPAE-S2;JGFO;Secretário de Produção e Agroenergia;DAS;6;NA;NA;NA;NA;NA;NA;0;0;1;5;NA;1;DF;PT;MDB;Rousseff;09/02/2012;27/11/2013;21,9
+mapa;spae;Agro-SPAE-DCAA4;CJCA;Diretor da Cana-de-Açúcar e Agroenergia;DAS;5;superior;computacao e economia;UniCEUB;privada;OUTRO;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;05/06/2012;20/11/2013;17,8
+mapa;spae;Agro-SPAE-CGAA3;LCMA;Coordenador-Geral de Açúcar e Álcool;DAS;4;mestrado;administracao;UnB;publica;EPPGG;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;25/07/2012;19/12/2013;17,1
+mapa;spae;Agro-SPAE-DC3;JZSI;Diretor do Café;DAS;5;especializacao;administracao;FAPIPA;privada;SVE;NA;0;0;0;0;1;NA;NA;PT;MDB;Rousseff;25/06/2013;14/07/2014;12,8
+mapa;spae;Agro-SPAE-S3;JAPL;Secretário de Produção e Agroenergia;DAS;6;superior;direito;PUC;privada;SVE;NA;0;0;1;NA;1;1;MG;PT;MDB;Rousseff;21/11/2013;11/04/2014;4,7
+mapa;spae;Agro-SPAE-DCAA5;FJSA;Diretor da Cana-de-Açúcar e Agroenergia;DAS;5;superior;economia;NA;NA;VINC;NA;0;0;1;0;NA;NA;DF;PT;MDB;Rousseff;20/11/2013;15/06/2015;19,1
+mapa;spae;Agro-SPAE-CGAA4;CJCA;Coordenador-Geral de Açúcar e Álcool;DAS;4;superior;computacao e economia;UniCEUB;privada;OUTRO;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;19/12/2013;28/07/2015;19,5
+mapa;spae;Agro-SPAE-S4;CESL;Secretário de Produção e Agroenergia;DAS;6;NA;NA;NA;NA;VINC;NA;0;0;1;5;NA;NA;NA;PT;MDB;Rousseff;11/04/2014;03/03/2015;10,9
+mapa;spae;Agro-SPAE-DC4;ROOL;Diretor do Café;DAS;5;mestrado;agronomia;USP;publica;VINC;NA;0;0;1;3;0;1;DF;PT;MDB;Rousseff;06/08/2014;23/03/2015;7,6
+mapa;spae;Agro-SPAE-DCAA6;LSFE;Diretor da Cana-de-Açúcar e Agroenergia;DAS;5;especializacao;administracao;Centro Universitário Luterano;privada;SVE;NA;0;0;0;0;0;NA;DF;PT;MDB;Rousseff;15/06/2015;28/07/2015;1,4
+mapa;spae;Agro-SPAE-DC5;ESMA;Diretor do Café;DAS;5;mestrado;agronomia;UFLA;publica;EPPGG;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;03/06/2015;28/07/2015;1,8
+mapa;spa;Agro-SPA-S1;EDGU;Secretário de Política Agrícola;DAS;6;superior;economia;NA;NA;VINC;NA;0;0;1;5;NA;NA;NA;PT;MDB;Lula;18/06/2006;18/05/2011;59,8
+mapa;spa;Agro-SPA-DCAAP1;JMAN;Diretor de Comercialização e Abastecimento Agrícola e Pecuário;DAS;5;superior;administracao;União Educacional de Brasília;privada;VINC;NA;0;0;1;5;NA;NA;DF;PT;MDB;Lula;22/05/2003;20/07/2011;99,4
+mapa;spa;Agro-SPA-CGCCA1;SIFA;Coordenador-Geral de Cereais e Culturas Anuais;DAS;4;mestrado;agronomia;UFV;publica;VINC;NA;0;0;1;3;0;NA;DF;PT;MDB;Lula;NA;14/07/2011;NA
+mapa;spa;Agro-SPA-CGOF1;SRPE;Coordenador-Geral de Oleaginosas e Fibras;DAS;4;mestrado;economia;UFMG;publica;VINC;NA;0;0;1;3;0;1;DF;PT;MDB;Lula;NA;14/07/2011;NA
+mapa;spa;Agro-SPA-CGPCP1;JAFS;Coordenador-Geral para Pecuária e Culturas Permanentes;DAS;4;mestrado;agronomia;UnB;publica;VINC;NA;0;0;1;3;0;NA;DF;PT;MDB;Lula;31/05/2006;26/08/2015;112,5
+mapa;spa;Agro-SPA-DEA1;WVAR;Diretor de Economia Agrícola;DAS;5;mestrado;economia;Católica;privada;VINC;NA;0;0;1;3;1;NA;DF;PT;MDB;Rousseff;25/08/2006;20/05/2011;57,6
+mapa;spa;Agro-SPA-CGAE1;MFGU;Coordenador-Geral de Análises Econômicas;DAS;4;mestrado;economia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PT;MDB;Lula;15/09/2006;25/05/2011;57,1
+mapa;spa;Agro-SPA-CGEIA1;RAHE;Coordenador-Geral de Estudos e Informações Agropecuárias;DAS;4;superior;economia;NA;NA;VINC;PSDB;0;0;1;3;NA;NA;DF;PT;MDB;Lula;22/02/2008;26/05/2011;39,6
+mapa;spa;Agro-SPA-DGRR1;WSAL;Diretor de Gestão de Risco Rural;DAS;5;NA;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;NA;PT;MDB;Lula;01/02/2005;01/03/2011;74
+mapa;spa;Agro-SPA-CGSR1;EMSA;Coordenador-Geral de Seguro Rural;DAS;4;especializacao;NA;NA;NA;SVE;NA;0;0;1;NA;0;NA;DF;PT;MDB;Lula;21/11/2006;09/07/2012;68,6
+mapa;spa;Agro-SPA-CGZA1;GUBR;Coordenador-Geral de Zoneamento Agropecuário;DAS;4;especializacao;agronomia;USP;publica;SE_INT;NA;0;0;1;1;0;NA;DF;PT;MDB;Lula;03/06/2008;21/05/2014;72,6
+mapa;spa;Agro-SPA-S2;JCVZ;Secretário de Política Agrícola;DAS;6;superior;direito;NA;NA;OUTRO;NA;NA;NA;1;NA;NA;1;NA;PT;MDB;Rousseff;18/05/2011;02/09/2011;3,6
+mapa;spa;Agro-SPA-DCAAP2;EDGU;Diretor de Comercialização e Abastecimento Agrícola e Pecuário;DAS;5;superior;economia;NA;NA;VINC;NA;0;0;1;5;NA;NA;NA;PT;MDB;Rousseff;01/11/2011;21/07/2014;33,1
+mapa;spa;Agro-SPA-CGCCA2;JMAN;Coordenador-Geral de Cereais e Culturas Anuais;DAS;4;superior;administracao;União Educacional de Brasília;privada;VINC;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;06/09/2011;21/07/2014;35
+mapa;spa;Agro-SPA-CGOF2;SIFA;Coordenador-Geral de Oleaginosas e Fibras;DAS;4;mestrado;agronomia;UFV;publica;VINC;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;25/07/2011;22/06/2014;35,4
+mapa;spa;Agro-SPA-DEA2;LACS;Diretor de Economia Agrícola;DAS;5;especializacao;agronomia;USP;publica;SVE;NA;NA;NA;1;NA;NA;NA;NA;PT;MDB;Rousseff;20/05/2011;14/12/2011;6,9
+mapa;spa;Agro-SPA-CGAE2;WVAR;Coordenador-Geral de Análises Econômicas;DAS;4;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;PT;MDB;Rousseff;25/05/2011;14/12/2011;6,8
+mapa;spa;Agro-SPA-CGEIA2;MFGU;Coordenador-Geral de Estudos e Informações Agropecuárias;DAS;4;mestrado;economia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PT;MDB;Rousseff;25/05/2011;26/08/2015;51,8
+mapa;spa;Agro-SPA-DGRR2;EMAL;Diretor de Gestão de Risco Rural;DAS;5;superior;comunicacao;UniCEUB;privada;SVE;NA;0;0;0;0;1;NA;NA;PT;MDB;Rousseff;01/03/2011;13/12/2011;9,6
+mapa;spa;Agro-SPA-S3;CTDR;Secretário de Política Agrícola;DAS;6;mestrado;agronomia;UPF;privada;OUTRO;MDB;0;0;1;5;0;1;RS;PT;MDB;Rousseff;23/09/2011;11/10/2012;12,8
+mapa;spa;Agro-SPA-DEA3;WVAR;Diretor de Economia Agrícola;DAS;5;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;PT;MDB;Rousseff;14/12/2011;26/08/2015;45
+mapa;spa;Agro-SPA-CGAE3;ALMM;Coordenador-Geral de Análises Econômicas;DAS;4;mestrado;economia;Mackenzie;privada;VINC;NA;0;0;1;3;1;1;DF;PT;MDB;Rousseff;23/05/2012;28/07/2015;38,7
+mapa;spa;Agro-SPA-DGRR3;LACS;Diretor de Gestão de Risco Rural;DAS;5;especializacao;agronomia;USP;publica;SVE;NA;NA;NA;1;NA;NA;NA;NA;PT;MDB;Rousseff;14/12/2011;23/07/2013;19,6
+mapa;spa;Agro-SPA-CGSR2;LSRA;Coordenador-Geral de Seguro Rural;DAS;4;superior;agronomia;USP;publica;SE_INT;PT;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;09/07/2012;28/06/2013;11,8
+mapa;spa;Agro-SPA-CGSR3;SRPE;Coordenador-Geral de Seguro Rural;DAS;4;mestrado;economia;UFMG;publica;VINC;NA;0;0;1;3;0;1;DF;PT;MDB;Rousseff;14/07/2013;22/06/2014;11,4
+mapa;spa;Agro-SPA-S4;NRGE;Secretário de Política Agrícola;DAS;6;tecnico;agronomia;NA;NA;SVE;PP;1;1;0;0;1;1;DF;PT;MDB;Rousseff;03/01/2013;17/03/2014;14,6
+mapa;spa;Agro-SPA-DGRR4;VPDI;Diretor de Gestão de Risco Rural;DAS;5;superior;NA;NA;NA;OUTRO;PSDB;0;0;1;5;NA;NA;NA;PT;MDB;Rousseff;14/10/2013;28/07/2014;9,6
+mapa;spa;Agro-SPA-S5;SKPA;Secretário de Política Agrícola;DAS;6;especializacao;agronomia;UNIMAR;privada;SVE;NA;0;0;0;0;0;1;NA;PT;MDB;Rousseff;11/04/2014;12/11/2014;7,2
+mapa;spa;Agro-SPA-DCAAP3;JMAN;Diretor de Comercialização e Abastecimento Agrícola e Pecuário;DAS;5;superior;administracao;União Educacional de Brasília;privada;VINC;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;21/07/2014;15/04/2016;21,1
+mapa;spa;Agro-SPA-CGCCA3;SIFA;Coordenador-Geral de Cereais e Culturas Anuais;DAS;4;mestrado;agronomia;UFV;publica;VINC;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;22/07/2014;28/07/2015;12,4
+mapa;spa;Agro-SPA-CGOF3;SRPE;Coordenador-Geral de Oleaginosas e Fibras;DAS;4;mestrado;economia;UFMG;publica;VINC;NA;0;0;1;3;0;1;DF;PT;MDB;Rousseff;22/06/2014;28/07/2015;13,4
+mapa;spa;Agro-SPA-DGRR5;RGSA;Diretor de Gestão de Risco Rural;DAS;5;superior;NA;NA;NA;SVE;PTB;0;0;0;0;NA;NA;DF;PT;MDB;Rousseff;28/07/2014;27/03/2015;8,1
+mapa;spa;Agro-SPA-CGZA2;HBRO;Coordenador-Geral de Zoneamento Agropecuário;DAS;4;superior;agronomia;Faculdade de Terra de Brasília;privada;SE_INT;NA;0;0;1;1;0;NA;DF;PT;MDB;Rousseff;21/05/2014;03/05/2016;23,8
+mapa;spa;Agro-SPA-CGSR4;GUBR;Coordenador-Geral de Seguro Rural;DAS;4;especializacao;agronomia;USP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;21/05/2014;25/10/2017;41,8
+mapa;spa;Agro-SPA-S6;AMNA;Secretário de Política Agrícola;DAS;6;doutorado;agronomia;USP;publica;SVE;NA;0;0;0;0;0;NA;SP;PT;MDB;Rousseff;30/03/2015;12/05/2016;13,6
+mapa;spa;Agro-SPA-DGRR6;FCLA;Diretor de Gestão de Risco Rural;DAS;5;especializacao;cooperativismo;NA;NA;SVE;NA;0;0;0;0;1;1;DF;PT;MDB;Rousseff;27/03/2015;28/07/2015;4,1
+mapa;spa;Agro-SPA-CGGFO1;SIFA;Coordenador-Geral de Grãos, Fibras e Oleaginosas;DAS;4;mestrado;agronomia;UFV;publica;VINC;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;28/07/2015;03/05/2016;9,3
+mapa;spa;Agro-SPA-CGGFO2;JMAN;Coordenador-Geral de Grãos, Fibras e Oleaginosas;DAS;4;superior;administracao;União Educacional de Brasília;privada;VINC;NA;0;0;1;5;NA;NA;DF;MDB;MDB;Temer;03/05/2016;13/07/2016;2,4
+mapa;spa;Agro-SPA-CGFFC1;ESMA;Coordenador-Geral de Frutas, Florestas e Café;DAS;4;mestrado;agronomia;UFLA;publica;EPPGG;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;28/07/2015;03/05/2016;9,3
+mapa;spa;Agro-SPA-CGFFC2;SIFA;Coordenador-Geral de Frutas, Florestas e Café;DAS;4;mestrado;agronomia;UFV;publica;VINC;NA;0;0;1;3;0;NA;DF;MDB;MDB;Temer;03/05/2016;08/06/2016;1,2
+mapa;spa;Agro-SPA-CGAP1;JAFS;Coordenador-Geral de Assuntos da Pecuária;DAS;4;mestrado;agronomia;UnB;publica;VINC;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;26/08/2015;19/10/2016;14
+mapa;spa;Agro-SPA-CGCA1;CJCA;Coordenador-Geral de Cana-de-Açúcar e Agroenergia;DAS;4;superior;computacao e economia;UniCEUB;privada;OUTRO;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;28/07/2015;NA;NA
+mapa;spa;Agro-SPA-DCRR1;VAOZ;Diretor de Créditos, Recursos e Riscos;DAS;5;doutorado;agronomia;USP;publica;SVE;NA;0;0;0;0;0;NA;SP;PT;MDB;Rousseff;29/06/2015;03/05/2016;10,3
+mapa;spa;Agro-SPA-CGCR1;ALMM;Coordenador-Geral de Crédito Rural;DAS;4;mestrado;economia;Mackenzie;privada;VINC;NA;0;0;1;3;1;1;DF;PT;MDB;Rousseff;28/07/2015;15/04/2016;8,7
+mapa;spa;Agro-SPA-CGCR2;WVAR;Coordenador-Geral de Crédito Rural;DAS;4;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;PT;PP;Rousseff;03/05/2016;13/06/2016;1,4
+mapa;spa;Agro-SPA-CGGR1;MASB;Coordenador-Geral de Gestão de Recursos;DAS;4;NA;NA;NA;NA;NA;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;28/07/2015;08/08/2016;12,6
+mapa;spa;Agro-SPA-DEE1;WVAR;Diretor de Estudos Econômicos;DAS;5;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;PT;MDB;Rousseff;26/08/2015;15/04/2016;7,8
+mapa;spa;Agro-SPA-DILGSA1;MCSA;Diretor de Infraestrutura, Logística e Geoconhecimento para o Setor Agropecuário;DAS;5;superior;agronomia;USP;publica;SVE;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;29/07/2015;21/03/2016;7,9
+mapa;spa;Agro-SPA-DEE2;MCSA;Diretor de Estudos Econômicos;DAS;5;superior;agronomia;USP;publica;SVE;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;22/03/2016;03/05/2016;1,4
+mapa;spa;Agro-SPA-DCEE1;MCSA;Diretor de Crédito e Estudos Econômicos;DAS;5;superior;agronomia;USP;publica;SVE;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;03/05/2016;14/06/2016;1,4
+mapa;spa;Agro-SPA-CGE1;MFGU;Coordenador-Geral de Estatísticas;DAS;4;mestrado;economia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;MDB;Temer;26/08/2015;19/10/2016;14
+mapa;spa;Agro-SPA-CGEA1;JGGA;Coordenador-Geral de Estudos e Análises;DAS;4;doutorado;economia;NA;NA;OUTRO;NA;0;0;1;3;0;1;DF;PT;MDB;Rousseff;28/07/2015;12/02/2019;43,2
+mapa;spa;Agro-SPA-CGIL1;CLMA;Coordenador-Geral de Infraestrutura e Logística;DAS;4;especializacao;administracao;UPIS;privada;SVE;NA;0;0;1;3;1;NA;DF;PT;MDB;Rousseff;28/07/2015;01/03/2016;7,2
+mapa;spa;Agro-SPA-CGIL2;CANB;Coordenador-Geral de Infraestrutura e Logística;DAS;4;tecnico;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;MDB;Temer;03/05/2016;25/01/2019;33,2
+mapa;spa;Agro-SPA-DCAAP4;ESMA;Diretor de Comercialização e Abastecimento Agrícola e Pecuário;DAS;5;mestrado;agronomia;UFLA;publica;EPPGG;NA;0;0;1;5;0;NA;DF;MDB;MDB;Temer;03/05/2016;13/07/2016;2,4
+mapa;spa;Agro-SPA-CGBF1;FECN;Coordenador-Geral de Borracha e Floresta;DAS;4;doutorado;engenharia florestal;UnB;publica;SVE;NA;0;0;1;3;0;1;DF;PT;MDB;Rousseff;03/05/2015;15/07/2016;14,6
+mapa;spa;Agro-SPA-CGRA1;HBRO;Coordenador-Geral de Risco Agropecuário;DAS;4;superior;agronomia;Faculdade de Terra de Brasília;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;29/04/2016;NA;NA
+mapa;spa;Agro-SPA-S7;NRGE;Secretário de Política Agrícola;DAS;6;tecnico;NA;NA;NA;SVE;PP;1;1;1;5;1;1;DF;MDB;PP;Temer;02/06/2016;06/04/2018;22,4
+mapa;spa;SPA-CGFOB1;ROHE;Coordenador-Geral de Fibras, Oleaginosas e Borracha;DAS;4;especializacao;comunicacao;Unsinos;privada;SVE;NA;0;0;1;3;1;1;DF;MDB;PP;Temer;08/09/2016;18/10/2016;1,3
+mapa;spa;Agro-SPA-CGAR1;ROHE;Coordenador-Geral de Articulação;DAS;4;especializacao;comunicacao;Unsinos;privada;SVE;NA;0;0;1;3;1;1;DF;MDB;PP;Temer;18/10/2016;22/01/2019;27,5
+mapa;spa;Agro-SPA-DCA1;JMAN;Diretor de Comercialização e Abastecimento;DAS;5;superior;administracao;União Educacional de Brasília;privada;VINC;NA;0;0;1;5;NA;NA;DF;MDB;PP;Temer;13/07/2016;09/01/2019;30,3
+mapa;spa;Agro-SPA-CGBF2;SRPE;Coordenador-Geral de Borracha e Floresta;DAS;4;mestrado;economia;UFMG;publica;VINC;NA;0;0;1;3;0;1;DF;MDB;PP;Temer;15/07/2016;19/10/2016;3,2
+mapa;spa;Agro-SPA-CGFAP1;JAFS;Coordenador-Geral de Florestas e de Assuntos da Pecuária;DAS;4;mestrado;agronomia;UnB;publica;VINC;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;19/10/2016;13/02/2019;28,2
+mapa;spa;Agro-SPA-CGFC1;SIFA;Coordenador-Geral de Frutas e Café;DAS;4;mestrado;agronomia;UFV;publica;VINC;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;08/06/2016;18/10/2016;4,4
+mapa;spa;Agro-SPA-CGC1;JMFR;Coordenador-Geral de Café;DAS;4;especializacao;administracao;Católica;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;19/10/2016;19/02/2019;28,4
+mapa;spa;Agro-SPA-CGCF1;SIFA;Coordenador-Geral de Cereais e Frutas;DAS;4;mestrado;agronomia;UFV;publica;VINC;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;18/10/2016;09/01/2019;27,1
+mapa;spa;Agro-SPA-DGRRE1;VAOZ;Diretor de Gestão de Riscos e Recursos Econômicos;DAS;5;doutorado;agronomia;USP;publica;SVE;NA;0;0;1;5;0;NA;DF;MDB;MDB;Temer;03/05/2016;19/10/2016;5,6
+mapa;spa;Agro-SPA-DGR1;VAOZ;Diretor de Gestão de Riscos;DAS;5;doutorado;agronomia;USP;publica;SVE;NA;0;0;1;5;0;NA;DF;MDB;PP;Temer;19/10/2016;14/06/2018;20,1
+mapa;spa;Agro-SPA-CGSR5;DMAL;Coordenador-Geral de Seguro Rural;DAS;4;superior;administracao;IESB;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;25/10/2017;NA;NA
+mapa;spa;Agro-SPA-DCEE2;WVAR;Diretor de Crédito e Estudos Econômicos;DAS;5;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;MDB;PP;Temer;13/07/2016;03/08/2018;25
+mapa;spa;Agro-SPA-CGCR3;ALMM;Coordenador-Geral de Crédito Rural;DAS;4;mestrado;economia;Mackenzie;privada;VINC;NA;0;0;1;3;1;1;DF;MDB;PP;Temer;09/09/2016;09/10/2018;25,3
+mapa;spa;Agro-SPA-DILGSA2;OBSF;Diretor de Infraestrutura, Logística e Geoconhecimento para o Setor Agropecuário;DAS;5;especializacao;administracao;UnB;publica;EPPGG;NA;0;0;1;5;0;NA;DF;MDB;PP;Temer;22/03/2016;20/07/2016;4
+mapa;spa;Agro-SPA-DILGSA3;WISC;Diretor de Infraestrutura, Logística e Geoconhecimento para o Setor Agropecuário;DAS;5;NA;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;NA;MDB;PP;Temer;27/07/2016;02/02/2019;30,7
+mapa;spa;Agro-SPA-S8;WVAR;Secretário de Política Agrícola;DAS;6;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;MDB;PP;Temer;03/08/2016;04/01/2019;29,5
+mapa;spa;Agro-SPA-DCEE3;ALMM;Diretor de Crédito e Estudos Econômicos;DAS;5;mestrado;economia;Mackenzie;privada;VINC;NA;0;0;1;3;1;1;DF;MDB;PP;Temer;09/10/2018;25/01/2019;3,6
+mapa;spa;Agro-SPA-DGR2;MFGU;Diretor de Gestão de Riscos;DAS;5;mestrado;economia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;PP;Temer;21/06/2018;21/01/2019;7,1
+mapa;spa;Agro-SPA-S9;ESMA;Secretário de Política Agrícola;DAS;6;mestrado;agronomia;UFLA;publica;EPPGG;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;04/01/2019;18/06/2020;17,7
+mapa;spa;Agro-SPA-SA1;JAMJ;Secretário Adjunto;DAS;5;mestrado;engenharia de producao;UFRJ;publica;OUTRO;NA;0;0;1;NA;1;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;;
+mapa;spa;Agro-SPA-DCA2;SIFA;Diretor de Comercialização e Abastecimento;DAS;5;mestrado;agronomia;UFV;publica;VINC;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;09/01/2019;NA;NA
+mapa;spa;Agro-SPA-CGCAN1;JMAN;Coordenador-Geral de Culturas Anuais;DAS;4;superior;administracao;União Educacional de Brasília;privada;VINC;NA;0;0;1;5;NA;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;22/04/2020;15,1
+mapa;spa;Agro-SPA-CGFOB1;SRPE;Coordenador-Geral de Fibras, Oleaginosas e Borracha;DAS;4;mestrado;economia;UFMG;publica;VINC;NA;0;0;1;3;0;1;DF;MDB;DEM;Temer;19/10/2016;12/02/2019;28,2
+mapa;spa;Agro-SPA-CGCPPFP1;SRPE;Coordenador-Geral de Culturas Perenes, Pecuária e Florestas Plantadas;DAS;4;mestrado;economia;UFMG;publica;VINC;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;12/02/2019;17/03/2020;13,3
+mapa;spa;Agro-SPA-CGACAF1;JAFS;Coordenador-Geral de Apoio à Comercialização da Agricultura Familiar;DAS;4;mestrado;agronomia;UnB;publica;VINC;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;13/02/2019;23/03/2020;13,5
+mapa;spa;Agro-SPA-CGFCA1;JMFR;Coordenador-Geral do FUNCAFÉ;DAS;4;especializacao;administracao;Católica;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;19/02/2019;13/04/2020;14
+mapa;spa;Agro-SPA-DFI1;WVAR;Diretor de Financiamento e Informação;DAS;5;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;12/05/2021;27,9
+mapa;spa;Agro-SPA-CGCR4;ALMM;Coordenador-Geral de Crédito Rural;DAS;4;mestrado;economia;Mackenzie;privada;VINC;NA;0;0;1;5;1;1;DF;PSL;DEM;Bolsonaro;25/01/2019;;-1449,7
+mapa;spa;Agro-SPA-CGFAF1;JHES;Coordenador-Geral de Financiamento à Agricultura Familiar;DAS;4;mestrado;agronomia;UFG;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;22/04/2020;15,1
+mapa;spa;Agro-SPA-CGAPI1;JGGA;Coordenador-Geral de Avaliação de Políticas e Informação;DAS;4;doutorado;economia;NA;NA;OUTRO;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;12/02/2019;29/10/2021;33
+mapa;spa;Agro-SPA-DGR3;PMLJ;Diretor de Gestão de Riscos;DAS;5;especializacao;economia;UFPR;publica;SVE;NA;0;0;0;0;1;1;PR;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;spa;Agro-SPA-CGSAF1;JCZU;Coordenador-Geral de Seguro da Agricultura Familiar;DAS;4;mestrado;economia;UNICAMP;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;04/06/2019;4,3
+mapa;spa;Agro-SPA-CGSAF2;JCMJ;Coordenador-Geral de Seguro da Agricultura Familiar;DAS;4;superior;agronomia;UFBA;publica;SVE;NA;0;0;1;1;1;1;NA;PSL;DEM;Bolsonaro;04/06/2019;22/04/2020;10,8
+mapa;spa;Agro-SPA-DEP1;LEPR;Diretor de Estudos e Prospecção;DAS;5;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;22/04/2020;15,1
+mapa;spa;Agro-SPA-CGSE1;MFGU;Coordenador-Geral de Suporte Econômico;DAS;4;mestrado;economia;UnB;publica;SE_INT;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;22/04/2020;15,1
+mapa;spa;Agro-SPA-CGAP1;LCCA;Coordenador-Geral de Análises Prospectivas;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;15/04/2019;2,7
+mapa;spa;Agro-SPA-CGAP2;EMMZ;Coordenador-Geral de Análises Prospectivas;DAS;4;doutorado;agronomia;UPF;privada;OUTRO;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;02/05/2019;22/04/2020;11,9
+mapa;spa;Agro-SPA-CGACST1;HEJR;Coordenador-Geral de Apoio às Câmaras Setoriais e Temáticas;DAS;4;especializacao;agronomia;UNESP;publica;SE_INT;PPS;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;20/03/2019;NA;NA
+mapa;spa;Agro-SPA-DINMET1;FRAD;Diretor do Instituto Nacional de Metereologia;DAS;5;mestrado;meteorologia;UFPB;publica;SE_INT;NA;0;0;1;5;0;1;DF;MDB;PP;Temer;10/08/2016;23/04/2019;32,9
+mapa;spa;Agro-SPA-DINMET2;CECC;Diretor do Instituto Nacional de Metereologia;DAS;5;NA;NA;NA;NA;MIL;NA;0;0;0;0;0;NA;NA;PSL;DEM;Bolsonaro;23/04/2019;16/12/2020;20,1
+mapa;spa;Agro-SPA-CGMADP1;MASS;Coordenador-Geral de Meteorologia Aplicada, Desenvolvimento e Pesquisa;DAS;4;mestrado;meteorologia;UFRJ;publica;SE_INT;NA;0;0;1;NA;0;NA;NA;PSL;DEM;Bolsonaro;19/06/2019;NA;NA
+mapa;spa;Agro-SPA-CGMN1;FQFI;Coordenador-Geral de Modelagem Numérica;DAS;4;especializacao;meteorologia;UFPB;publica;SE_INT;NA;0;0;1;1;0;NA;DF;PT;MDB;Lula;16/03/2006;29/09/2021;189,2
+mapa;spa;Agro-SPA-CGSCI1;JOMRE;Coordenador-Geral de Sistemas de Comunicação e Informação;DAS;4;superior;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;NA;PT;MDB;Lula;21/09/2005;11/02/2020;175,2
+mapa;spa;Agro-SPA-S10;CHHA;Secretário de Política Agrícola;DAS;6;superior;veterinaria;UFG;publica;SVE;PRB;1;1;0;0;0;1;DF;PSL;DEM;Bolsonaro;18/06/2020;01/07/2021;12,6
+mapa;spa;Agro-SPA-CGOFF1;SRPE;Coordenação-Geral de Oleaginosas, Fibras e Frutas;DAS;4;mestrado;economia;UFMG;publica;VINC;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;23/03/2020;NA;NA
+mapa;spa;Agro-SPA-CGC1;JMAN;Coordenador-Geral de Cereais;DAS;4;superior;administracao;União Educacional de Brasília;privada;VINC;NA;0;0;1;5;NA;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;NA;NA
+mapa;spa;Ago-SPA-CGFPP1;JAFS;Coordenador-Geral de Florestas Plantadas e Pecuária;DAS;4;mestrado;agronomia;UnB;publica;VINC;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;04/11/2021;19,7
+mapa;spa;Agro-SPA-CGC1;JMFR;Coordenador-Geral do Café;FCPE_DAS;4;especializacao;administracao;Católica;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;13/04/2020;;
+mapa;spa;Agro-SPA-DCI1;WVAR;Diretor de Crédito e Informação;DAS;5;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;12/05/2021;03/12/2021;6,8
+mapa;spa;Agro-SPA-CGCAF1;JHES;Coordenador-Geral de Crédito à Agricultura Familiar;DAS;4;mestrado;agronomia;UFG;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;NA;NA
+mapa;spa;Agro-SPA-CGTGS1;VIMF;Coordenador-Geral tecnico do Garantia-Safra;DAS;4;especializacao;agronomia;UFSCAR;publica;SVE;NA;0;0;0;0;1;NA;SP;PSL;DEM;Bolsonaro;19/03/2020;06/05/2021;13,8
+mapa;spa;Agro-SPA-CGTGS2;FACL;Coordenador-Geral tecnico do Garantia-Safra;DAS;4;superior;agronomia;UFPR;publica;SVE;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;06/05/2021;04/11/2021;6,1
+mapa;spa;Agro-SPA-CGOGS1;JCMJ;Coordenador-Geral Operacional do Garantia-Safra;DAS;4;superior;agronomia;UFBA;publica;SVE;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;22/04/2020;04/10/2021;17,7
+mapa;spa;Agro-SPA-DAEPP1;LEPR;Diretor de Análise Econômica e Políticas Públicas;DAS;5;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;27/11/2020;7,3
+mapa;spa;Agro-SPA-DAEPP2;JAMA;Diretor de Análise Econômica e Políticas Públicas;DAS;5;mestrado;economia;Católica;privada;NA;NA;0;0;1;5;0;NA;NA;PSL;DEM;Bolsonaro;16/12/2020;15/09/2021;9,1
+mapa;spa;Agro-SPA-CGAE1;MFGU;Coordenador-Geral de Análise Econômica;DAS;4;mestrado;economia;UnB;publica;SE_INT;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;NA;NA
+mapa;spa;Agro-SPA-CGPC1;EMMZ;Coordenador-Geral de Planos e Cenários;DAS;4;doutorado;agronomia;UPF;privada;OUTRO;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;04/11/2021;18,7
+mapa;spa;Agro-SPA-S11;GUBF;Secretário de Política Agrícola;DAS;6;mestrado;agronomia;UFV;publica;SVE;NA;0;0;1;5;1;NA;NA;PSL;DEM;Bolsonaro;01/07/2021;NA;NA
+mapa;spa;Agro-SPA-CGAF1;VPBR;Coordenação-Geral de Administração e Finanças;FCPE;4;especializacao;direito;NA;NA;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;28/10/2021;NA;NA
+mapa;spa;Agro-SPA-CGCPP1;JAFS;Coordenação-Geral de Culturas Perenes e Pecuária;DAS;4;mestrado;agronomia;UnB;publica;VINC;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;spa;Agro-SPA-DPFSA1;WVAR;Diretor de Política de Financiamento ao Setor Agropecuário;DAS;5;mestrado;economia;Católica;privada;VINC;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;03/12/2021;NA;NA
+mapa;spa;Agro-SPA-CGIMF1;JAMO;Coordenador-Geral de Instrumentos de Mercado e Financiamento;DAS;4;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;spa;Agro-SPA-CGMI1;FACL;Coordenador-Geral de Monitoramento e Inovação;DAS;4;superior;agronomia;UFPR;publica;SVE;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;spa;Agro-SPA-DAEPP3;MACM;Diretor de Análise Econômica e Políticas Públicas;DAS;5;doutorado;agronomia;USP;publica;OUTRO;NA;0;0;1;NA;0;NA;DF;PSL;DEM;Bolsonaro;15/09/2021;NA;NA
+mapa;spa;Agro-SPA-CGPC2;JGGA;Coordenador-Geral de Planos e Cenários;DAS;4;doutorado;economia;NA;NA;OUTRO;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;spa;Agro-SPA-CGI1;RADF;Coordenador-Geral de Inteligência;DAS;4;superior;agronomia;UnB;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;sda;Agro-SDA-S1;FSFJ;Secretário de Defesa Agropecuária;DAS;6;superior;veterinaria;NA;NA;SE_INT;PTB / MDB;1;0;1;3;NA;NA;SP;PT;MDB;Lula;21/05/2010;15/02/2012;21,2
+mapa;sda;Agro-SDA-CGSVA1;MBVA;Coordenador-Geral do Sistema de Vigilância Agropecuária;DAS;4;superior;agronomia;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Lula;16/09/2010;29/05/2012;20,7
+mapa;sda;Agro-SDA-CGAL1;JOCJ;Coordenador-Geral de Apoio Laboratorial;DAS;4;doutorado;veterinaria;UFV;publica;SE_INT;NA;0;0;1;5;1;1;DF;PT;MDB;Lula;20/07/2009;06/12/2012;41,2
+mapa;sda;Agro-SDA-DFIA1;GERA;Diretor de Fiscalização de Insumos Agrícolas;DAS;5;superior;agronomia;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Lula;24/12/2007;19/01/2016;98,3
+mapa;sda;Agro-SDA-CGAA1;LEPR;Coordenador-Geral de Agrotóxicos e Afins;DAS;4;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;1;0;NA;DF;PT;MDB;Lula;17/04/2006;27/11/2013;92,7
+mapa;sda;Agro-SDA-DFIP1;MARO; Diretor de Fiscalização de Insumos Pecuários;DAS;5;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;1;NA;NA;DF;PT;MDB;Lula;05/12/2007;14/01/2011;37,9
+mapa;sda;Agro-SDA-DFIP2;RIRP; Diretor de Fiscalização de Insumos Pecuários;DAS;5;superior;veterinaria;UFBA;publica;SE_INT;NA;0;0;1;3;NA;NA;NA;PT;MDB;Rousseff;14/01/2011;27/04/2012;15,6
+mapa;sda;Agro-SDA-DIPOA1;NOCS;Diretor de Inspeção de Produtos de Origem Animal;DAS;5;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;1;NA;NA;NA;PT;MDB;Lula;01/03/2004;21/01/2011;83,9
+mapa;sda;Agro-SDA-DIPOA2;LCOL;Diretor de Inspeção de Produtos de Origem Animal;DAS;5;superior;veterinaria;NA;NA;VINC;NA;NA;NA;1;5;1;1;NA;PT;MDB;Rousseff;21/01/2011;10/10/2012;20,9
+mapa;sda;Agro-SDA-CGI1;JMNO;Coordenador-Geral de Inspeção;DAS;4;especializacao;veterinaria;UFPB;publica;SE_INT;NA;0;0;1;1;0;NA;DF;PT;MDB;Lula;06/07/2009;24/01/2011;18,9
+mapa;sda;Agro-SDA-CGI2;MRFR;Coordenador-Geral de Inspeção;DAS;4;mestrado;veterinaria;UFG;publica;SE_INT;PT;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;24/01/2011;29/02/2012;13,4
+mapa;sda;Agro-SDA-CGPE1;PMAR;Coordenador-Geral de Programas Especiais;DAS;4;especializacao;veterinaria;UFPEL;publica;SE_INT;NA;0;0;1;1;0;NA;DF;PT;MDB;Lula;06/07/2009;01/02/2011;19,2
+mapa;sda;Agro-SDA-CGPE2;VCSO;Coordenador-Geral de Programas Especiais;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;0;1;NA;NA;PT;MDB;Rousseff;01/02/2011;13/03/2012;13,5
+mapa;sda;Agro-SDA-DIPOV1;MATD;Diretor de Inspeção de Produtos de Origem Vegetal;DAS;5;superior;agronomia;UFRGS;publica;SVE;PMN;1;1;1;5;1;1;NA;PT;MDB;Lula;05/12/2007;11/10/2012;59,1
+mapa;sda;Agro-SDA-CGVB1;HEMB;Coordenador-Geral de Vinhos e Bebidas;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;1;NA;NA;DF;PT;MDB;Lula;27/01/2010;05/10/2012;32,7
+mapa;sda;Agro-SDA-CGQV1;FFFE; Coordenador-Geral de Qualidade Vegetal;DAS;4;especializacao;agronomia;ESAC;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Lula ;19/10/2010;29/11/2013;37,9
+mapa;sda;Agro-SDA-DSV1;CCCO;Diretor de Sanidade Vegetal;DAS;5;especializacao;agronomia;UFBA;publica;SE_INT;NA;0;0;1;0;0;NA;NA;PT;MDB;Lula;04/08/2010;14/11/2013;39,9
+mapa;sda;Agro-SDA-CGPP1;CAFR;Coordenador-Geral de Proteção de Plantas;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Lula;06/10/2010;18/08/2014;47,1
+mapa;sda;Agro-SDA-DSA1;JMGS;Diretor de Saúde Animal;DAS;5;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;NA;PT;MDB;Lula;30/03/2006;21/01/2011;58,6
+mapa;sda;Agro-SDA-CGCD1;GHFM;Coordenador-Geral de Combate às Doenças;DAS;4;especializacao;veterinaria;UFRRJ;publica;SE_INT;NA;0;0;1;3;0;1;DF;PT;MDB;Lula;31/03/2006;21/01/2011;58,6
+mapa;sda;Agro-SDA-DSA2;GHFM;Diretor de Saúde Animal;DAS;5;especializacao;veterinaria;UFRRJ;publica;SE_INT;NA;0;0;1;3;0;1;DF;PT;MDB;Rousseff;21/01/2011;27/12/2018;96,6
+mapa;sda;Agro-SDA-CGCD2;ORBA;Coordenador-Geral de Combate às Doenças;DAS;4;superior;veterinaria;NA;NA;SE_INT;PPS;0;0;1;3;NA;1;NA;PT;MDB;Rousseff;03/03/2011;23/04/2012;13,9
+mapa;sda;Agro-SDA-S2;EAMP;Secretário de Defesa Agropecuária;DAS;6;superior;veterinaria;USP;publica;SE_INT;NA;0;0;1;5;NA;1;DF;PT;MDB;Rousseff;02/03/2012;14/08/2013;17,7
+mapa;sda;Agro-SDA-CGSVA2;NOCS;Coordenador-Geral do Sistema de Vigilância Agropecuária;DAS;4;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;NA;PT;MDB;Rousseff;29/05/2012;17/09/2013;15,9
+mapa;sda;Agro-SDA-CGAL2;ENVI;Coordenador-Geral de Apoio Laboratorial;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;1;NA;NA;NA;PT;MDB;Rousseff;09/10/2012;02/12/2013;14
+mapa;sda;Agro-SDA-DFIP3;FJFS;Diretor de Fiscalização de Insumos Pecuários;DAS;5;superior;veterinaria;NA;NA;SE_INT;PV;0;0;1;1;NA;1;DF;PT;MDB;Rousseff;27/04/2012;13/10/2013;17,8
+mapa;sda;Agro-SDA-CGPE3;MREC;Coordenador-Geral de Programas Especiais;DAS;4;mestrado;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;13/03/2012;11/06/2012;3
+mapa;sda;Agro-SDA-CGI3;JMNO;Coordenador-Geral de Inspeção;DAS;4;especializacao;veterinaria;UFPB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;29/02/2012;25/09/2013;19,1
+mapa;sda;Agro-SDA-CGPE4;AMSI;Coordenador-Geral de Programas Especiais;DAS;4;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;1;NA;NA;DF;PT;MDB;Rousseff;11/07/2012;01/02/2013;6,8
+mapa;sda;Agro-SDA-CGPE5;ACAN;Coordenador-Geral de Programas Especiais;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;01/03/2013;18/09/2013;6,7
+mapa;sda;Agro-SDA-DIPOV2;RCCJ;Diretor de Inspeção de Produtos de Origem Vegetal;DAS;5;NA;NA;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;11/10/2012;28/07/2014;21,8
+mapa;sda;Agro-SDA-CGVB2;AANV;Coordenador-Geral de Vinhos e Bebidas;DAS;4;especializacao;agronomia;UFG;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;09/10/2012;10/06/2014;20,3
+mapa;sda;Agro-SDA-CGCD3;DEMC;Coordenador-Geral de Combate às Doenças;DAS;4;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;29/05/2012;28/07/2015;38,5
+mapa;sda;Agro-SDA-S3;RPLF;Secretário de Defesa Agropecuária;DAS;6;superior;direito;NA;NA;OUTRO;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;14/08/2013;09/02/2015;18,1
+mapa;sda;Agro-SDA-CGSVA3;MBVA;Coordenador-Geral do Sistema de Vigilância Agropecuária;DAS;4;superior;agronomia;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;17/09/2013;05/03/2016;30
+mapa;sda;Agro-SDA-CGAL3;ABBU;Coordenador-Geral de Apoio Laboratorial;DAS;4;especializacao;veterinaria;UFF;publica;SE_INT;NA;0;0;1;3;0;1;NA;PT;MDB;Rousseff;02/12/2013;03/10/2014;10,2
+mapa;sda;Agro-SDA-CGAL4;LBCA;Coordenador-Geral de Apoio Laboratorial;DAS;4;doutorado;veterinaria;UFF;publica;SE_INT;NA;0;0;1;1;1;NA;DF;PT;MDB;Rousseff;09/10/2014;26/08/2015;10,7
+mapa;sda;Agro-SDA-DFIP4;MVSL;Diretor de Fiscalização de Insumos Pecuários;DAS;5;mestrado;veterinaria;UFLA;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;14/10/2013;15/04/2015;18,3
+mapa;sda;Agro-SDA-CGAA2;JSBR;Coordenador-Geral de Agrotóxicos e Afins;DAS;4;NA;NA;NA;NA;SE_INT;MDB;0;0;1;3;1;NA;DF;PT;MDB;Rousseff;12/12/2013;19/10/2016;34,7
+mapa;sda;Agro-SDA-DIPOA3;FBTU;Diretor de Inspeção de Produtos de Origem Animal;DAS;5;superior;veterinaria;UFPR;publica;SVE;NA;0;0;0;0;1;NA;NA;PT;MDB;Rousseff;23/08/2013;24/09/2013;1,1
+mapa;sda;Agro-SDA-DIPOA4;JNBR;Diretor de Inspeção de Produtos de Origem Animal ;DAS;5;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;1;NA;MS;;PT;MDB;Rousseff;14/10/2013;03/12/2013;1,7
+mapa;sda;Agro-SDA-CGI4;LUMA;Coordenador-Geral de Inspeção;DAS;4;especializacao;veterinaria;UFMS;publica;SE_INT;PSDB;0;0;1;0;0;1;DF;PT;MDB;Rousseff;19/12/2013;15/05/2015;17,1
+mapa;sda;Agro-SDA-DIPOA-CGPE6;LDFE;Coordenador-Geral de Programas Especiais;DAS;4;mestrado;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PT;MDB;Rousseff;14/10/2013;28/04/2014;6,5
+mapa;sda;Agro-SDA-DIPOA-CGPE7;CAVS;Coordenador-Geral de Programas Especiais;DAS;4;superior;veterinaria;UFPR;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PT;MDB;Rousseff;05/05/2014;08/06/2015;13,3
+mapa;sda;Agro-SDA-DIPOA5;LDFE;Diretor de Inspeção de Produtos de Origem Animal ;DAS;5;mestrado;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PT;MDB;Rousseff;28/04/2014;18/03/2015;10,8
+mapa;sda;Agro-SDA-DIPOV3;FFFE;Diretor de Inspeção de Produtos de Origem Vegetal;DAS;5;especializacao;agronomia;ESAC;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;28/07/2014;07/02/2019;55,2
+mapa;sda;Agro-SDA-CGVB3;HEMB;Coordenador-Geral de Vinhos e Bebidas;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;10/06/2014;26/08/2015;14,7
+mapa;sda;Agro-SDA-CGQV2;MVMP; Coordenador-Geral de Qualidade Vegetal;DAS;4;superior;agronomia;URPE;publica;SE_INT;NA;0;0;1;0;0;NA;;PT;MDB;Rousseff;29/11/2013;09/04/2014;4,4
+mapa;sda;Agro-SDA-CGQV3;FFFE; Coordenador-Geral de Qualidade Vegetal;DAS;4;especializacao;agronomia;ESAC;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;09/04/2014;30/07/2014;3,7
+mapa;sda;Agro-SDA-CGQV4;FCPA;Coordenador-Geral de Qualidade Vegetal;DAS;4;doutorado;agronomia;UFV;publica;SE_INT;NA;0;0;1;0;0;NA;MG;PT;MDB;Rousseff;21/08/2014;28/07/2015;11,4
+mapa;sda;Agro-SDA-DSV2;LEPR;Diretor de Sanidade Vegetal;DAS;5;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;27/11/2013;12/01/2016;25,9
+mapa;sda;Agro-SDA-CGPP2;MVSC;Coordenador-Geral de Proteção de Plantas;DAS;4;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;18/08/2014;16/03/2016;19,2
+mapa;sda;Agro-SDA-S4;DACO;Secretário de Defesa Agropecuária;DAS;6;especializacao;veterinaria;UFF;publica;OUTRO;NA;0;0;1;NA;1;1;MT;PT;MDB;Rousseff;09/02/2015;03/12/2015;9,9
+mapa;sda;Agro-SDA-CGAI1;DLGC;Coordenador-Geral de Articulação Interna;DAS;4;superior;veterinaria;NA;NA;SVE;PSB;0;0;0;0;1;5;DF;PT;MDB;Rousseff;28/07/2015;08/06/2016;10,5
+mapa;sda;Agro-SDA-CGSVA4;ECSO;Coordenador-Geral do Sistema de Vigilância Agropecuária;DAS;4;especializacao;agronomia;UFMT;publica;SE_INT;NA;0;0;1;1;1;NA;DF;PT;MDB;Rousseff;13/03/2015;28/07/2016;16,8
+mapa;sda;Agro-SDA-CGLA1;LBCA;Coordenador-Geral de Laboratórios Agropecuários;DAS;4;doutorado;veterinaria;UFF;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PT;MDB;Rousseff;26/08/2015;04/03/2016;6,4
+mapa;sda;Agro-SDA-CGGO1;PVVE;Coordenador-Geral de Gestão de Operações;DAS;4;doutorado;fisica;UnB;publica;VINC;NA;0;0;1;3;0;1;DF;PT;MDB;Rousseff;19/08/2015;08/06/2016;9,8
+mapa;sda;Agro-SDA-CGSE1;JOCJ;Coordenador-Geral de Suporte Estratégico;DAS;4;doutorado;veterinaria;UFV;publica;SE_INT;NA;0;0;1;5;1;1;DF;PT;MDB;Rousseff;28/07/2015;08/06/2016;10,5
+mapa;sda;Agro-SDA-DFIP5;MARO;Diretor de Fiscalização de Insumos Pecuários;DAS;5;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;03/06/2015;28/07/2016;14
+mapa;sda;Agro-SDA-DIPOA6;JLRV;Diretor de Inspeção de Produtos de Origem Animal;DAS;5;especializacao;veterinaria;UNESP;publica;SE_INT;NA;0;0;1;5;1;NA;DF;PT;MDB;Rousseff;18/03/2015;14/06/2018;39,5
+mapa;sda;Agro-SDA-CGSBIPOA1;ROFI;Coordenador-Geral do Sistema Brasileiro de Inspeção de Produtos de Origem Animal;DAS;4;especializacao;veterinaria;UMESP;privada;SE_INT;PSDB;0;0;1;1;1;1;SP;PT;MDB;Rousseff;15/05/2015;03/05/2016;11,8
+mapa;sda;Agro-SDA-DIPOA-CGPE8;MGOA;Coordenador-Geral de Programas Especiais;DAS;4;superior;veterinaria;NA;NA;SE_INT;PSD;0;0;1;1;NA;NA;NA;PT;MDB;Rousseff;08/06/2015;17/12/2015;6,4
+mapa;sda;Agro-SDA-CGR1;FCPA;Coordenador-Geral de Regulamentação;DAS;4;doutorado;agronomia;UFV;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;28/07/2015;06/05/2016;9,4
+mapa;sda;Agro-SDA-CGAAF;HEMB;Coordenação-Geral de Articulação, Auditoria e Fiscalização;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;26/08/2015;03/05/2016;8,4
+mapa;sda;Agro-SDA-CGPS1;DEMC;Coordenador-Geral de Programas Sanitários;DAS;4;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;28/07/2015;19/10/2016;15
+mapa;sda;Agro-SDA-S5;LEPR;Secretário de Defesa Agropecuária;DAS;6;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;12/01/2016;04/01/2019;36,3
+mapa;sda;Agro-SDA-CGAI2;DLGC;Coordenador-Geral de Articulação Institucional;DAS;4;superior;veterinaria;NA;NA;SVE;PSB;0;0;1;3;1;5;DF;MDB;PP;Temer;08/06/2016;09/03/2017;9,1
+mapa;sda;Agro-SDA-CGAI3;FLMB;Coordenador-Geral de Articulação Institucional;DAS;5;mestrado;publicidade;UFF;publica;SVE;NA;0;0;0;0;1;NA;NA;MDB;PP;Temer;18/09/2017;12/02/2019;17,1
+mapa;sda;Agro-SDA-CGOCMA1;PVVE;Coordenador-Geral de Operações, Controle, Monitoramento e Avaliação ;DAS;4;doutorado;fisica;UnB;publica;VINC;NA;0;0;1;3;0;1;DF;MDB;PP;Temer;08/06/2016;01/03/2019;33,2
+mapa;sda;Agro-SDA-CGSVA5;FAPM;Coordenador-Geral do Sistema de Vigilância Agropecuária;DAS_FCPE;4;especializacao;agronomia;UFPR;publica;SE_INT;NA;0;0;1;1;0;NA;PR;MDB;PP;Temer;08/08/2016;28/11/2018;28,1
+mapa;sda;Agro-SDA-CGLA2;ROBN;Coordenador-Geral de Laboratórios Agropecuários;DAS_FCPE;4;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;MDB;Rousseff;07/02/2016;NA;NA
+mapa;sda;Agro-SDA-CGIE1;JOCJ;Coordenador-Geral de Inteligência Estratégica;DAS;4;doutorado;veterinaria;UFV;publica;SE_INT;NA;0;0;1;5;1;1;DF;MDB;PP;Temer;08/06/2016;24/01/2019;32
+mapa;sda;Agro-SDA-DFIA2;ACPS;Diretor de Fiscalização de Insumos Agrícolas;DAS;5;mestrado;agronomia;UFV;publica;SE_INT;NA;0;0;1;5;1;NA;DF;MDB;MDB;Rousseff;19/01/2016;25/01/2019;36,7
+mapa;sda;Agro-SDA-CGAA3;JSBR;Coordenador-Geral de Agroquímicos e Afins;DAS_FCPE;4;NA;NA;NA;NA;SE_INT;MDB;0;0;1;3;1;NA;DF;MDB;PP;Temer;19/10/2016;24/01/2017;3,2
+mapa;sda;Agro-SDA-CGAA4;CRVE;Coordenador-Geral de Agroquímicos e Afins;FCPE;4;especializacao;agronomia;USP;publica;SE_INT;NA;0;0;1;1;0;NA;DF;MDB;PP;Temer;27/01/2017;04/02/2020;36,8
+mapa;sda;Agro-SDA-CGCA1;ROFI;Coordenador-Geral de Controle e Avaliação;FCPE;4;especializacao;veterinaria;UMESP;privada;SE_INT;PSDB;0;0;1;3;1;1;DF;MDB;PP;Temer;03/05/2016;26/02/2018;22,1
+mapa;sda;Agro-SDA-CGCA2;ALPV;Coordenador-Geral de Controle e Avaliação;FCPE;4;superior;veterinaria;UFRRJ;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;DEM;Bolsonaro;29/05/2018;25/01/2019;8
+mapa;sda;Agro-SDA-DFIP6;JGGM;Diretor de Fiscalização de Insumos Pecuários;DAS;5;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;PP;Temer;10/10/2016;03/10/2018;24,1
+mapa;sda;Agro-SDA-DIPOA7;ALPP;Diretor de Inspeção de Produtos de Origem Animal ;DAS;5;superior;veterinaria;UFRGS;publica;SE_INT;NA;0;0;1;5;NA;NA;DF;MDB;PP;Temer;06/06/2018;03/01/2019;7
+mapa;sda;Agro-SDA-DIPOA-CGPE9;ALCS;Coordenador-Geral de Programas Especiais;DAS;4;mestrado;veterinaria;UFBA;publica;SE_INT;NA;NA;NA;1;0;0;NA;DF;PT;MDB;Rousseff;26/02/2016;03/05/2016;2,2
+mapa;sda;Agro-SDA-CGI5;ALCS;Coordenador-Geral de Inspeção;FCPE;4;mestrado;veterinaria;UFBA;publica;SE_INT;NA;NA;NA;1;3;0;NA;DF;PT;MDB;Rousseff;03/05/2016;18/07/2018;26,9
+mapa;sda;Agro-SDA-CGI6;GACJ;Coordenador-Geral de Inspeção;FCPE;4;especializacao;veterinaria;UFRPE;publica;SE_INT;NA;0;0;1;5;NA;NA;DF;MDB;PP;Temer;18/07/2018;13/12/2018;4,9
+mapa;sda;Agro-SDA-DIPOA-CGPE10;CVGC;Coordenador-Geral de Programas Especiais;FCPE;4;doutorado;veterinaria;UFPR;publica;SE_INT;PP;0;0;1;3;0;NA;;PT;MDB;Rousseff;03/05/2016;18/07/2018;26,9
+mapa;sda;Agro-SDA-CGQV5;FCPA;Coordenador-Geral de Qualidade Vegetal;DAS_FCPE;4;doutorado;agronomia;UFV;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;06/05/2016;12/12/2018;31,7
+mapa;sda;Agro-SDA-CGVB4;HEMB;Coordenador-Geral de Vinhos e Bebidas;DAS_FCPE;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;PP;Temer;03/05/2016;25/01/2019;33,2
+mapa;sda;Agro-SDA-DSV3;MVSC;Diretor de Sanidade Vegetal;DAS;5;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;16/03/2016;18/12/2018;33,6
+mapa;sda;Agro-SDA-CGPP3;PAPR;Coordenador-Geral de Proteção de Plantas;DAS_FCPE;4;mestrado;agronomia;UFV;publica;SE_INT;NA;0;0;1;1;0;NA;DF;MDB;PP;Temer;07/04/2016;25/01/2019;34,1
+mapa;sda;Agro-SDA-CGPAZ1;ROCT;Coordenador-Geral de Planejamento e Avaliação Zoossanitária;DAS;4;especializacao;veterinaria;UFV;publica;SE_INT;PMN;0;0;1;3;1;1;DF;PT;PP;Rousseff;03/05/2016;NA;NA
+mapa;sda;Agro-SDA-CGSA1;DEMC;Coordenador-Geral de Sanidade Animal;DAS_FCPE;4;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;MDB;PP;Temer;19/10/2016;01/11/2016;0,4
+mapa;sda;Agro-SDA-S6;JGTL;Secretário de Defesa Agropecuária;DAS;6;superior;agronomia;UFV;publica;SE_INT;PSB;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;04/01/2019;NA;NA
+mapa;sda;Agro-SDA-SA1;FAPM;Secretário Adjunto;DAS;5;especializacao;agronomia;UFPR;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;19/02/2019;07/02/2020;11,8
+mapa;sda;Agro-SDA-SA2;MREC;Secretário Adjunto;DAS_FCPE;5;mestrado;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;06/02/2020;;
+mapa;sda;Agro-SDA-DSVIA1;CAGL;Diretor de Sanidade Vegetal e Insumos Agrícolas;DAS_FCPE;5;mestrado;agronomia;UFSCAR;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;24/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGPP4;GGMC;Coordenador-Geral de Proteção de Plantas;FCPE;4;especializacao;agronomia;UnB;publica;SE_INT;NA;0;0;1;1;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGFCFI1;ECSO;Coordenador-Geral de Fiscalização e Certificação Fitossanitária Internacional;FCPE;4;especializacao;agronomia;UFMT;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;21/03/2019;NA;NA
+mapa;sda;Agro-SDA-CGSM1;VAFC;Coordenador-Geral de Sementes e Mudas;FCPE;4;mestrado;agronomia;USP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;07/02/2019;NA;NA
+mapa;sda;Agro-SDA-CGAA5;BRCB;Coordenador-Geral de Agrotóxicos e Afins;FCPE;4;especializacao;agronomia;UFG;publica;SE_INT;NA;0;0;1;1;1;1;DF;PSL;DEM;Bolsonaro;04/02/2020;23/12/2021;22,9
+mapa;sda;Agro-SDA-CGAA6;ACPS;Coordenador-Geral de Agrotóxicos e Afins;FCPE;4;mestrado;agronomia;UFV;publica;SE_INT;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;23/12/2021;NA;NA
+mapa;sda;Agro-SDA-DSAIP1;GEMM;Diretor de Saúde Animal e Insumos Pecuários;DAS_FCPE;5;doutorado;veterinaria;UFV;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;24/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGTQA1;BROC;Coordenador-Geral de Trânsito e Quarentena Animal;FCPE;4;especializacao;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;04/11/2021;20/10/2021;NA
+mapa;sda;Agro-SDA-CGSA2;JOCJ;Coordenador-Geral de Sanidade Animal;DAS;4;doutorado;veterinaria;UFV;publica;SE_INT;NA;0;0;1;5;1;1;DF;PSL;DEM;Bolsonaro;24/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGMUV1;JSRL;Coordenador-Geral de Medicamentos de Uso Veterinário;FCPE;4;mestrado;veterinaria;UFG;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;22/04/2020;15,1
+mapa;sda;Agro-SDA-CGPUV1;JSRL;Coordenador-Geral Produtos de Uso Veterinário;FCPE;4;mestrado;veterinaria;UFG;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;07/04/2021;11,7
+mapa;sda;Agro-SDA-CGPUV2;MVSL;Coordenador-Geral Produtos de Uso Veterinário;FCPE;4;mestrado;veterinaria;UFLA;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;sda;Agro-SDA-DIPOV4;GLBE;Diretor de Inspeção de Produtos de Origem Vegetal;DAS;5;especializacao;agronomia;UFPR;publica;SE_INT;NA;0;0;1;1;1;NA;;PSL;DEM;Bolsonaro;30/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGQV6;HUCA;Coordenador-Geral de Qualidade Vegetal;FCPE;4;especializacao;agronomia;UEPG;publica;SE_INT;NA;0;0;1;1;1;1;PR;PSL;DEM;Bolsonaro;07/02/2019;NA;NA
+mapa;sda;Agro-SDA-CGVB5;CAVM;Coordenador-Geral de Vinhos e Bebidas;FCPE;4;mestrado;agronomia;UFSC;publica;SE_INT;NA;0;0;1;1;0;NA;DF;PSL;DEM;Bolsonaro;07/02/2019;NA;NA
+mapa;sda;Agro-SDA-DIPOA8;ALPV;Diretor de Inspeção de Produtos de Origem Animal;DAS_FCPE;5;superior;veterinaria;UFRRJ;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGCA3;JSBC;Coordenador-Geral de Controle e Avaliação;DAS;4;especializacao;veterinaria;UEL;publica;SE_INT;NA;0;0;1;3;`1;1;DF;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGI7;ALCS;Coordenador-Geral de Inspeção;FCPE;4;mestrado;veterinaria;UFBA;publica;SE_INT;NA;NA;NA;1;3;0;NA;DF;PSL;DEM;Bolsonaro;24/01/2019;NA;NA
+mapa;sda;Agro-SDA-DIPOA-CGPE11;LUKI;Coordenador-Geral de Programas Especiais;FCPE;4;mestrado;veterinaria;UEL;publica;SE_INT;NA;0;0;1;1;1;NA;DF;MDB;PP;Temer;18/07/2018;NA;NA
+mapa;sda;Agro-SDA-DSTE1;JLRV;Diretor de Serviços tecnicos;DAS;5;especializacao;veterinaria;UNESP;publica;SE_INT;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;06/02/2019;NA;NA
+mapa;sda;Agro-SDA-CGSVAI1;FFFE;Coordenador-Geral do Sistema de Vigilância Agropecuária Internacional ;FCPE;4;especializacao;agronomia;ESAC;privada;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;07/02/2019;NA;NA
+mapa;sda;Agro-SDA-DSN1;JMNO;Diretor de Suporte e Normas;DAS;5;especializacao;veterinaria;UFPB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;29/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGIEAR1;JPAHA;Coordenador-Geral de  Inteligência Estratégia e Avaliação de Risco;FCPE_DAS;4;doutorado;veterinaria;UFMG;publica;MAG_SUP;NA;0;0;1;0;0;1;MG;PSL;DEM;Bolsonaro;07/05/2019;NA;NA
+mapa;sda;Agro-SDA-CGARAN1;RESPA;Coordenador-Geral de Análise e Revisão de Atos Normativos ;DAS;4;especializacao;veterinaria;UFF;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;29/01/2019;NA;NA
+mapa;sda;Agro-SDA-DGC1;EAME;Diretor de Gestão Corporativa;DAS;5;doutorado;relacoes internacionais;UnB;publica;EPPGG;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGA1;JOBR;Coordenador-Geral de Administração;DAS;4;especializacao;administracao;AEUDF;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;29/01/2019;NA;NA
+mapa;sda;Agro-SDA-CGOP1;FLMB;Coordenador-Geral de Operações e Projetos;DAS;4;mestrado;publicidade;UFF;publica;SVE;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;15/03/2019;23/10/2020;19,6
+mapa;sda;Agro-SDA-CGOP2;RAAB;Coordenador-Geral de Operações e Projetos;DAS;4;especializacao;computacao;União Educacional de Brasília;privada;SVE;NA;NA;NA;1;NA;1;NA;DF;PSL;DEM;Bolsonaro;23/10/2020;NA;NA
+mapa;sda;Agro-SDA-CGPETI1;MALC;Coordenador-Geral de de Projetos Especiais em Tecnologia da Informação;FCPE;4;especializacao;sistemas de informacao;Centro Universitário Franciscano;privada;OUTRO;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;sap;Agro-SAP-S1;MACC;Secretário de Aquicultura e Pesca;DAS;6;doutorado;direito;UNIFOR;publica;SVE;PSDB;1;NA;1;NA;1;1;DF;PT;MDB;Rousseff;03/05/2016;12/05/2016;0,3
+mapa;sap;Agro-SAP-S2;DFSO;Secretário de Aquicultura e Pesca;DAS;6;superior;direito;NA;NA;SVE;PRB;NA;NA;1;5;NA;NA;MA;MDB;PP;Temer;03/08/2016;09/01/2019;29,6
+mapa;sap;Agro-SAP-DPOA1;CLCZ;Diretor de Planejamento e Ordenamento da Aquicultura;DAS;5;superior;agronomia;UFPR;publica;OUTRO;NA;0;0;1;5;1;1;DF;MDB;MDB;Rousseff;11/05/2016;12/05/2016;0
+mapa;sap;Agro-SAP-CGPOA1;JCRAM;Coordenador-Geral de Planejamento e Ordenamento da Aquicultura;DAS;4;especializacao;engenharia de pesca;UFC;publica;SVE;NA;0;0;1;5;1;1;DF;PT;MDB;Rousseff;04/05/2016;25/01/2019;33,2
+mapa;sap;Agro-SAP-DPOA2;JCRAM;Diretor de Planejamento e Ordenamento da Aquicultura;DAS;5;especializacao;engenharia de pesca;UFC;publica;SVE;NA;0;0;1;5;1;1;DF;MDB;PP;Temer;20/06/2017;NA;NA
+mapa;sap;Agro-SAP-DPOP1;SESN;Diretor de Planejamento e Ordenamento da Pesca;DAS;5;especializacao;engenharia de pesca;UFC;publica;OUTRO;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;03/05/2016;13/05/2016;0,3
+mapa;sap;Agro-SAP-DPOA3;SAPM;Diretor de Planejamento e Ordenamento da Pesca;DAS;5;tecnico;aquicultura;IFPR;publica;SVE;PP;1;0;1;3;0;NA;AC;MDB;PP;Temer;03/08/2016;29/06/2017;11
+mapa;sap;Agro-SAP-CGPOP1;JBFN;Coordenador-Geral de Planejamento e Ordenamento da Pesca;DAS;4;especializacao;engenharia de pesca;UFC;publica;SVE;NA;0;0;1;3;1;NA;CE;PT;MDB;Rousseff;03/05/2016;08/08/2016;3,2
+mapa;sap;Agro-SAP-CGPOP2;CLCZ;Coordenador-Geral de Planejamento e Ordenamento da Pesca;DAS;4;superior;agronomia;UFPR;publica;OUTRO;NA;0;0;1;5;1;1;DF;MDB;PP;Temer;19/10/2016;NA;NA
+mapa;sap;Agro-SAP-DRMCAP1;WITR;Diretor de Registro, Monitoramento e Controle da Aquicultura e Pesca;DAS;5;superior;direito;NA;NA;OUTRO;NA;0;0;1;5;1;NA;CE;PT;MDB;Rousseff;03/05/2016;13/05/2016;0,3
+mapa;sap;Agro-SAP-DRMCAP2;MCAAL;Diretor de Registro, Monitoramento e Controle da Aquicultura e Pesca;DAS;5;superior;direito;Universidade Dom Bosco;privada;OUTRO;NA;0;0;1;3;1;NA;DF;MDB;PP;Temer;14/07/2016;11/05/2017;10
+mapa;sap;Agro-SAP-CGRAP1;AELF;Coordenador-Geral de Registro de Aquicultura e Pesca;DAS;4;NA;NA;NA;NA;NA;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;03/05/2016;28/07/2016;2,9
+mapa;sap;Agro-SAP-CGRAP2;RECVE;Coordenador-Geral de Registro de Aquicultura e Pesca;DAS;4;superior;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;19/10/2016;18/05/2017;7
+mapa;sap;Agro-SAP-CGMCAP1;ANSCS;Coordenador-Geral de Monitoramento e Controle da Aquicultura e Pesca;DAS;4;especializacao;direito;UDF;privada;SVE;NA;0;0;1;3;1;1;DF;PT;PP;Rousseff;03/05/2016;NA;NA
+mapa;sap;Agro-SAP-CGMCAP2;VIAS;Coordenador-Geral de Monitoramento e Controle da Aquicultura e Pesca;DAS;4;superior;veterinária;UFG;publica;SE_INT;NA;0;0;1;1;0;NA;DF;MDB;PP;Temer;19/10/2016;26/05/2017;7,3
+mapa;sap;Agro-SAP-S3;JOSJR;Secretário de Aquicultura e Pesca;DAS;6;superior;administracao;Univali;privada;SVE;PSL;0;0;0;0;1;NA;SC;PSL;DEM;Bolsonaro;14/01/2019;NA;NA
+mapa;sap;Agro-SPA-SA1;JCRAM;Secretário Adjunto;DAS;5;especializacao;engenharia de pesca;UFC;publica;SVE;NA;0;0;1;5;1;1;DF;PSL;DEM;Bolsonaro;25/01/2019;17/01/2020;11,9
+mapa;sap;Agro-SAP-SA2;MMNE;Secretário Adjunto;DAS;5;especializacao;direito;Univali;privada;SVE;NA;0;0;0;0;1;NA;NA;PSL;DEM;Bolsonaro;16/03/2020;01/02/2021;10,7
+mapa;sap;Agro-SAP-CGPOAD1;IVSA;Coordenador-Geral de de Planejamento, Orçamento e Administração;DAS;4;superior;administracao;Univali;privada;SVE;PSDB;0;NA;0;0;1;NA;NA;PSL;DEM;Bolsonaro;25/01/2019;27/10/2019;9,2
+mapa;sap;Agro-SAP-CGPOAD2;LESP;Coordenador-Geral de de Planejamento, Orçamento e Administração;DAS;4;superior;biologia;UniCEUB;privada;SVE;NA;0;0;1;2;0;NA;DF;PSL;DEM;Bolsonaro;27/08/2019;22/04/2020;8
+mapa;sap;Agro-SAP-CGAF1;LESP;Coordenador-Geral de Administração e Finanças;DAS;4;superior;biologia;UniCEUB;privada;SVE;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;28/04/2020;0,2
+mapa;sap;Agro-SAP-CGAF2;WBAS;Coordenador-Geral de Administração e Finanças;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;DF;PSL;DEM;Bolsonaro;20/05/2020;03/03/2021;9,6
+mapa;sap;Agro-SAP-DODA1;MNCPE;Diretor de Ordenamento e Desenvolvimento da Aquicultura;DAS;5;doutorado;engenharia de pesca;UFRPE;publica;MAG_SUP;NA;0;0;1;0;1;NA;PE;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;sap;Agro-SAP-CGODAAU1;JULSI;Coordenador-Geral de Ordenamento e Desenvolvimento da Aquicultura em Águas da União;DAS;4;superior;zootecnia;UFAL;publica;SVE;NA;NA;NA;1;3;1;NA;DF;PSL;DEM;Bolsonaro;29/01/2019;NA;NA
+mapa;sap;Agro-SAP-CGODAERAU1;BRMQ;Coordenador-Geral de Ordenamento e Desenvolvimento da Aquicultura em Estabelecimentos Rurais e Áreas Urbanas;DAS;4;mestrado;veterinária;UFMG;publica;SVE;NA;0;0;0;0;1;NA;MG;PSL;DEM;Bolsonaro;25/01/2019;06/12/2021;34,9
+mapa;sap;Agro-SAP-CGODCPA1;BRMQ;Coordenador-Geral de Ordenamento e Desenvolvimento da Cadeia Produtiva da Aquicultura;DAS;4;mestrado;veterinária;UFMG;publica;SVE;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;06/12/2021;NA;NA
+mapa;sap;Agro-SAP-DPOP2;JAGUN;Diretor de Planejamento e Ordenamento da Pesca;DAS;5;especializacao;tecnologia de alimentos;UTFPR;publica;SVE;NA;0;0;0;0;1;NA;NA;PSL;DEM;Bolsonaro;06/02/2019;31/03/2020;14
+mapa;sap;Agro-SAP-CGPM1;ERBO;Coordenador-Geral da da Pesca Marinha;DAS;4;superior;engenharia de pesca;UFRA;publica;SVE;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;sap;Agro-SAP-CGODPC1;JBFN;Coordenador-Geral de Ordenamento e Desenvolvimento da Pesca Continental;DAS;4;especializacao;engenharia de pesca;UFC;publica;SVE;NA;0;0;1;3;1;NA;NA;PSL;DEM;Bolsonaro;12/02/2019;25/06/2019;4,4
+mapa;sap;Agro-SAP-CGODPC2;ALAG;Coordenador-Geral de Ordenamento e Desenvolvimento da Pesca Continental;DAS;4;doutorado;oceanografia;FURG;publica;MAG_SUP;NA;0;0;1;0;0;1;RN;PSL;DEM;Bolsonaro;26/07/2019;23/07/2020;12,1
+mapa;sap;Agro-SAP-CGODPC3;RIAC;Coordenador-Geral de Ordenamento e Desenvolvimento da Pesca Continental;DAS;4;doutorado;engenharia de pesca;UFRA;publica;SVE;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;22/07/2020;17/12/2020;4,9
+mapa;sap;Agro-SAP-DRMAP1;CGOLI;Diretor de Registro e Monitoramento de Aquicultura e Pesca;DAS;5;NA;NA;NA;NA;OUTRO;NA;NA;NA;1;5;NA;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;08/07/2020;17,7
+mapa;sap;Agro-SAP-DRMAP2;COAV;Diretor de Registro e Monitoramento de Aquicultura e Pesca;DAS;5;NA;NA;NA;NA;SVE;NA;0;0;0;0;NA;NA;NA;PSL;DEM;Bolsonaro;05/10/2020;07/06/2021;8,2
+mapa;sap;Agro-SAP-DODP2;COAV;Diretor de Ordenamento e Desenvolvimento da Pesca;DAS;5;NA;NA;NA;NA;SVE;NA;0;0;1;5;NA;NA;DF;PSL;DEM;Bolsonaro;07/06/2021;25/10/2021;4,7
+mapa;sap;Agro-SAP-CGRAP3;HEGAL;Coordenador-Geral de Registro de Aquicultura e Pesca;DAS;4;superior;direito;UNIEURO;privada;SVE;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;10/01/2020;11,7
+mapa;sap;Agro-SAP-CGRAP4;JUSIA;Coordenador-Geral de Registro de Aquicultura e Pesca;DAS_FCPE;4;mestrado;engenharia de pesca;UFRA;publica;OUTRO;NA;0;0;1;0;0;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;NA;NA
+mapa;sap;Agro-SAP-CGMAP1;MANLO;Coordenador-Geral de Monitoramento de Aquicultura e Pesca;DAS;4;especializacao;contabeis;UPIS;privada;SVE;NA;0;0;0;0;1;NA;NA;PSL;DEM;Bolsonaro;29/04/2019;08/07/2020;14,5
+mapa;sap;Agro-SAP-CGMAP2;ALAG;Coordenador-Geral de Monitoramento de Aquicultura e Pesca;DAS;4;doutorado;oceanografia;FURG;publica;MAG_SUP;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;23/07/2020;17/11/2020;3,9
+mapa;sap;Agro-SAP-CGMAP3;NIPP;Coordenador-Geral de Monitoramento de Aquicultura e Pesca;DAS;4;mestrado;zootecnia;UNESP;publica;SVE;NA;0;0;0;0;1;1;NA;PSL;DEM;Bolsonaro;18/11/2020;08/09/2021;9,8
+mapa;sap;Agro-SAP-SA3;JAGUN;Secretário Adjunto;DAS;5;especializacao;tecnologia de alimentos;UTFPR;publica;SVE;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;30/03/2021;NA;NA
+mapa;sap;Agro-SAP-CGAF3;JOEM;Coordenador-Geral de Administração e Finanças;DAS;4;especializacao;contabeis;Centro de Ensino Unificado de Brasilia;privada;SVE;NA;0;0;1;0;0;1;DF;PSL;DEM;Bolsonaro;12/04/2021;NA;NA
+mapa;sap;Agro-SAP-DODP1;ALAG;Diretor de Ordenamento e Desenvolvimento da Pesca;DAS;5;doutorado;oceanografia;FURG;publica;MAG_SUP;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;17/11/2020;26/05/2021;6,3
+mapa;sap;Agro-SAP-CGPC1;RIAC;Coordenador-Geral da Pesca Continental;DAS;4;doutorado;engenharia de pesca;UFRA;publica;SVE;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;23/02/2021;NA;NA
+mapa;sap;Agro-SAP--DRMFAP1;NIPP;Diretor de Registro, Monitoramento e Fomento de Aquicultura e Pesca;DAS;5;mestrado;zootecnia;UNESP;publica;SVE;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;08/09/2021;NA;NA
+mapa;sap;Agro-SAP-CGMAP4;MDCAZ;Coordenador-Geral de Monitoramento de Aquicultura e Pesca;DAS;4;especializacao;engenharia de pesca;UFRA;publica;SVE;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;sap;Agro-SAP-CGIF1;FAMSI;Coordenador-Geral de Infraestrutura e Fomento;DAS;4;superior;engenharia civil;IESPLAN;privada;SVE;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;saf;Agro-SAF-S1;FHKS;Secretário de Agricultura Familiar e Cooperativismo;DAS;6;especializacao;engenharia florestal;UFSM;publica;SVE;NA;0;0;1;NA;1;1;NA;PSL;DEM;Bolsonaro;25/01/2019;01/07/2021;29,6
+mapa;saf;Agro-SAF-SA1;MCAAL;Secretário Adjunto;DAS;5;superior;direito;Universidade Dom Bosco;privada;OUTRO;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;26/07/2019;NA;NA
+mapa;saf;Agro-SAF-CGAF1;ECFSA;Coordenador-Geral de Administração e Finanças;DAS;4;superior;fisioterapia;FARPLAC;privada;SVE;SOL;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;15/02/2019;04/11/2021;33,1
+mapa;saf;Agro-SAF-DATER1;PAAPE;Diretor de  Assistência Técnica e Extensão Rural ;DAS;5;doutorado;agronomia;UFRRJ;publica;VINC;NA;0;0;1;5;0;1;DF;PSL;DEM;Bolsonaro;02/01/2020;22/04/2020;3,7
+mapa;saf;Agro-SAF-CGPA1;SOLIM;Coordenador-Geral de Programas de ATER;DAS;4;especializacao;engenharia florestal;UFRPE;publica;OUTRO;PP;0;0;1;5;0;1;NA;PSL;DEM;Bolsonaro;14/02/2019;31/07/2019;5,6
+mapa;saf;Agro-SAF-CGPA2;CRBR;Coordenador-Geral de Programas de ATER;DAS;4;especializacao;direito;UPF;privada;SVE;NA;0;0;1;3;1;0;RS;PSL;DEM;Bolsonaro;31/07/2019;23/03/2020;7,9
+mapa;saf;Agro-SAF-CGEC1;ROOF;Coordenador-Geral de Educação no Campo;DAS;4;especializacao;agronomia;UFMT;publica;VINC;PSDB;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;22/02/2019;24/07/2019;5,1
+mapa;saf;Agro-SAF-CGEC2;MJSME;Coordenador-Geral de Educação no Campo;DAS;4;especializacao;agronomia;UFS;publica;OUTRO;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;07/08/2019;23/03/2020;7,6
+mapa;saf;Agro-SAF-DCAM1;MAMDL;Diretor de Cooperativismo e Acesso a Mercados;DAS;5;superior;veterinaria;Universidade Luterana do Rio Grande do Sul;privada;SVE;MDB;0;0;1;3;1;NA;RS;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;saf;Agro-SAF-CGC1;KLSS;Coordenador-Geral de Cooperativismo;DAS;4;mestrado;agronomia;UFSC;publica;SE_INT;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;13/02/2019;22/11/2019;9,4
+mapa;saf;Agro-SAF-CGC2;FPRI;Coordenador-Geral de Cooperativismo;DAS;4;especializacao;administracao;INESC;privada;SVE;PSDB;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;22/11/2019;31/05/2021;18,5
+mapa;saf;Agro-SAF-CGAM1;MSRO;Coordenador-Geral de Acesso a Mercados;DAS;4;especializacao;direito;Faculdade Dom Alberto;privada;SVE;NA;0;0;1;NA;0;1;RS;PSL;DEM;Bolsonaro;29/04/2019;NA;NA
+mapa;saf;Agro-SAF-DEP1;AMJR;Diretor de Estruturação Produtiva;DAS;5;especializacao;agronomia;UnB;publica;SVE;PSC;0;0;1;0;1;1;DF;PSL;DEM;Bolsonaro;25/01/2019;21/02/2020;13,1
+mapa;saf;Agro-SAF-CGE1;HUTF;Coordenador-Geral de Extrativismo;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;0;0;NA;NA;NA;PSL;DEM;Bolsonaro;04/02/2019;15/02/2019;0,4
+mapa;saf;Agro-SAF-CGAEPF1;HUTF;Coordenador-Geral de Apoio à Estruturação da Produção Familiar;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;1;3;NA;NA;NA;PSL;DEM;Bolsonaro;15/02/2019;31/07/2019;5,5
+mapa;saf;Agro-SAF-CGAEPF2;APBJ;Coordenador-Geral de Apoio à Estruturação da Produção Familiar;DAS;4;especializacao;direito;UniCEUB;privada;SVE;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;31/07/2019;03/12/2021;28,5
+mapa;saf;Agro-SAF-CGE2;MARPV;Coordenador-Geral de Extrativismo;DAS_FCPE;4;mestrado;agronomia;UnB;publica;VINC;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;15/02/2019;NA;NA
+mapa;saf;Agro-SAF-CGPFI1;JPRC;Coordenador-Geral de Projetos de Fomento e Infraestrutura;DAS;4;especializacao;direito;Centro Universitário do DF;privada;SVE;NA;0;0;1;NA;0;NA;DF;PSL;DEM;Bolsonaro;29/01/2019;14/06/2021;28,9
+mapa;saf;Agro-SAF-DGCF1;CEMF;Diretor de Gestão do Crédito Fundiário;DAS;5;especializacao;biologia;Unimontes;publica;OUTRO;PPS;0;0;1;3;0;NA;NA;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;saf;Agro-SAF-CGCF1;ABSF;Coordenador-Geral de Crédito Fundiário;DAS;4;superior;direito;Faculdade São Francisco;privada;SVE;NA;0;0;1;1;0;NA;NA;PSL;DEM;Bolsonaro;15/02/2019;NA;NA
+mapa;saf;Agro-SAF-CGFT1;HERP;Coordenador-Geral do Fundo de Terras;FCPE;4;mestrado;engenharia de materiais;UFCG;publica;VINC;NA;0;0;1;1;1;NA;NA;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;saf;Agro-SAF-DDC1;PAAPE;Diretor de Desenvolvimento Comunitário;DAS;5;doutorado;agronomia;UFRRJ;publica;VINC;NA;0;0;1;5;0;1;DF;PSL;DEM;Bolsonaro;22/04/2020;04/11/2021;18,7
+mapa;saf;Agro-SAF-CGDA1;CRBR;Coordenador-Geral de Desenvolvimento de Assentamentos;DAS;4;especializacao;direito;UPF;privada;SVE;NA;0;0;1;3;1;0;DF;PSL;DEM;Bolsonaro;23/03/2020;04/11/2021;19,7
+mapa;saf;Agro-SAF-CGPATER1;MJSME;Coordenador-Geral de Programas de Assistência Técnica e Extensão Rural;DAS_FCPE;4;especializacao;agronomia;UFS;publica;OUTRO;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;NA;NA
+mapa;saf;Agro-SAF-DEP2;JOPA;Diretor de Estruturação Produtiva;DAS;5;NA;NA;NA;NA;SVE;MDB;1;NA;1;5;NA;NA;NA;PSL;DEM;Bolsonaro;21/02/2020;04/06/2021;15,6
+mapa;saf;Agro-SAF-DEP3;ABJO;Diretor de Estruturação Produtiva;DAS;5;mestrado;agronomia;UNESP;publica;VINC;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;29/04/2021;29/11/2021;7,1
+mapa;saf;Agro-SAF-CGPFI2;GAAA;Coordenador-Geral de Projetos de Fomento e Infraestrutura;DAS;4;especializacao;administracao;Universidade Caxias do Sul;privada;SVE;MDB;0;0;1;3;1;NA;NA;PSL;DEM;Bolsonaro;24/06/2021;04/11/2021;4,4
+mapa;saf;Agro-SAF-S2;CHHA;Secretário de Agricultura Familiar e Cooperativismo;DAS;6;superior;veterinaria;UFG;publica;SVE;PRB;1;1;1;5;0;1;DF;PSL;DEM;Bolsonaro;01/07/2021;02/12/2021;5,1
+mapa;saf;Agro-SAF-CGAF2;CESF;Coordenador-Geral de Administração e Finanças;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;saf;Agro-SAF-CGCPI1;FPRI;Coordenador-Geral de de Celebração de Parcerias Institucionais;DAS;4;especializacao;administracao;INESC;privada;SVE;PSDB;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;saf;Agro-SAF-DATER2;PAAPE;Diretor de  Assistência Técnica e Extensão Rural ;DAS;5;doutorado;agronomia;UFRRJ;publica;VINC;NA;0;0;1;5;0;1;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;saf;Agro-SAF-CGGS1;JCMJ;Coordenador-Geral do Garantia-Safra;DAS;4;superior;agronomia;UFBA;publica;SVE;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;saf;Agro-SAF-CGC3;FADS;Coordenador-Geral de Cooperativismo;DAS;4;tecnico;agropecuaria;Escola Agrotécnica Federal;publica;SVE;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;31/05/2021;NA;NA
+mapa;saf;Agro-SAF-CGCNAF1;GAAA;Coordenador-Geral do Cadastro Nacional da Agricultura Familiar;DAS;4;especializacao;administracao;Universidade Caxias do Sul;privada;SVE;MDB;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;saf;Agro-SAF-CGIP1;CRBR;Coordenador-Geral de Inclusão Produtiva;DAS;4;especializacao;direito;UPF;privada;SVE;NA;0;0;1;3;1;0;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;sdi;Agro-SDI-S1;FESC;Secretário de inovação, Desenvolvimento Rural e Irrigação / de Inovação, Desenvolvimento Sustentável e Irrigação;DAS;6;especializacao;direito;Universidade Dom Bosco;privada;OUTRO;NA;0;0;1;NA;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;sdi;Agro-SDI-SA1;PACN;Secretário Adjunto;DAS;5;especializacao;economia;Católica;privada;SVE;NA;0;0;1;5;1;1;DF;PSL;DEM;Bolsonaro;25/01/2019;12/04/2021;26,9
+mapa;sdi;Agro-SDI-DAIA1;LCRFR;Diretor de Apoio à Inovação para Agropecuária;DAS;5;mestrado;administracao;Católica;privada;SVE;NA;0;0;0;1;3;1;DF;PSL;DEM;Bolsonaro;25/01/2019;16/03/2020;13,9
+mapa;sdi;Agro-SDI-CGNIS1;MATMZ;Coordenador-Geral de Novos Insumos e Serviços;DAS;4;especializacao;direito;Associação de Ensino Unificado DF;privada;VINC;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;30/01/2019;22/04/2020;14,9
+mapa;sdi;Agro-SDI-CGAI1;BJGNE;Coordenador-Geral de Articulação para Inovação;DAS;4;superior;administracao;estrangeira;NA;SVE;NA;0;0;0;0;1;1;NA;PSL;DEM;Bolsonaro;27/02/2019;03/09/2019;6,3
+mapa;sdi;Agro-SDI-CGAI2;LIFSO;Coordenador-Geral de Articulação para Inovação;DAS;4;doutorado;zootecnia;UFSM;publica;OUTRO;NA;0;0;1;0;1;NA;PR;PSL;DEM;Bolsonaro;10/10/2019;04/08/2020;10
+mapa;sdi;Agro-SDI-DDCP1;OMCA;Diretor de Desenvolvimento das Cadeias Produtivas;DAS;5;doutorado;NA;NA;NA;SVE;PSDB;0;0;1;NA;0;NA;SP;PSL;DEM;Bolsonaro;25/01/2019;01/02/2021;24,6
+mapa;sdi;Agro-SDI-CGPAF1;MVMM;Coordenador-Geral de Produção Agrícola e Florestal;DAS;4;mestrado;agronomia;UFLA;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;26/04/2019;23/03/2020;11,1
+mapa;sdi;Agro-SDI-CGPA1;ABSOA;Coordenador-Geral de Produção Animal;DAS;4;doutorado;agronomia;UFMS;publica;MAG_SUP;NA;0;0;1;0;0;1;PR;PSL;DEM;Bolsonaro;25/01/2019;10/08/2020;18,8
+mapa;sdi;Agro-SDI-CGPR1;CLSRI;Coordenador-Geral de Programas Regionais;DAS;4;superior;administracao;Objetivo;privada;SVE;NA;0;0;1;0;1;1;NA;PSL;DEM;Bolsonaro;18/03/2019;NA;NA
+mapa;sdi;Agro-SDI-DPSI1;MACSA;Diretor de Produção Sustentável e Irrigação;DAS;5;doutorado;ambiental;USP;publica;SVE;NA;0;0;0;0;0;1;NA;PSL;DEM;Bolsonaro;23/04/2019;NA;NA
+mapa;sdi;Agro-SDI-CGMC1;ENRA;Coordenador-Geral de Mudanças Climáticas;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;NA;PSL;DEM;Bolsonaro;25/01/2019;22/04/2020;15,1
+mapa;sdi;Agro-SDI-CGCSA1;GHLO;Coordenador-Geral de Conservação do Solo e Água;DAS;4;superior;economia;UPIS;privada;SVE;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;NA;22/07/2020;NA
+mapa;sdi;Agro-SDI-CGI1;MGSF;Coordenador-Geral de Irrigação;DAS;4;superior;agronomia;FACIAGRA;publica;SVE;PP;0;0;1;3;NA;NA;DF;PSL;DEM;Bolsonaro;NA;10/12/2019;NA
+mapa;sdi;Agro-SDI-CGI2;GUSG;Coordenador-Geral de Irrigação;DAS;4;especializacao;agronomia;UFU;publica;SVE;NA;0;0;0;0;0;1;NA;PSL;DEM;Bolsonaro;18/12/2019;22/04/2020;4,2
+mapa;sdi;Agro-SDI-DCELC1;WPAJR;Diretor da Comissão Executiva da Lavroura Cacaueira;DAS;5;mestrado;engenharia eletrica;UFBA;publica;OUTRO;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;01/11/2019;NA;NA
+mapa;sdi;Agro-SDI-CGAFCEPLC1;NAFFE;Coordenador-Geral de Administração e Finanças da Comissão Executiva do Plano da Lavoura Cacaueira;DAS;4;superior;direito;UniCEUB;privada;SVE;NA;0;0;1;3;NA;NA;DF;PSL;DEM;Bolsonaro;29/04/2019;04/02/2020;9,4
+mapa;sdi;Agro-SDI-CGPED1;MAWM;Coordenador-Geral de de Pesquisas, Extensão e Desenvolvimento;DAS;4;doutorado;agronomia;FACAP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;12/02/2019;22/04/2020;14,5
+mapa;sdi;Agro-SDI-CGIE1;RADF;Coordenador-Geral de Informações Estratégicas;DAS;4;superior;administracao;AEUDF;privada;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;04/11/2021;19,7
+mapa;sdi;Agro-SDI-CGAF1;FMSP;Coordenador-Geral de Administração e Finanças;DAS;4;superior;quimica;Faculdade de Humanas Pedro II;publica;OUTRO;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;25/03/2020;NA;NA
+mapa;sdi;Agro-SDI-DAIA2;CLOS;Diretor de Apoio à Inovação para Agropecuária;DAS;5;doutorado;veterinaria;UFRRJ;publica;VINC;NA;0;0;1;NA;0;NA;DF;PSL;DEM;Bolsonaro;26/03/2020;27/04/2021;13,2
+mapa;sdi;Agro-SDI-CGMNTRG1;MATMZ;Coordenador-Geral de Mecanização, Novas Tecnologias e Recursos Genéticos;DAS;4;especializacao;direito;Associação de Ensino Unificado DF;privada;VINC;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;22/04/2020;04/08/2020;3,5
+mapa;sdi;Agro-SDI-CGMNTRG2;SIAS;Coordenador-Geral de Mecanização, Novas Tecnologias e Recursos Genéticos;DAS;4;mestrado;quimica;UFMG;publica;VINC;NA;0;0;1;0;1;NA;DF;PSL;DEM;Bolsonaro;04/08/2020;27/04/2021;8,9
+mapa;sdi;Agro-SDI-CGAI3;DTNAS;Coordenador-Geral de Articulação para Inovação;DAS;4;doutorado;administracao;UFSC;publica;VINC;NA;0;0;1;0;1;1;DF;PSL;DEM;Bolsonaro;04/08/2020;NA;NA
+mapa;sdi;Agro-CGSIPA1;MVMM;Coordenador-Geral de Sistemas Integrados de Produção Agrícola;FCPE;4;mestrado;agronomia;UFLA;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;NA;NA
+mapa;sdi;Agro-SDI-CGPA2;MAAT;Coordenador-Geral de Produção Animal;DAS_FCPE;4;doutorado;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;27/10/2020;NA;NA
+mapa;sdi;Agro-SDI-CGMCAC1;ENRA;Coordenador-Geral de Mudanças Climáticas e Agropecuária Conservacionista;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;NA;PSL;DEM;Bolsonaro;22/04/2020;20/11/2020;7,1
+mapa;sdi;Agro-SDI-CGID1;GUSG;Coordenador-Geral de Irrigação e Drenagem;DAS;4;especializacao;agronomia;UFU;publica;SVE;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;22/04/2020;05/03/2021;10,6
+mapa;sdi;Agro-SDI-CGAV2;RAROD;Coordenador-Geral de Agregação de Valor;DAS;4;mestrado;agronomia;UNESP;publica;SVE;NA;0;0;0;0;1;NA;NA;PSL;DEM;Bolsonaro;28/05/2020;05/03/2021;9,4
+mapa;sdi;Agro-SDI-CGPI1;MAWM;Coordenador-Geral de Pesquisa e Inovação;DAS;4;doutorado;agronomia;FACAP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;09/03/2021;10,7
+mapa;sdi;Agro-SDI-DINMET1;CECC;Diretor do Instituto Nacional de Metereologia;DAS;5;NA;NA;NA;NA;MIL;NA;0;0;0;0;0;NA;NA;PSL;DEM;Bolsonaro;23/04/2019;16/12/2020;20,1
+mapa;sdi;Agro-SDI-DINMET2;MILO;Diretor do Instituto Nacional de Metereologia;DAS;5;mestrado;economia;PUC;privada;VINC;NA;0;0;1;5;1;1;DF;PSL;DEM;Bolsonaro;16/12/2020;NA;NA
+mapa;sdi;Agro-SDI-CGAO1;HETO;Coordenador-Geral de Apoio Operacional;DAS;4;mestrado;geografia;PUC;privada;SE_INT;NA;0;0;1;1;1;NA;DF;PSL;DEM;Bolsonaro;04/08/2020;NA;NA
+mapa;sdi;Agro-SDI-CGMADP1;MASS;Coordenador-Geral de Meteorologia Aplicada, Desenvolvimento e Pesquisa;DAS;4;mestrado;meteorologia;UFRJ;publica;SE_INT;NA;0;0;1;NA;0;NA;NA;PSL;DEM;Bolsonaro;19/06/2019;NA;NA
+mapa;sdi;Agro-SDI-CGMN1;FQFI;Coordenador-Geral de Modelagem Numérica;DAS;4;especializacao;meteorologia;UFPB;publica;SE_INT;NA;0;0;1;1;0;NA;DF;PT;MDB;Lula;17/03/2006;29/09/2021;189,2
+mapa;sdi;Agro-SDI-CGSCI1;JOMRE;Coordenador-Geral de Sistemas de Comunicação e Informação;DAS;4;superior;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;NA;PSL;DEM;Bolsonaro;11/02/2020;29/09/2021;19,9
+mapa;sdi;Agro-SDI-SA2;CLOS;Secretário Adjunto;DAS;5;doutorado;veterinaria;UFRRJ;publica;VINC;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;27/04/2021;NA;NA
+mapa;sdi;Agro-SDI-DAIA3;SIAS;Diretor de Apoio à Inovação para Agropecuária;DAS;5;mestrado;quimica;UFMG;publica;VINC;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;27/04/2021;NA;NA
+mapa;sdi;Agro-SDI-CGCR1;ALLS;Coordenador-Geral de Conectividade Rural;FCPE;4;superior;engenharia de redes;UnB;publica;OUTRO;NA;0;0;1;3;NA;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;sdi;Agro-SDI-CGMNTRG3;ACFI;Coordenador-Geral de Mecanização, Novas Tecnologias e Recursos Genéticos;DAS;4;mestrado;agronomia;UFLA;publica;VINC;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;28/04/2021;NA;NA
+mapa;sdi;Agro-SDI-DDCP2;ALBAR;Diretor de Desenvolvimento das Cadeias Produtivas;DAS;5;doutorado;agronomia;UFRRJ;publica;VINC;PSL;0;0;1;0;0;1;DF;PSL;DEM;Bolsonaro;01/02/2021;NA;NA
+mapa;sdi;Agro-SDI-CGMCAC2;FAVAL;Coordenador-Geral de Mudanças Climáticas e Agropecuária Conservacionista;DAS;4;doutorado;zootecnia;UFLA;publica;VINC;NA;0;0;1;0;0;0;DF;PSL;DEM;Bolsonaro;23/12/2020;NA;NA
+mapa;sdi;Agro-SDI-CGCSA2;SBCAR;Coordenador-Geral de Conservação do Solo e Água;DAS;4;mestrado;agronomia;UFLA;publica;VINC;NA;0;0;1;NA;1;NA;DF;PSL;DEM;Bolsonaro;05/08/2020;NA;NA
+mapa;sdi;Agro-SDI-CGID2;FESBE;Coordenador-Geral de Irrigação e Drenagem;DAS;4;superior;agronomia;UnB;publica;OUTRO;NA;0;0;1;3;NA;NA;DF;PSL;DEM;Bolsonaro;05/03/2021;NA;NA
+mapa;sdi;Agro-SDI-DPTR1;AMAL;Diretor  de Programas Territoriais Rurais;DAS;5;doutorado;arquitetura;UFAL;publica;EPPGG;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;sdi;Agro-SDI-CGAV1;GUSG;Coordenador-Geral de Agregação de Valor;DAS;4;especializacao;agronomia;UFU;publica;SVE;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;05/03/2021;NA;NA
+mapa;sdi;Agro-SDI-CGPI2;LUCH;Coordenador-Geral de Pesquisa e Inovação;DAS;4;doutorado;biologia;UEL;publica;VINC;NA;0;0;1;NA;0;NA;NA;PSL;DEM;Bolsonaro;16/06/2021;04/11/2021;4,7
+mapa;sdi;Agro-SDI-CGDPI1;LUCH;Coordenador-Geral de Descentralizada de Pesquisa e Inovação;DAS;4;doutorado;biologia;UEL;publica;VINC;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;04/11/2021;NA;NA
+mapa;sdi;Agro-SDI-CGMN2;PRMFC;Coordenador-Geral de Modelagem Numérica;DAS;4;mestrado;engenharia eletrica;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;29/09/2021;NA;NA
+mapa;sdi;Agro-SDI-CGSCI2;LFZM;Coordenador-Geral de Sistemas de Comunicação e Informação;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;NA;NA;NA;NA;NA;PSL;DEM;Bolsonaro;29/09/2021;NA;NA
+mapa;sri;Agro-SRI-S1;CBPO;Secretário de Relações Internacionais do Agronegócio;DAS;6;superior;economia;NA;NA;VINC;PSDB;0;0;1;5;NA;NA;DF;PT;MDB;Lula;17/01/2006;02/08/2013;91,8
+mapa;sri;Agro-SRI-CGA1;EMMF;Coordenador-Geral de Articulação;DAS;4;superior;agronomia;NA;NA;SE_INT;NA;0;0;1;0;NA;NA;DF;PT;MDB;Lula;25/08/2008;09/02/2011;29,9
+mapa;sri;Agro-SRI-DAC1;BRES;Diretor de Assuntos Comerciais;DAS;5;mestrado;administracao;FGV;privada;OUTRO;NA;0;0;1;5;NA;1;NA;PT;MDB;Lula;08/07/2007;10/02/2015;92,5
+mapa;sri;Agro-SRI-CGAM1;LCCA;Coordenador-Geral de Assuntos Multilaterais;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;0;NA;NA;DF;PT;MDB;Lula;16/02/2005;28/07/2015;127,1
+mapa;sri;Agro-SRI-CGIR1;EVCF;Coordenador-Geral de Integração Regional;DAS;4;doutorado;economia;Instituto Toledo de Ensino;privada;VINC;NA;0;0;1;3;0;1;NA;PT;MDB;Rousseff;29/06/2009;01/07/2011;24,4
+mapa;sri;Agro-SRI-CGIR2;EDGU;Coordenador-Geral de Integração Regional;DAS;4;superior;economia;NA;NA;VINC;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;01/07/2011;01/11/2011;4,1
+mapa;sri;Agro-SRI-CGIR3;LRTA;Coordenador-Geral de Integração Regional;DAS;4;superior;agronomia;UNESP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;15/12/2011;23/05/2012;5,3
+mapa;sri;Agro-SRI-CGIR4;AAPO;Coordenador-Geral de Integração Regional;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;23/05/2012;28/07/2015;38,7
+mapa;sri;Agro-SRI-DNSF1;LMSCO;Diretor de Negociações Sanitárias e Fitossanitárias;DAS;5;superior;NA;NA;NA;VINC;NA;0;0;1;5;NA;NA;DF;PT;MDB;Lula;18/05/2010;08/02/2011;8,9
+mapa;sri;Agro-SRI-CGA2;LMSCO;Coordenador-Geral de Articulação;DAS;4;superior;NA;NA;NA;VINC;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;09/02/2011;25/01/2012;11,7
+mapa;sri;Agro-SRI-DNSF2;OTHC;Diretor de Negociações Sanitárias e Fitossanitárias;DAS;5;especializacao;relacoes internacionais;UnB;publica;SVE;DEM;0;0;1;3;1;1;NA;PT;MDB;Rousseff;08/02/2011;09/01/2012;11,2
+mapa;sri;Agro-SRI-DNSF3;LMSCO;Diretor de Negociações Sanitárias e Fitossanitárias;DAS;5;superior;economia;NA;NA;VINC;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;25/01/2012;10/02/2015;37,1
+mapa;sri;Agro-SRI-CGABR1;DEMC;Coordenador-Geral de Acordos Bilaterais e Regionais;DAS;4;superior;veterinaria;NA;NA;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Lula;22/07/2010;15/04/2011;8,9
+mapa;sri;Agro-SRI-CGABR2;CMGA;Coordenador-Geral de Acordos Bilaterais e Regionais;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;0;0;NA;NA;NA;PT;MDB;Lula;29/04/2011;10/02/2012;9,6
+mapa;sri;Agro-SRI-CGABR3;JCCMA;Coordenador-Geral de Acordos Bilaterais e Regionais;DAS;4;superior;veterinaria;UFLA;publica;SE_INT;NA;0;0;1;3;NA;1;;PT;MDB;Rousseff;10/02/2012;28/07/2015;42,1
+mapa;sri;Agro-SRI-CGNOMC1;ALPP;Coordenador-Geral de Negociações na Organização Mundial do Comércio;DAS;4;superior;veterinaria;UFRGS;publica;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Lula;03/10/2008;28/07/2015;83
+mapa;sri;Agro-SRI-DPIA1;ESMA;Diretor de Promoção Internacional do Agronegócio;DAS;4;mestrado;agronomia;UFLA;publica;EPPGG;NA;0;0;1;3;0;NA;DF;PT;MDB;Lula;19/04/2006;24/01/2011;58
+mapa;sri;Agro-SRI-DPIA2;MJFE;Diretor de Promoção Internacional do Agronegócio;DAS;5;superior;veterinaria;NA;NA;VINC;NA;0;0;1;NA;NA;NA;NA;PT;MDB;Rousseff;24/01/2011;02/08/2013;30,7
+mapa;sri;Agro-SRI-CGAME1;TCIG;Coordenador-Geral de Ações no Mercado Externo;DAS;4;superior;comunicacao;NA;NA;NA;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;14/03/2005;21/08/2013;102,7
+mapa;sri;Agro-SRI-CGOE1;ELLO;Coordenador-Geral de Organização para Exportação;DAS;4;mestrado;economia;UnB;publica;EPPGG;NA;0;0;1;3;0;NA;DF;PT;MDB;Lula;04/03/2005;17/02/2011;72,5
+mapa;sri;Agro-SRI-CGOE2;WSNO;Coordenador-Geral de Organização para Exportação;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;0;0;NA;NA;NA;PT;MDB;Rousseff;17/02/2011;19/08/2011;6,1
+mapa;sri;Agro-SRI-CGOE3;AGAG;Coordenador-Geral de Organização para Exportação;DAS;5;especializacao;relacoes internacionais;UnB;publica;EPPGG;NA;0;0;1;0;0;NA;DF;PT;MDB;Rousseff;16/12/2011;01/06/2015;42,1
+mapa;sri;Agro-SRI-S2;MJFE;Secretário de Relações Internacionais do Agronegócio;DAS;6;superior;veterinaria;NA;NA;VINC;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;02/08/2013;21/01/2015;17,9
+mapa;sri;Agro-SRI-DPIA3;TCIG;Diretor de Promoção Internacional do Agronegócio;DAS;5;superior;comunicacao;NA;NA;NA;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;21/08/2013;10/02/2015;17,9
+mapa;sri;Agro-SRI-S3;TLPA;Secretário de Relações Internacionais do Agronegócio;DAS;6;mestrado;direito;estrangeira;NA;SVE;NA;0;0;0;0;1;1;NA;PT;MDB;Rousseff;21/01/2015;12/05/2016;15,9
+mapa;sri;Agro-SRI-CGA3;RSLO;Coordenador-Geral de Articulação;DAS;4;especializacao;relacoes internacionais;UniCEUB;privada;SVE;NA;0;0;1;1;0;NA;NA;PT;MDB;Rousseff;28/07/2015;20/09/2016;14
+mapa;sri;Agro-SRI-DAC2;GACJ;Diretor de Assuntos Comerciais;DAS;5;especializacao;veterinaria;UFRPE;publica;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;10/02/2015;27/07/2015;5,6
+mapa;sri;Agro-SRI-CGAME2;ESMA;Coordenador-Geral de Ações no Mercado Externo;DAS;4;mestrado;agronomia;UFLA;publica;EPPGG;NA;0;0;1;5;0;NA;DF;PT;MDB;Rousseff;05/03/2015;03/06/2015;3
+mapa;sri;Agro-SRI-CGOE4;MPFC;Coordenador-Geral de Organização para Exportação;DAS;4;especializacao;economia;UnB;publica;EPPGG;NA;0;0;1;5;1;NA;DF;PT;MDB;Rousseff;01/06/2015;26/08/2015;2,9
+mapa;sri;Agro-SRI-DAMC1;JLROS;Diretor de Acesso a Mercados e Competitividade ;DAS;5;superior;relacoes internacionais;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;11/09/2015;11/07/2017;22,3
+mapa;sri;Agro-SRI-CGNCM1;LCCA;Coordenador-Geral de Negociações Comerciais Multilaterais;DAS;4;superior;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;28/07/2015;03/12/2015;4,3
+mapa;sri;Agro-SRI-CGNCRB1;AAPO;Coordenador-Geral de Negociações Comerciais Regionais e Bilaterais;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;28/07/2015;03/12/2015;4,3
+mapa;sri;Agro-SRI-CGNCM2;AAPO;Coordenador-Geral de Negociações Comerciais Multilaterais;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;03/12/2015;03/05/2016;5,1
+mapa;sri;Agro-SRI-CGNCRB2;GCDO;Coordenador-Geral de Negociações Comerciais Regionais e Bilaterais;DAS;4;mestrado;economia;UnB;publica;OUTRO;NA;0;0;1;1;0;NA;DF;PT;MDB;Rousseff;03/12/2015;04/05/2016;5,1
+mapa;sri;Agro-SRI-CGAAA1;GBAN;Coordenador-Geral de Atuação dos Adidos Agrícolas;DAS;4;doutorado;agronomia;UFC;publica;SE_INT;NA;0;0;1;3;0;NA;;PT;MDB;Rousseff;03/08/2015;31/08/2016;13,1
+mapa;sri;Agro-SRI-CGAM1;AAPO;Coordenador-Geral de Acesso a Mercados;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;0;NA;DF;PT;MDB;Temer;03/05/2016;08/05/2017;12,3
+mapa;sri;Agro-SRI-CGC1;GCDO;Coordenador-Geral de Competividade;DAS;4;mestrado;economia;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;04/05/2016;19/07/2017;14,7
+mapa;sri;Agro-SRI-DNSF4;OLRS;Diretor de Negociações Sanitárias e Fitossanitárias;DAS;5;especializacao;agronomia;UFLA;publica;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;10/02/2015;28/07/2015;5,6
+mapa;sri;Agro-SRI-DNNF1;OLRS;Diretor de Negociações Não Tarifárias;DAS;5;especializacao;agronomia;UFLA;publica;SE_INT;NA;0;0;1;5;NA;NA;DF;PT;MDB;Rousseff;28/07/2015;03/05/2016;9,3
+mapa;sri;Agro-SRI-DNNF2;OLRS;Diretor de Negociações Não Tarifárias;DAS;5;especializacao;agronomia;UFLA;publica;SE_INT;NA;0;0;1;5;NA;NA;DF;MDB;PP;Temer;03/05/2016;03/05/2016;0
+mapa;sri;Agro-SRI-CGDNTCI1;ALPP;Coordenador-Geral de Disciplinas Não Tarifárias no Comércio Internacional;DAS;4;superior;veterinaria;UFRGS;publica;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;MDB;Rousseff;28/07/2015;22/03/2016;7,9
+mapa;sri;Agro-SRI-CGTSF1;JCCMA;Coordenador-Geral de Temas Sanitários e Fitossanitários;DAS;4;superior;veterinaria;UFLA;publica;SE_INT;NA;0;0;1;3;NA;1;;PT;MDB;Rousseff;28/07/2015;22/03/2016;7,9
+mapa;sri;Agro-SRI-CGDNTCI2;JCCMA;Coordenador-Geral de Disciplinas Não Tarifárias no Comércio Internacional;DAS_FCPE;4;superior;veterinaria;UFLA;publica;SE_INT;NA;0;0;1;3;NA;1;;PT;MDB;Rousseff;22/03/2016;18/12/2017;21,2
+mapa;sri;Agro-SRI-CGTSF2;ALPP;Coordenador-Geral de Temas Sanitários e Fitossanitários;DAS;4;superior;veterinaria;UFRGS;publica;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;PP;Temer;22/03/2016;10/08/2016;4,7
+mapa;sri;Agro-SRI-DPIA4;APCF;Diretor de Promoção Internacional do Agronegócio;DAS;5;NA;NA;NA;NA;DIPL;NA;0;0;1;3;NA;NA;NA;PT;MDB;Rousseff;09/03/2015;25/01/2016;10,7
+mapa;sri;Agro-SRI-CGAME3;LICH;Coordenador-Geral de Ações no Mercado Externo;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;1;NA;NA;NA;PT;MDB;Rousseff;08/06/2015;28/07/2015;1,7
+mapa;sri;Agro-SRI-CGPIEC1;MPFC;Coordenador-Geral de Promoção de Investimentos Estrangeiros e Cooperação;DAS;4;especializacao;economia;UnB;publica;EPPGG;NA;0;0;1;5;1;NA;DF;PT;MDB;Rousseff;26/08/2015;10/11/2015;2,5
+mapa;sri;Agro-SRI-CGPIEC2;ASMAR;Coordenador-Geral de Promoção de Investimentos Estrangeiros e Cooperação;DAS;4;NA;NA;NA;NA;DIPL;PDT;0;0;1;3;NA;1;NA;PT;MDB;Rousseff;10/11/2015;02/05/2016;5,8
+mapa;sri;Agro-SRI-DPIA5;ASMAR;Diretor de Promoção Internacional do Agronegócio;DAS;5;NA;NA;NA;NA;DIPL;PDT;0;0;1;3;NA;1;DF;PT;MDB;Rousseff;04/05/2016;04/08/2016;3,1
+mapa;sri;Agro-SRI-CGPC1;LICH;Coordenador-Geral de Promoção Comercial;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;1;NA;NA;DF;PT;MDB;Rousseff;28/07/2015;06/02/2017;18,6
+mapa;sri;Agro-SRI-CGPIEC3;JAMO;Coordenador-Geral de Promoção de Investimentos Estrangeiros e Cooperação;DAS;4;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;PP;Temer;12/05/2016;29/08/2016;3,6
+mapa;sri;Agro-SRI-S4;OLRS;Secretário de Relações Internacionais do Agronegócio;DAS;6;especializacao;agronomia;UFLA;publica;SE_INT;NA;0;0;1;5;NA;NA;DF;MDB;PP;Temer;10/08/2016;04/01/2019;29,2
+mapa;sri;Agro-SRI-CGAM2;ALOG;Coordenador-Geral de Acesso a Mercados;DAS;4;especializacao;administracao;União Educacional de Brasília;publica;OUTRO;NA;0;0;1;3;0;NA;NA;MDB;PP;Temer;08/05/2017;25/01/2019;20,9
+mapa;sri;Agro-SRI-CGAAA2;ECSO;Coordenador-Geral de Atuação dos Adidos Agrícolas;DAS;4;especializacao;agronomia;UFMT;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;PP;Temer;31/08/2016;19/10/2016;1,6
+mapa;sri;Agro-SRI-CGAPA1;RSLO;Coordenador-Geral de Afastamentos do País e Articulação;DAS;4;especializacao;relacoes internacionais;UniCEUB;privada;SVE;NA;0;0;1;3;0;NA;NA;MDB;PP;Temer;20/09/2016;03/10/2018;24,8
+mapa;sri;Agro-SRI-CGAPA2;JUVI;Coordenador-Geral de Afastamentos do País e Articulação;DAS;4;mestrado;relacoes internacionais;UNIEURO;privada;VINC;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;11/10/2018;13/02/2019;4,2
+mapa;sri;Agro-SRI-DAMC2;GCDO;Diretor de Acesso a Mercados e Competitividade ;DAS;5;mestrado;economia;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;19/07/2017;25/01/2019;18,5
+mapa;sri;Agro-SRI-CGC2;AGAG;Coordenador-Geral de Competividade;DAS;4;especializacao;relacoes internacionais;UnB;publica;EPPGG;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;22/08/2017;11/10/2018;13,8
+mapa;sri;Agro-SRI-CGC3;RACA;Coordenador-Geral de Competividade;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;NA;MDB;PP;Temer;11/10/2018;04/04/2019;5,8
+mapa;sri;Agro-SRI-DNNT3;ALPP;Diretor de Negociações Não Tarifárias;DAS;5;superior;veterinaria;UFRGS;publica;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;PP;Temer;10/08/2016;06/06/2018;22,2
+mapa;sri;Agro-SRI-CGDNTCI3;MAAA;Coordenador-Geral de Disciplinas Não Tarifárias no Comércio Internacional;FCPE;4;mestrado;agronomia;UFSC;publica;SE_INT;NA;0;0;1;3;1;1;DF;MDB;PP;Temer;18/12/2017;13/02/2019;NA
+mapa;sri;Agro-SRI-CGTSF3;LEDFE;Coordenador-Geral de Temas Sanitários e Fitossanitários;DAS;4;mestrado;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;5;1;NA;DF;MDB;PP;Temer;19/08/2016;12/07/2018;23,1
+mapa;sri;Agro-SRI-DNNT4;LEDFE;Diretor de Negociações Não Tarifárias;DAS;5;mestrado;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;5;1;NA;DF;MDB;PP;Temer;12/07/2018;25/01/2019;6,6
+mapa;sri;Agro-SRI-CGTSF4;LSAN;Coordenador-Geral de Temas Sanitários e Fitossanitários;FCPE;4;NA;veterinaria;UFF;publica;SE_INT;NA;0;0;1;3;0;NA;NA;MDB;PP;Temer;07/08/2018;25/01/2019;5,7
+mapa;sri;Agro-SRI-DPIA6;ESMA;Diretor de Promoção Internacional do Agronegócio;DAS;5;mestrado;agronomia;UFLA;publica;EPPGG;NA;0;0;1;5;0;NA;DF;MDB;PP;Temer;15/09/2016;24/08/2017;11,4
+mapa;sri;Agro-SRI-CGPC2;ROFO;Coordenador-Geral de Promoção Comercial;DAS;4;mestrado;arquitetura;UnB;publica;EPPGG;NA;0;0;1;1;0;NA;DF;MDB;PP;Temer;06/02/2017;04/09/2017;7
+mapa;sri;Agro-SRI-CGPC3;RAGM;Coordenador-Geral de Promoção Comercial;DAS;4;superior;marketing;NA;NA;SVE;NA;0;0;0;0;NA;NA;NA;MDB;PP;Temer;03/11/2017;23/04/2018;5,7
+mapa;sri;Agro-SRI-CGPC4;CRKA;Coordenador-Geral de Promoção Comercial;DAS;4;superior;relacoes publicas;estrangeira;NA;SVE;NA;0;0;1;3;1;NA;DF;MDB;PP;Temer;03/04/2018;25/01/2019;9,9
+mapa;sri;Agro-SRI-CGPIEC5;ESJR;Coordenador-Geral de Promoção de Investimentos Estrangeiros e Cooperação;DAS;4;especializacao;analise de sistemas e comercio exterior;UNISINOS;privada;SVE;NA;0;0;1;NA;0;NA;NA;MDB;PP;Temer;09/09/2016;24/08/2017;11,6
+mapa;sri;Agro-SRI-CGPIEC6;JAMO;Coordenador-Geral de Promoção de Investimentos Estrangeiros e Cooperação;DAS;4;mestrado;agronomia;UnB;publica;SE_INT;NA;0;0;1;3;1;NA;DF;MDB;PP;Temer;04/09/2017;20/02/2018;5,6
+mapa;sri;Agro-SRI-CGPIEC7;RAGM;Coordenador-Geral de Promoção de Investimentos Estrangeiros e Cooperação;DAS;4;superior;marketing;NA;NA;SVE;NA;0;0;0;0;NA;NA;DF;MDB;PP;Temer;23/04/2018;03/02/2020;21,7
+mapa;sri;Agro-SRI-DPIA7;ESJR;Diretor de Promoção Internacional do Agronegócio;DAS;5;especializacao;analise de sistemas e comercio exterior;UNISINOS;privada;SVE;NA;0;0;1;3;0;NA;DF;MDB;PP;Temer;14/08/2017;13/02/2019;18,3
+mapa;sri;Agro-SRI-S5;ORLR;Secretário de Comércio e Relações Internacionais;DAS;6;superior;economia;UCAM;privada;DIPL;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;24/01/2019;NA;NA
+mapa;sri;Agro-SRI-SA1;FCBE;Secretário Adjunto;DAS;5;doutorado;direito;USP;publica;DIPL;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;NA;NA
+mapa;sri;Agro-SRI-CGALA1;JUVI;Coordenador-Geral de Apoio Logístico e Articulação;DAS;4;mestrado;relacoes internacionais;UNIEURO;privada;VINC;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;13/02/2019;12/07/2019;5
+mapa;sri;Agro-SRI-CGALA2;RGRE;Coordenador-Geral de Apoio Logístico e Articulação;DAS;4;mestrado;economia;UFRGS;publica;EPPGG;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;18/07/2019;12/08/2019;0,8
+mapa;sri;Agro-SRI-CGALA3;SMAN;Coordenador-Geral de Apoio Logístico e Articulação;DAS;4;especializacao;engenharia mecanica;UFSC;publica;SVE;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;19/08/2019;07/02/2020;5,7
+mapa;sri;Agro-SRI-CGGAA1;ECSO;Coordenador-Geral de Gestão dos Adidos Agrícolas;DAS;4;especializacao;agronomia;UFMT;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;21/03/2019;1,8
+mapa;sri;Agro-SRI-CGGAA2;ABJO;Coordenador-Geral de Gestão dos Adidos Agrícolas;DAS;4;mestrado;agronomia;UNESP;publica;VINC;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;18/06/2019;22/01/2021;19,5
+mapa;sri;Agro-SRI-DCNI1;ALOG;Diretor de Comércio e Negociações Internacionais;DAS;5;especializacao;administracao;União Educacional de Brasília;privada;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;15/01/2019;22/04/2020;15,4
+mapa;sri;Agro-SRI-CGC4;CHLJR;Coordenador-Geral de Competividade;DAS;4;especializacao;direito;Universidade Vila Velha;privada;OUTRO;NA;0;0;1;1;0;NA;DF;PSL;DEM;Bolsonaro;04/04/2019;23/03/2020;11,8
+mapa;sri;Agro-SRI-DTTSF1;RDAM;Diretor de Temas tecnicos, Sanitários e Fitossanitários;DAS;5;mestrado;relacoes internacionais;Católica;privada;EPPGG;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;09/07/2019;5,5
+mapa;sri;Agro-SRI-CGTSF5;LEDFE;Coordenador-Geral de Temas Sanitários e Fitossanitários;FCPE;4;mestrado;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;15/01/2019;09/07/2019;5,8
+mapa;sri;Agro-SRI-DTTSF2;LEDFE;Diretor de Temas tecnicos, Sanitários e Fitossanitários;DAS;5;mestrado;veterinaria;UFMG;publica;SE_INT;NA;0;0;1;5;1;NA;DF;PSL;DEM;Bolsonaro;09/07/2019;NA;NA
+mapa;sri;Agro-SRI-CGTSF6;LSAN;Coordenador-Geral de Temas Sanitários e Fitossanitários;FCPE;4;NA;veterinaria;UFF;publica;SE_INT;NA;0;0;1;3;0;NA;NA;PSL;DEM;Bolsonaro;11/07/2019;16/12/2019;5,3
+mapa;sri;Agro-SRI-CGSR1;MAAA;Coordenador-Geral de Sustentabilidade e Regulação;FCPE;4;mestrado;agronomia;UFC;publica;SE_INT;NA;0;0;1;3;1;1;DF;PSL;DEM;Bolsonaro;13/02/2019;NA;NA
+mapa;sri;Agro-SRI-DPI1;MNGA;Diretor de Promoção Internacional / Comercial e Investimentos;DAS;5;superior;administracao;UPE;publica;SVE;NA;0;0;0;0;1;1;NA;PSL;DEM;Bolsonaro;21/02/2019;18/09/2020;19,2
+mapa;sri;Agro-SRI-CGAME4;FAMF;Coordenador-Geral de Ações no Mercado Externo;FCPE;4;NA;NA;NA;NA;EPPGG;NA;0;0;1;3;NA;NA;NA;PSL;DEM;Bolsonaro;15/01/2019;25/07/2019;6,4
+mapa;sri;Agro-SRI-CGAME5;RGRE;Coordenador-Geral de Ações no Mercado Externo;FCPE;4;mestrado;economia;UFRGS;publica;EPPGG;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;12/08/2019;05/04/2020;7,9
+mapa;sri;Agro-SRI-CGAMI1;GCDO;Coordenador-Geral de Ações no Mercado Interno;FCPE;4;mestrado;economia;UnB;publica;OUTRO;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;25/01/2019;23/03/2020;14,1
+mapa;sri;Agro-SRI-CGALA4;LCMA;Coordenador-Geral de Apoio Logístico e Articulação;FCPE_DAS;4;mestrado;administracao;UnB;publica;EPPGG;NA;0;0;1;3;0;0;DF;PSL;DEM;Bolsonaro;23/03/2020;NA;NA
+mapa;sri;Agro-SRI-DNAC1;ALOG;Diretor de Negociações e Análises Comerciais;DAS;5;especializacao;administracao;União Educacional de Brasília;privada;OUTRO;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;22/04/2020;NA;NA
+mapa;sri;Agro-SRI-CGAC1;CHLJR;Coordenador-Geral de Assuntos Comerciais;FCPE;4;especializacao;direito;Universidade Vila Velha;privada;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;NA;NA
+mapa;sri;Agro-SRI-CGEAC1;GCDO;Coordenador-Geral  de Estatística e Análise Comercial;FCPE;4;mestrado;economia;UnB;publica;OUTRO;NA;0;0;1;5;0;NA;DF;PSL;DEM;Bolsonaro;23/03/2020;NA;NA
+mapa;sri;Agro-SRI-CGTSF7;CAVS;Coordenador-Geral de Temas Sanitários e Fitossanitários;FCPE;4;superior;veterinaria;UFPR;publica;SE_INT;NA;0;0;1;3;1;NA;DF;PSL;DEM;Bolsonaro;29/01/2020;NA;NA
+mapa;sri;Agro-SRI-DPCI1;JMFER;Diretor de Promoção Comercial e Investimentos;DAS;5;doutorado;direito;USP;publica;DIPL;NA;0;0;1;5;0;NA;NA;PSL;DEM;Bolsonaro;22/09/2020;NA;NA
+mapa;sri;Agro-SRI-CGPIEC8;ROLB;Coordenador-Geral de Promoção de Investimentos Estrangeiros e Cooperação;DAS;4;superior;administracao;União Educacional de Brasília;privada;SVE;NA;0;0;1;3;0;NA;NA;PSL;DEM;Bolsonaro;23/03/2020;28/05/2020;2,2
+mapa;sri;Agro-SRI-CGPC5;ROLB;Coordenador-Geral de Promoção Comercial;DAS;4;superior;administracao;União Educacional de Brasília;privada;SVE;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;28/05/2020;22/01/2021;8
+mapa;sri;Agro-SRI-CGPC6;ABJO;Coordenador-Geral de Promoção Comercial;DAS;4;mestrado;agronomia;UNESP;publica;VINC;NA;0;0;1;3;0;1;DF;PSL;DEM;Bolsonaro;22/01/2021;29/04/2021;3,2
+mapa;sri;Agro-SRI-CGPC7;ACPA;Coordenador-Geral de Promoção Comercial ;DAS;4;especializacao;zootecnia;UNESP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;09/06/2021;29/11/2021;5,8
+mapa;sri;Agro-SRI-CGPC8;ABJO;Coordenador-Geral de Promoção Comercial;DAS;4;mestrado;agronomia;UNESP;publica;VINC;NA;0;0;1;5;0;1;DF;PSL;DEM;Bolsonaro;29/11/2021;NA;NA
+mapa;sri;Agro-SRI-CGGAA3;ROLB;Coordenador-Geral de Gestão dos Adidos Agrícolas;DAS;4;superior;administracao;União Educacional de Brasília;privada;SVE;NA;0;0;1;3;0;NA;DF;PSL;DEM;Bolsonaro;21/01/2021;NA;NA
+mcti;setec;Tecno-SETEC-S1;ROMO;Secretário de Desenvolvimento e Inovação;DAS;6;doutorado;fisica;USP;publica;MAG_SUP;NA;NA;NA;1;5;1;NA;NA;PT;PT;Lula;26/06/2009;03/02/2012;31,7
+mcti;setec;Tecno-SETEC-CGIT1;RFDAM;Coordenador-Geral de Inovação Tecnológica;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;NA;PT;PT;Lula;09/10/2006;01/04/2014;91,0
+mcti;setec;Tecno-SETEC-CGST1;NGNP;Coordenador-Geral de Serviços Tecnológicos;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;NA;PT;PT;Lula;25/09/2009;16/05/2012;32,1
+mcti;setec;Tecno-SETEC-CGTS1;ADFIL;Coordenador-Geral de Tecnologias Setoriais;DAS;4;mestrado;fisica;USP;publica;SVE;NA;0;0;1;5;0;NA;DF;PT;PT;Lula;05/06/2007;01/06/2013;72,9
+mcti;setec;Tecno-SETEC-CGMNT1;MNBAI;Coordenador-Geral de Micro e Nanotecnologias;DAS;4;doutorado;fisica;UFRGS;publica;MAG_SUP;NA;0;0;1;5;0;NA;NA;PT;PT;Lula;18/03/2010;03/03/2011;11,7
+mcti;setec;Tecno-SETEC-CGMNT2;ADFAZ;Coordenador-Geral de Micro e Nanotecnologias;DAS;4;doutorado;fisica;UnB;publica;MAG_SUP;NA;0;0;1;NA;0;1;NA;PT;PT;Rousseff;03/03/2011;29/07/2011;4,9
+mcti;setec;Tecno-SETEC-CGMNT3;LCPME;Coordenador-Geral de Micro e Nanotecnologias;DAS;4;mestrado;quimica;UFPE;publica;OUTRO;NA;0;0;1;5;0;1;NA;PT;PT;Rousseff;25/08/2011;03/10/2011;1,3
+mcti;setec;Tecno-SETEC-CGMNT4;ADFAZ;Coordenador-Geral de Micro e Nanotecnologias;DAS;4;doutorado;fisica;UnB;publica;MAG_SUP;NA;0;0;1;5;0;1;DF;PT;PT;Rousseff;14/11/2011;14/05/2012;6,1
+mcti;setec;Tecno-SETEC-S2;ATPRA;Secretário de Desenvolvimento e Inovação;DAS;6;doutorado;engenharia mecanica;UnB;publica;MAG_SUP;NA;0;0;1;NA;0;NA;SC;PT;NA;Rousseff;NA;25/08/2014;NA
+mcti;setec;Tecno-SETEC-CGIT2;CALNE;Coordenador-Geral de Inovação Tecnológica;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;PT;NA;Rousseff;01/09/2014;16/12/2016;27,9
+mcti;setec;Tecno-SETEC-CGST2;JMCG;Coordenador-Geral de Serviços Tecnológicos;DAS;4;doutorado;engenharia eletrica;UFRGS;publica;MAG_SUP;NA;0;0;1;NA;0;1;SC;PT;PT;Rousseff;15/08/2012;18/11/2016;51,9
+mcti;setec;Tecno-SETEC-CGMN5;FOPFI;Coordenador-Geral de Micro e Nanotecnologias;DAS;4;doutorado;fisica;UFMG;publica;MAG_SUP;NA;0;0;1;0;0;NA;;PT;PT;Rousseff;27/07/2012;06/02/2015;30,8
+mcti;setec;Tecno-SETEC-S3;AZMI;Secretário de Desenvolvimento e Inovação;DAS;6;doutorado;engenharia mecanica;ITA;publica;MAG_SUP;NA;0;0;1;NA;1;NA;SP;PT;NA;Rousseff;29/08/2014;19/11/2015;14,9
+mcti;setec;Tecno-SETEC-CGTS2;EDSL;Coordenador-Geral de Tecnologias Setoriais;DAS;4;mestrado;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;1;1;DF;PT;NA;Rousseff;11/09/2014;16/11/2016;26,6
+mcti;setec;Tecno-SETEC-S4;ATPRA;Secretário de Desenvolvimento e Inovação;DAS;6;doutorado;engenharia mecanica;UnB;publica;MAG_SUP;NA;0;0;1;5;0;NA;SC;MDB;PSD;Temer;12/07/2016;21/03/2018;20,6
+mcti;setec;Tecno-SETEC-DPPAI1;JMCG;Diretor de Políticas e Programas de Apoio à Inovação;DAS;4;doutorado;engenharia eletrica;UFRGS;publica;MAG_SUP;NA;0;0;1;3;0;1;DF;MDB;PSD;Temer;18/11/2016;30/01/2019;26,8
+mcti;setec;Tecno-SETEC-CGAIE1;LMOVI;Coordenador-Geral de Ambientes Inovadores e Empreendedorismo;FCPE;4;doutorado;economia;UFMS;publica;OUTRO;NA;0;0;0;0;1;1;NA;MDB;PSD;Temer;11/09/2017;01/03/2019;
+mcti;setec;Tecno-SETEC-CGIDT1;CALNE;Coordenador-Geral de Incentivos ao Desenvolvimento Tecnológico e Inovação;DAS;4;NA;NA;NA;NA;SE_INT;NA;0;0;1;3;NA;NA;DF;MDB;PSD;Temer;16/12/2016;01/11/2017;10,7
+mcti;setec;Tecno-SETEC-CGCST1;ECEAZ;Coordenador-Geral de Chefe de Serviços Tecnológicos;FCPE;4;especializacao;administracao;Centro Unificado de Ensino de Brasília;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;PSD;Temer;16/11/2016;01/03/2019;27,8
+mcti;setec;Tecno-SETEC-CGDITE1;EDSL;Coordenador-Geral de Desenvolvimento e Inovação em Tecnologias Setoriais;FCPE;4;mestrado;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;1;1;DF;MDB;PSD;Temer;16/11/2016;30/01/2019;26,8
+mcti;setec;Tecno-SETEC-CGDTCH1;LEABE;Coordenador-Geral de Desenvolvimento e Inovação em Tecnologias Convergentes e Habilitadoras;DAS;4;doutorado;computacao;UNIVALI;privada;SVE;NA;0;0;0;0;1;1;NA;MDB;PSD;Temer;29/03/2017;01/03/2019;23,4
+mcti;setec;Tecno-SETEC-CGDITE1;MACAL;Coordenador-Geral de Desenvolvimento e Inovação em Tecnologias Estratégicas;DAS;4;mestrado;ciencias aeroespaciais;AFA;publica;MIL;NA;0;0;1;3;0;NA;NA;MDB;PSD;Temer;25/01/2017;30/07/2018;18,4
+mcti;setec;Tecno-SETEC-S5;MSMA;Secretário de Desenvolvimento e Inovação;DAS;6;mestrado;engenharia e direito;INATEL;privada;OUTRO;NA;0;0;1;5;0;NA;SC;MDB;PSD;Temer;20/03/2018;17/01/2019;10,1
+mcti;setec;Tecno-SETEC-DPDITE1;ADRMA;Diretor de Políticas de Desenvolvimento e Inovação em Tecnologias Estruturantes;DAS;5;doutorado;quimica;UFSCAR;publica;SVE;NA;0;0;1;0;1;NA;NA;MDB;PSD;Temer;03/07/2018;30/01/2019;7,0
+mcti;setec;Tecno-SETEC-CGDITE2;ROABR;Coordenador-Geral de Desenvolvimento e Inovação de Tecnologias Estratégicas;DAS;4;superior;ciencia politica;UnB;publica;EPPGG;NA;0;0;1;3;0;NA;DF;MDB;PSD;Temer;30/07/2018;30/01/2019;6,1
+mcti;setec;Tecno-SETEC-CGIDTI1;MLRBA;Coordenador-Geral de Incentivos ao Desenvolvimento Tecnológico e Inovação;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;NA;NA;NA;NA;MDB;PSD;Temer;29/06/2018;30/01/2019;7,2
+mcti;sempi;Tecno-SEMPI-S6;PCRCA;Secretário de Desenvolvimento e Inovação / Secretário de Empreendedorismo e Inovação;DAS;6;mestrado;engenharia civil;UFRJ;publica;SVE;NA;0;0;1;5;1;1;NA;PSL;NA;Bolsonaro;17/01/2019;NA;NA
+mcti;sempi;Tecno-SEMPI-DAI1;ADRMA;Diretor de Apoio à Inovação;DAS;5;doutorado;quimica;UFSCAR;publica;SVE;NA;0;0;1;5;1;NA;DF;PSL;NA;Bolsonaro;30/01/2019;12/12/2019;10,5
+mcti;sempi;Tecno-SEMPI-CGEDNI1;HEOMI;Coordenador-Geral de Estímulo ao Desenvolvimento de Negócios Inovadores;DAS;4;superior;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;01/03/2019;11/09/2020;18,7
+mcti;sempi;Tecno-SEMPI-CGIADTI1;MLRBA;Coordenador-Geral de Instrumentos de Apoio ao Desenvolvimento Tecnológico e Inovação;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;DF;PSL;NA;Bolsonaro;30/01/2019;01/11/2019;9,2
+mcti;sempi;Tecno-SEMPI-CGST1;ECEAZ;Coordenador-Geral de Serviços Tecnológicos;FCPE;4;especializacao;administracao;Centro Unificado de Ensino de Brasília;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;01/03/2019;09/10/2020;19,6
+mcti;sempi;Tecno-SEMPI-DTE1;JMCG;Diretor de Tecnologias Estruturantes;DAS;5;doutorado;engenharia eletrica;UFRGS;publica;MAG_SUP;NA;0;0;1;5;0;1;DF;PSL;NA;Bolsonaro;30/01/2019;12/12/2019;10,5
+mcti;sempi;Tecno-SEMPI-CGEN1;EDSL;Coordenador-Geral de Estratégias e Negócios;FCPE;4;mestrado;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;1;1;DF;PSL;NA;Bolsonaro;30/01/2019;01/11/2019;9,2
+mcti;sempi;Tecno-SEMPI-CGDITE1;LEABE;Coordenador-Geral de Desenvolvimento e Inovação de Tecnologias Estratégicas;DAS;4;doutorado;computacao;UNIVALI;privada;SVE;NA;0;0;1;3;1;1;DF;PSL;NA;Bolsonaro;01/03/2019;12/06/2019;3,4
+mcti;sempi;Tecno-SEMPI-DEC1;OVCA;Diretor de Ecossistemas Inovadores;DAS;5;superior;engenharia eletrica;UnB;publica;OUTRO;NA;0;0;1;5;0;NA;DF;PSL;NA;Bolsonaro;01/03/2019;11/09/2020;18,7
+mcti;sempi;Tecno-SEMPI-CGEN2;EDSL;Coordenador-Geral de Empreendedorismo e Negócios;FCPE;4;mestrado;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;1;1;DF;PSL;NA;Bolsonaro;01/11/2019;12/12/2019;1,4
+mcti;sempi;Tecno-SEMPI-CGEI1;SAGAJ;Coordenador-Geral de Empreendedorismo Inovador;DAS;4;mestrado;direito;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;07/03/2019;21/07/2020;16,7
+mcti;sempi;Tecno-SEMPI-DCTID1;JGSGO;Diretor de Ciência, Tecnologia e Inovação Digital;DAS;5;superior;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;NA;Bolsonaro;07/03/2019;NA;NA
+mcti;sempi;Tecno-SEMPI-CGCTID1;TMVNE;Coordenador-Geral de Ciência, Tecnologia e Inovação Digital;DAS;4;superior;economia;USP;publica;OUTRO;NA;0;0;1;3;1;NA;DF;PSL;NA;Bolsonaro;30/01/2019;09/05/2019;3,3
+mcti;sempi;Tecno-SEMPI-CGCTID2;HJMSI;Coordenador-Geral de Ciência, Tecnologia e Inovação Digital;DAS;4;mestrado;engenharia eletrica;UnB;publica;SE_INT;PDT;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;16/05/2019;11/09/2020;16,1
+mcti;sempi;Tecno-SEMPI-DTE2;EDSL;Diretor de Tecnologias Estruturantes;DAS;5;mestrado;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;1;1;DF;PSL;NA;Bolsonaro;12/12/2019;09/10/2020;10,1
+mcti;sempi;Tecno-SEMPI-CGEN3;RSMEN;Coordenador-Geral de Estratégias e Negócios;DAS;4;doutorado;agronomia;UPIS;privada;SE_INT;NA;0;0;1;3;0;1;DF;PSL;NA;Bolsonaro;12/12/2019;11/09/2020;9,1
+mcti;sempi;Tecno-SEMPI-CFDITE1;FSBEL;Coordenador-Geral de Desenvolvimento e Inovação de Tecnologias Estratégicas;DAS;4;doutorado;fisica;UFMS;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;07/08/2019;11/09/2020;13,4
+mcti;sempi;Tecno-SEMPI-DAI2;JMCG;Diretor de Apoio à Inovação;DAS;5;doutorado;engenharia eletrica;UFRGS;publica;MAG_SUP;NA;0;0;1;5;0;1;DF;PSL;NA;Bolsonaro;12/12/2019;11/09/2020;9,1
+mcti;sempi;Tecno-SEMPI-CGID1;HJMSI;Coordenador-Geral de Inovação Digital;FPCE;4;mestrado;engenharia eletrica;UnB;publica;SE_INT;PDT;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;sempi;Tecno-SEMPI-CGTD1;HEOMI;Coordenador-Geral de Tecnologias Digitais;DAS;4;superior;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;sempi;Tecno-SETEC-CGTD1;ECEAZ;Coordenador-Geral de Transformação Digital;DAS;4;especializacao;administracao;Centro Unificado de Ensino de Brasília;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;09/10/2020;NA;NA
+mcti;sempi;Tecno-SEMPI-DTA1;EDSL;Diretor de Tecnologias Aplicadas;DAS;5;mestrado;engenharia eletrica;UnB;publica;SE_INT;NA;0;0;1;5;1;1;DF;PSL;NA;Bolsonaro;09/10/2020;NA;NA
+mcti;sempi;Tecno-SEMPI-CGTS1;RSMEN;Coordenador-Geral de Tecnologias Setoriais;FCPE;4;doutorado;agronomia;UPIS;privada;SE_INT;NA;0;0;1;3;0;1;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;sempi;Tecno-SEMPI-CGTE1;COAOL;Coordenador-Geral de Tecnologias Estratégicas;DAS;4;mestrado;engenharia da computacao;ITA;publica;MIL;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;18/12/2020;3,3
+mcti;sempi;Tecno-SEMPI-CGTE2;RCMAN;Coordenador-Geral de Tecnologias Estratégicas;DAS;4;especializacao;NA;NA;publica;MIL;NA;0;0;1;NA;0;NA;DF;PSL;NA;Bolsonaro;04/02/2021;14/05/2021;3,3
+mcti;sempi;Tecno-SEMPI-CGTE3;FFSAR;Coordenador-Geral de Tecnologias Estratégicas;DAS;4;NA;NA;NA;NA;EPPGG;NA;0;0;1;5;NA;NA;;PSL;NA;Bolsonaro;31/05/2021;NA;NA
+mcti;sempi;Tecno-SEMPI-CGTH1;FSBEL;Coordenador-Geral de Tecnologias Habilitadoras;FCPE;4;doutorado;fisica;UFMS;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;sempi;Tecno-SEMPI-DEI1;MCOPI;Diretor de Empreendedorismo Inovador;DAS;5;mestrado;computacao;UEL;publica;OUTRO;NA;0;0;1;5;1;NA;;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;sempi;Tecno-SEMPI-CGMAI1;MLRBA;Coordenador-Geral de Mecanismos de Apoio à Inovação;DAS;4;NA;NA;NA;NA;OUTRO;NA;0;0;1;3;NA;NA;DF;PSL;NA;Bolsonaro;01/11/2019;08/10/2021;23,6
+mcti;sempi;Tecno-SEMPI-CGMAI2;JACJR;Coordenador-Geral de Mecanismos de Apoio à Inovação;DAS;4;mestrado;engenharia e direito;UFG;publica;OUTRO;NA;0;0;1;5;1;NA;DF;PSL;NA;Bolsonaro;08/10/2021;NA;NA
+mcti;sempi;Tecno-SEMPI-CGAIS1;JOASI;Coordenador-Geral de Ambientes Inovadores e Startups;FCPE;4;superior;engenharia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seapc;Tecno-SEAPC-S1;CGCOR;Secretário de Articulação e Promoção da Ciência;DAS;6;superior;comunicacao;FAAP;privada;SVE;NA;0;0;1;5;1;1;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seapc;Tecno-SEAPC-DAC1;CRASI;Diretor de Articulação e Comunicação;DAS;5;superior;comunicacao;UNITAU;publica;SVE;NA;0;0;1;3;NA;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seapc;Tecno-SEAPC-CGACTI1;JCSNE;Coordenador-Geral de Articulação em Ciência Tecnologia e Inovação;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;1;5;1;NA;NA;PSL;NA;Bolsonaro;11/09/2020;14/04/2021;7,2
+mcti;seapc;Tecno-SEAPC-CGACTI2;DMYOS;Coordenador-Geral de Articulação em Ciência Tecnologia e Inovação;DAS;4;mestrado;automacao industrial;FATEC;publica;SVE;NA;0;0;1;0;0;NA;NA;PSL;NA;Bolsonaro;21/06/2021;NA;NA
+mcti;seapc;Tecno-SEAPC-CGCCTI1;LAAND;Coordenador-Geral de Comunicação em Ciência Tecnologia e Inovação;DAS;4;NA;NA;NA;NA;SVE;NA;0;0;0;0;1;NA;NA;PSL;NA;Bolsonaro;10/11/2020;NA;NA
+mcti;seapc;Tecno-SEAPC-DPDC1;DFLAV;Diretor de Promoção e  Difusão da Ciência;DAS;5;superior;engenharia aeronautica;ITA;publica;SVE;NA;0;0;0;0;0;NA;NA;PSL;NA;Bolsonaro;05/01/2021;NA;NA
+mcti;seapc;Tecno-SEAPC-CGPCTI1;SCSTO;Coordenador-Geral de Popularização da Ciência, Tecnologia e Inovação;DAS;4;especializacao;matematica;UNEMAT;publica;SVE;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;14/09/2020;NA;NA
+mcti;seapc;Tecno-SEAPC-CGPEC1;ISMOR;Coordenador-Geral de Promoção do Ensino de Ciências;DAS;4;mestrado;letras;Faculdade de Educação de João Monlevade ;NA;SVE;NA;0;0;1;0;1;NA;NA;PSL;NA;Bolsonaro;11/09/2020;10/05/2021;8,0
+mcti;seapc;Tecno-SEAPC-CGPEC2;ROMFR;Coordenador-Geral de Promoção do Ensino de Ciências;DAS;4;especializacao;direito;FADI;particular;SVE;PSB;1;0;1;5;1;NA;SP;PSL;NA;Bolsonaro;24/05/2021;NA;NA
+mcti;sefip;Tecno-SEFIP-S1;MAGME;Secretário de Estruturas Financeiras e de Projetos;DAS;6;especializacao;administracao;NA;NA;MIL;NA;0;0;1;5;0;NA;SP;PSL;NA;Bolsonaro;30/06/2020;NA;NA
+mcti;sefip;Tecno-SEFIP-DEPCTI1;CTAPI;Diretor de Estruturas de Projetos em Ciência, Tecnologia e Informação;DAS;5;mestrado;processamento de dados;UnB;publica;OUTRO;NA;0;0;1;5;1;NA;SP;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;sefip;Tecno-SEFIP-CGMP1;DJANO;Coordenador-Geral de Modelagem de Projetos;DAS;4;especializacao;engenharia naval;USP;publica;SVE;NA;0;0;1;3;1;NA;SP;PSL;NA;Bolsonaro;01/10/2020;NA;NA
+mcti;sefip;Tecno-SEFIP-CGEP1;MFSCA;Coordenador-Geral de Estruturação de Projetos;FCPE;4;doutorado;tecnologo;UnB;publica;OUTRO;NA;0;0;1;5;1;NA;SP;PSL;NA;Bolsonaro;11/09/2020;12/07/2021;10,1
+mcti;sefip;Tecno-SEFIP-CGEP2;VMVEN;Coordenador-Geral de Estruturação de Projetos;FCPE;4;especializacao;administracao;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;SP;PSL;NA;Bolsonaro;11/11/2021;NA;NA
+mcti;sefip;Tecno-SEFIP-CGAAPCTI1;EVSAN;Coordenador-Geral de Análise e Avaliação de Políticas de Ciência, Tecnologia e Inovação;DAS;4;mestrado;geografia;UDESC;publica;SE_INT;NA;0;0;1;3;1;NA;SP;PSL;NA;Bolsonaro;19/11/2020;NA;NA
+mcti;sefip;Tecno-SEFIP-DEVFP1;CAMAR;Diretor de Estruturas para Viabilização Financeira de Projetos;DAS;5;mestrado;administracao;NA;NA;MIL;NA;NA;NA;1;5;0;NA;SP;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;sefip;Tecno-SEFIP-CGEF1;VRRCE;Coordenador-Geral de Estruturação Financeira;DAS;4;doutorado;engenharia aeronautica;ITA;publica;MAG_SUP;NA;0;0;1;0;1;NA;SP;PSL;NA;Bolsonaro;09/10/2020;14/04/2021;6,2
+mcti;sefip;Tecno-SEFIP-CGEF2;EDGPE;Coordenador-Geral de Estruturação Financeira;DAS;4;especializacao;contabilidade;UFRJ;publica;SVE;NA;NA;NA;1;3;1;NA;SP;PSL;NA;Bolsonaro;19/04/2021;NA;NA
+mcti;sefip;Tecno-SEFIP-CGMIF1;CAFER;Coordenador-Geral de Modelagem de Instrumentos Financeiros;DAS;4;especializacao;ciencias aeronauticas;NA;NA;MIL;NA;NA;NA;1;3;0;NA;SP;PSL;NA;Bolsonaro;09/10/2020;NA;NA
+mcti;sefip;Tecno-SEFIP-CGAI1;APSOU;Coordenador-Geral de Atração de Investimentos;DAS;4;mestrado;economia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;SP;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPED-S1;LABCA;Secretário de Políticas e Programas de Pesquisa e Desenvolvimento;DAS;6;doutorado;agronomia;UFRPE;publica;SVE;NA;0;0;1;5;0;NA;NA;PT;PT;Lula;17/08/2005;02/02/2011;66,5
+mcti;seped;Tecno-SEPED-CGAAP1;FAPNE;Coordenador-Geral de Acompanhamento e Avaliação para Pesquisa;DAS;4;NA;NA;NA;NA;VINC;NA;0;0;1;3;NA;NA;DF;PT;PT;Lula;27/09/2006;06/01/2014;88,6
+mcti;seped;Tecno-SEPED-DPPT1;MSSFE;Diretor de Políticas e Programas Temáticos;DAS;5;doutorado;quimica;UnB;publica;MAG_SUP;NA;0;0;1;NA;0;NA;DF;PT;PT;Lula;20/04/2010;15/03/2011;11,0
+mcti;seped;Tecno-SEPED-CGGE1;MLBAL;Coordenador-Geral de Gestão de Ecossistema;DAS;4;doutorado;biologia;UnB;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;PT;Lula;27/09/2006;15/04/2011;55,4
+mcti;seped;Tecno-SEPED-CGMGC1;JDGMI;Coordenador-Geral de Mudanças Globais de Clima;DAS;4;mestrado;engenharia eletronica;IME;publica;SVE;NA;0;0;1;3;0;NA;DF;PT;PT;Lula;15/07/2005;07/07/2011;72,8
+mcti;seped;Tecno-SEPED-CGPPB1;MCSMA;Coordenador-Geral de Políticas e Programas em Biodiversidade;DAS;4;doutorado;biologia;Universidade Santa Úrsula;privada;SE_INT;NA;0;0;1;3;0;NA;DF;PT;PT;Lula;23/04/2008;04/08/2011;39,9
+mcti;seped;Tecno-SEPED-CGMCH1;DHSIL;Coordenador-Geral de Meteorologia, Climatologia e Hidrologia;DAS;4;doutorado;fisica;UnB;publica;VINC;NA;0;0;1;3;0;NA;DF;PT;PT;Lula;27/09/2006;13/12/2012;75,6
+mcti;seped;Tecno-SEPED-CGBS1;LHMCP;Coordenador-Geral de Biotecnologia e Saúde;DAS;4;doutorado;odontologia;USP;publica;SE_INT;PODE;0;0;1;0;0;NA;DF;PT;PT;Lula;05/03/2010;16/11/2016;81,6
+mcti;seped;Tecno-SEPED-S2;CANOB;Secretário de Políticas e Programas de Pesquisa e Desenvolvimento;DAS;6;doutorado;engenharia eletronica;ITA;publica;VINC;NA;0;0;1;3;0;1;NA;PT;PT;Rousseff;02/02/2011;12/02/2015;49,0
+mcti;seped;Tecno-SEPED-DPPT2;CAJOL;Diretor de Políticas e Programas Temáticos;DAS;5;doutorado;biologia;USP;publica;MAG_SUP;NA;0;0;1;NA;0;1;NA;PT;PT;Rousseff;15/03/2011;13/03/2012;12,1
+mcti;seped;Tecno-SEPED-CGPPB2;MMCBU;Coordenador-Geral de Gestão de Ecossistema;DAS;4;doutorado;biologia;UERJ;publica;MAG_SUP;NA;0;0;1;0;0;0;NA;PT;PT;Rousseff;04/08/2011;13/03/2012;7,4
+mcti;seped;Tecno-SEPED-CGPPB3;RFFLO;Coordenador-Geral de Gestão de Ecossistema;DAS;4;doutorado;biologia;USU;privada;SVE;NA;0;0;1;0;1;1;NA;PT;NA;Rousseff;03/07/2012;24/04/2013;9,8
+mcti;seped;Tecno-SEPED-CGPPB4;AFPNU;Coordenador-Geral de Gestão de Ecossistema;DAS;4;doutorado;biologia;USU;privada;SE_INT;NA;0;0;1;1;0;NA;DF;PT;NA;Rousseff;09/05/2013;16/12/2016;43,9
+mcti;seped;Tecno-SEPED-DPPT3;MMCBU;Diretor de Políticas e Programas Temáticos;DAS;5;doutorado;biologia;UERJ;publica;MAG_SUP;NA;0;0;1;3;0;0;DF;PT;NA;Rousseff;13/03/2012;07/06/2013;15,0
+mcti;seped;Tecno-SEPED-DPPT4;OLLMO;Diretor de Políticas e Programas Temáticos;DAS;5;doutorado;fisica;UFRGS;publica;MAG_SUP;NA;0;0;1;3;0;NA;NA;PT;NA;Rousseff;30/12/2013;05/06/2015;17,4
+mcti;seped;Tecno-SEPED-CGMGC2;MHCOS;Coordenador-Geral de Mudanças Globais de Clima;DAS;4;doutorado;agronomia;UFV;publica;MAG_SUP;NA;0;0;1;0;0;1;MG;PT;PT;Rousseff;07/07/2011;16/12/2011;5,4
+mcti;seped;Tecno-SEPED-CGMGC3;SANLE;Coordenador-Geral de Mudanças Globais de Clima;DAS;4;doutorado;agronomia;UFCG;publica;SE_INT;NA;0;0;1;0;1;1;NA;PT;NA;Rousseff;19/03/2012;14/01/2013;10,0
+mcti;seped;Tecno-SEPED-CGMGC4;GULUE;Coordenador-Geral de Mudanças Globais de Clima;DAS;4;doutorado;biologia;UnB;publica;OUTRO;NA;0;0;1;0;0;0;NA;PT;NA;Rousseff;14/01/2013;03/09/2014;19,9
+mcti;seped;Tecno-SEPED-CGMGC5;STORA;Coordenador-Geral de Mudanças Globais de Clima;DAS;4;doutorado;geografia;UFRJ;publica;SE_INT;NA;0;0;1;0;0;NA;DF;PT;MDB;Rousseff;07/07/2015;17/12/2015;5,4
+mcti;seped;Tecno-SEPED-CGPPB3;JRTDU;Coordenador-Geral de Políticas e Programas de Biodiversidade;DAS;4;mestrado;biologia;UNISUAM;privada;OUTRO;NA;0;0;1;1;0;NA;NA;PT;PT;Rousseff;04/08/2011;14/07/2014;35,8
+mcti;seped;Tecno-SEPED-CGPB4;BCPNU;Coordenador-Geral de Políticas e Programas de Biodiversidade;DAS;4;mestrado;zootecnia;USP;publica;SE_INT;NA;0;0;1;1;0;NA;;PT;PCdoB;Rousseff;23/06/2015;16/11/2016;17,1
+mcti;seped;Tecno-SEPED-CGMCH2;SRAJR;Coordenador-Geral de Meteorologia, Climatologia e Hidrologia;DAS;4;doutorado;engenharia quimica;UFMG;publica;EPPGG;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;13/12/2012;27/03/2013;3,5
+mcti;seped;Tecno-SEPED-CGAAP2;SRAJR;Coordenador-Geral de Acompanhamento e Avaliação para Pesquisa;DAS;4;doutorado;engenharia quimica;UFMG;publica;EPPGG;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;06/01/2014;26/08/2014;7,7
+mcti;seped;Tecno-SEPED-CGAAP3;MSFAR;Coordenador-Geral de Acompanhamento e Avaliação para Pesquisa;DAS;4;NA;NA;NA;NA;VINC;NA;0;0;1;5;NA;NA;NA;PT;NA;Rousseff;26/08/2014;07/07/2015;10,5
+mcti;seped;Tecno-SEPED-CGMCH3;SRAJR;Coordenador-Geral de Meteorologia, Climatologia e Hidrologia;DAS;4;doutorado;engenharia quimica;UFMG;publica;EPPGG;NA;0;0;1;3;1;NA;DF;PT;NA;Rousseff;22/09/2014;16/11/2016;26,2
+mcti;seped;Tecno-SEPED-DCNMADN1;READF;Diretor do Centro Nacional de Monitoramento de Alertas de Desastres Naturais;DAS;5;doutorado;geologia;UFRGS;publica;MAG_SUP;NA;0;0;1;0;0;NA;NA;PT;PT;Rousseff;20/07/2011;27/04/2012;9,4
+mcti;seped;Tecno-SEPED-DCNMADN2;AGTOG;Diretor do Centro Nacional de Monitoramento de Alertas de Desastres Naturais;DAS;5;graduacao;geologia;USP;publica;SVE;PT;0;0;1;3;0;NA;NA;PT;NA;Rousseff;02/10/2012;26/08/2013;10,9
+mcti;seped;Tecno-SEPED-DCNMADN3;RCSA;Diretor do Centro Nacional de Monitoramento de Alertas de Desastres Naturais (int);DAS;5;doutorado;cartografia;UNESP;publica;VINC;NA;0;0;1;3;0;1;NA;PT;NA;Rousseff;26/08/2013;12/02/2015;17,8
+mcti;seped;Tecno-SEPED-DCNMADN4;CANOB;Diretor do Centro Nacional de Monitoramento de Alertas de Desastres Naturais;DAS;5;doutorado;engenharia eletronica;ITA;publica;VINC;NA;0;0;1;5;0;1;DF;PT;PCdoB;Rousseff;11/02/2015;07/05/2015;2,8
+mcti;seped;Tecno-SEPED-DCNMADN5;OLLMO;Diretor do Centro Nacional de Monitoramento de Alertas de Desastres Naturais;DAS;5;doutorado;fisica;UFRGS;publica;MAG_SUP;NA;0;0;1;5;0;NA;DF;PT;PCdoB;Rousseff;05/06/2015;NA;NA
+mcti;seped;Tecno-SEPED-CGOM1;CFAN;Coordenador-Geral de Operações e Modelagens;DAS;4;doutorado;geografia;UNIVAP;privada;VINC;NA;0;0;1;2;1;NA;NA;PT;PT;Rousseff;31/08/2011;07/05/2013;20,5
+mcti;seped;Tecno-SEPED-CGOM2;PRMSE;Coordenador-Geral de Operações e Modelagens;DAS;4;mestrado;engenharia aeronautica;ITA;publica;VINC;NA;0;0;1;0;1;NA;NA;PT;NA;Rousseff;07/05/2013;18/10/2013;5,5
+mcti;seped;Tecno-SEPED-CGOM3;EMMEE;Coordenador-Geral de Operações e Modelagens;DAS;4;doutorado;ciencias hidricas;Universidad Nacional del Litoral;estrangeira;SVE;NA;0;0;1;0;0;NA;NA;PT;NA;Rousseff;20/05/2014;08/09/2015;15,9
+mcti;seped;Tecno-SEPED-CGPD1;JAVTO;Coordenador-Geral de Pesquisa e Desenvolvimento;DAS;4;doutorado;ciencias hidricas;Universidad Nacional del Litoral;estrangeira;VINC;NA;0;0;1;1;1;NA;NA;PT;PT;Rousseff;31/08/2011;07/05/2013;20,5
+mcti;seped;Tecno-SEPED-CGPD2;MESEL;Coordenador-Geral de Pesquisa e Desenvolvimento;DAS;4;doutorado;meteorologia;Universidad de Buenos Aires;estrangeira;VINC;NA;0;0;1;1;0;NA;NA;PT;NA;Rousseff;24/05/2013;17/07/2013;1,8
+mcti;seped;Tecno-SEPED-CGPD3;MESEL;Coordenador-Geral de Pesquisa e Desenvolvimento;DAS;4;doutorado;meteorologia;Universidad de Buenos Aires;estrangeira;VINC;NA;0;0;1;3;0;NA;NA;PT;NA;Rousseff;07/02/2014;08/09/2015;19,3
+mcti;seped;Tecno-SEPED-CGPD4;EMMEE;Coordenador-Geral de Pesquisa e Desenvolvimento;DAS;4;doutorado;ciencias hidricas;Universidad Nacional del Litoral;estrangeira;SVE;NA;0;0;1;3;0;NA;NA;PT;PCdoB;Rousseff;08/09/2015;NA;NA
+mcti;seped;Tecno-SEPED-CGOM4;MESEL;Coordenador-Geral de Operações e Modelagens;DAS;4;doutorado;meteorologia;Universidad de Buenos Aires;estrangeira;VINC;NA;0;0;1;3;0;NA;DF;PT;PCdoB;Rousseff;08/09/2015;NA;NA
+mcti;seped;Tecno-SEPED-S3;JABAN;Secretário de Políticas e Programas de Pesquisa e Desenvolvimento;DAS;6;doutorado;quimica;UFBA;publica;MAG_SUP;NA;0;0;1;NA;0;1;NA;PT;PCdoB;Rousseff;11/02/2015;14/12/2017;34,6
+mcti;seped;Tecno-SEPED-CGAAP4;FDSLA;Coordenador-Geral de Acompanhamento e Avaliação;DAS;4;doutorado;engenharia de alimentos;UFSC;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;PCdoB;Rousseff;06/07/2015;18/11/2016;16,7
+mcti;seped;Tecno-SEPED-DPPT5;STORA;Diretor de Políticas e Programas Temáticos;DAS;5;doutorado;geografia;UFRJ;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PT;MDB;Rousseff;17/12/2015;16/12/2016;12,2
+mcti;seped;Tecno-SEPED-DPPD1;FDSLA;Diretor de Políticas e Programas de Desenvolvimento;DAS;5;doutorado;engenharia de alimentos;UFSC;publica;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;PSD;Temer;18/11/2016;01/03/2019;27,8
+mcti;seped;Tecno-SEPED-CGB1;BCPNU;Coordenador-Geral de Bioeconomia;DAS;4;mestrado;zootecnia;USP;publica;SE_INT;NA;0;0;1;3;0;NA;;PT;MDB;Rousseff;16/01/2016;01/03/2019;38,0
+mcti;seped;Tecno-SEPED-DPPC1;STORA;Diretor de Políticas e Programas de Ciências;DAS;5;doutorado;geografia;UFRJ;publica;SE_INT;NA;0;0;1;5;0;NA;DF;MDB;PSD;Temer;16/12/2016;07/03/2019;27,0
+mcti;seped;Tecno-SEFAE-CGOAG1;ASSPO;Coordenador-Geral de Oceanos, Antártica e Geociências;FCPE;4;doutorado;biologia;UnB;publica;VINC;NA;0;0;1;3;1;NA;NA;MDB;PSD;Temer;16/11/2016;30/01/2019;26,8
+mcti;seped;Tecno-SEPED-CGC1;MRCRZ;Coordenador-Geral de Clima;FCPE;4;doutorado;biologia;UnB;publica;SE_INT;NA;0;0;1;3;0;1;DF;MDB;PSD;Temer;16/11/2016;30/01/2019;26,8
+mcti;seped;Tecno-SEPED-CGSB1;LHMCP;Coordenador-Geral de Saúde e Biotecnologia;FCPE;4;doutorado;odontologia;USP;publica;SE_INT;PODE;0;0;1;3;0;NA;DF;MDB;PSD;Temer;16/11/2016;17/04/2019;29,4
+mcti;seped;Tecno-SEPED-S4;ATPRA;Secretário de Políticas e Programas de Pesquisa e Desenvolvimento;DAS;6;doutorado;engenharia mecanica;UnB;publica;MAG_SUP;NA;0;0;1;5;0;NA;NA;MDB;PSD;Temer;21/03/2018;11/01/2019;9,9
+mcti;seped;Tecno-SEPED-CGCHSA1;RNRPE;Coordenador-Geral de Ciências Humanas e Sociais Aplicadas;DAS;4;doutorado;antropologia;UnB;publica;SE_INT;NA;0;0;1;0;0;1;DF;MDB;PSD;Temer;31/10/2018;24/10/2019;11,9
+mcti;seped;Tecno-SEPED-S5;MMMOR;Secretário de Políticas e Programas de Pesquisa e Desenvolvimento;DAS;6;doutorado;medicina;USP;publica;MAG_SUP;NA;0;0;1;5;0;1;NA;PSL;NA;Bolsonaro;14/01/2019;07/03/2019;1,7
+mcti;seped;Tecno-SEFAE-S1;MMMOR;Secretário de Políticas para Formação e Ações Estratégicas;DAS;6;doutorado;medicina;USP;publica;MAG_SUP;NA;0;0;1;5;0;1;DF;PSL;NA;Bolsonaro;07/03/2019;11/09/2020;18,5
+mcti;seped;Tecno-SEFAE-DPPC2;STORA;Diretor de Políticas e Programas de Ciência;DAS;5;doutorado;geografia;UFRJ;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;NA;Bolsonaro;07/03/2019;11/09/2020;18,5
+mcti;seped;Tecno-SEFAE-CGCHSA2;JMGFN;Coordenador-Geral de Ciências Humanas e Sociais Aplicadas;DAS;4;mestrado;sociologia;UnB;publica;SVE;NA;0;0;1;NA;0;NA;DF;PSL;NA;Bolsonaro;24/10/2019;11/09/2020;10,8
+mcti;seped;Tecno-SEFAE-CGOAG2;ASSPO;Coordenador-Geral de Oceanos, Antártica e Geociências;FCPE;4;doutorado;biologia;UnB;publica;VINC;NA;0;0;1;3;1;NA;DF;PSL;NA;Bolsonaro;30/01/2019;01/10/2019;8,1
+mcti;seped;Tecno-SEFAE-CGOAG3;KOSCO;Coordenador-Geral de Oceanos, Antártica e Geociências;FCPE;4;mestrado;ciencia politica;UnB;publica;EPPGG;NA;0;0;1;5;0;1;DF;PSL;NA;Bolsonaro;04/12/2019;11/09/2020;9,4
+mcti;seped;Tecno-SEFAE-CGC1;MRCRZ;Coordenador-Geral do Clima;DAS;4;doutorado;biologia;UnB;publica;SE_INT;NA;0;0;1;3;0;1;DF;PSL;NA;Bolsonaro;30/01/2019;11/09/2020;19,7
+mcti;seped;Tecno-SEFAE-DPDC1;FDSLA;Diretor de Programas de Desenvolvimento Científico;DAS;5;doutorado;engenharia de alimentos;UFSC;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;NA;Bolsonaro;01/03/2019;11/09/2020;18,7
+mcti;seped;Tecno-SEFAE-CGSB1;THMMO;Coordenador-Geral de Saúde e Biotecnologia;DAS;4;doutorado;biologia;UNESP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;18/04/2019;11/09/2020;17,1
+mcti;seped;Tecno-SEFAE-CGB1;BCPNU;Coordenador-Geral de Bioeconomia;FCPE;4;mestrado;zootecnia;USP;publica;SE_INT;NA;0;0;1;3;0;NA;;PSL;NA;Bolsonaro;01/03/2019;09/10/2020;19,6
+mcti;seped;Tecno-SEPED-CGBI1;AFPNU;Coordenador-Geral de Biomas;DAS;4;doutorado;biologia;USU;privada;SE_INT;NA;0;0;1;3;0;NA;DF;MDB;PSD;Temer;16/12/2016;17/04/2019;28,4
+mcti;seped;Tecno-SEFAE-CGBI1;LHMCP;Coordenador-Geral de Biomas;DAS;4;doutorado;odontologia;USP;publica;SE_INT;PODE;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;17/04/2019;11/09/2020;17,1
+mcti;seped;Tecno-SEPEF-S1;MMMOR;Secretário de Pesquisa e Formação Científica;DAS;6;doutorado;medicina;USP;publica;MAG_SUP;NA;0;0;1;5;0;1;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPEF-DCN1;STORA;Diretor de Ciências da Natureza;DAS;5;doutorado;geografia;UFRJ;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPEF-CGCOAG1;KOSCO;Coordenador-Geral de Ciência para Oceano, Antártica e Geociências;FCPE;4;mestrado;ciencia politica;UnB;publica;EPPGG;NA;0;0;1;5;0;1;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPEF-CGCCS1;MRCRZ;Coordenador-Geral de Ciência do Clima e Sustentabilidade;DAS;4;doutorado;biologia;UnB;publica;SE_INT;NA;0;0;1;3;0;1;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPEF-CGCB1;LHMCP;Coordenador-Geral de Ciência para Biodiversidade;DAS;4;doutorado;odontologia;USP;publica;SE_INT;PODE;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPEF-DCVDHS1;FDSLA;Diretor de Ciências da Vida e Desenvolvimento Humano e Social;DAS;5;doutorado;engenharia de alimentos;UFSC;publica;SE_INT;NA;0;0;1;5;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPEF-CGCBE1;BCPNU;Coordenador-Geral de Ciência para Bioeconomia;FCPE;4;mestrado;zootecnia;USP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;09/10/2020;NA;NA
+mcti;seped;Tecno-SEPEF-CGCSBA1;THMMO;Coordenador-Geral de Ciências da Saúde, Biotecnológicas e Agrárias;FCPE;4;doutorado;biologia;UNESP;publica;SE_INT;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPEF-CGHS1;JMGFN;Coordenador-Geral de Ciências Humanas e Sociais;DAS;4;mestrado;sociologia;UnB;publica;SVE;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
+mcti;seped;Tecno-SEPEF-CGIFP1;PLCAG;Coordenador-Geral de Infraestrutura e Formação em Pesquisa;DAS;4;doutorado;famarcia;UnB;publica;OUTRO;NA;0;0;1;3;0;NA;DF;PSL;NA;Bolsonaro;11/09/2020;NA;NA
