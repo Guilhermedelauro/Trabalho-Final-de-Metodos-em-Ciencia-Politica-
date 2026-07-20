@@ -1,1 +1,1 @@
-# Trabalho-Final-de-M-todos-em-Ci-ncia-Pol-tica-
+# Trabalho-Final-de-Metodos-em-Ciencia-Politica-
